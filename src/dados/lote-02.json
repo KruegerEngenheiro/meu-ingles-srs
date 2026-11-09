@@ -1,0 +1,2215 @@
+[
+  {
+    "english": "meeting",
+    "translation": "reunião",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈmiːtɪŋ/",
+    "pronunciationHintPtBr": "mí-ting",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "reunião", "definitionEn": "an event where people come together to talk about something", "definitionPtBr": "encontro em que pessoas conversam sobre algo" }
+    ],
+    "exampleEn": "We have a team meeting every Monday morning.",
+    "examplePtBr": "Nós temos uma reunião de equipe toda segunda de manhã.",
+    "dailyUsage": "have a meeting (ter uma reunião), set up a meeting (marcar), be in a meeting (estar em reunião).",
+    "synonyms": ["gathering", "get-together"],
+    "antonyms": [],
+    "collocations": ["schedule a meeting", "attend a meeting", "team meeting"],
+    "usageNotes": "Substantivo contável. Para dizer que está ocupado agora, use 'I'm in a meeting'.",
+    "tags": ["trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "email",
+    "translation": "e-mail, correio eletrônico",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈiːmeɪl/",
+    "pronunciationHintPtBr": "í-meil",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "e-mail", "definitionEn": "a message sent from one computer to another over the internet", "definitionPtBr": "mensagem enviada de um computador para outro pela internet" }
+    ],
+    "exampleEn": "Please send me an email with the details.",
+    "examplePtBr": "Por favor, me envie um e-mail com os detalhes.",
+    "dailyUsage": "send an email (enviar), reply to an email (responder), check your email (conferir).",
+    "synonyms": ["message"],
+    "antonyms": [],
+    "collocations": ["send an email", "reply to an email", "check email"],
+    "usageNotes": "Funciona como substantivo e verbo: 'email me later' (me mande um e-mail depois).",
+    "tags": ["trabalho", "comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "boss",
+    "translation": "chefe, patrão",
+    "partOfSpeech": "noun",
+    "ipa": "/bɔːs/",
+    "pronunciationHintPtBr": "bóss",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "chefe", "definitionEn": "the person who is in charge of you at work", "definitionPtBr": "a pessoa que manda em você no trabalho" }
+    ],
+    "exampleEn": "My boss asked me to finish the report today.",
+    "examplePtBr": "Meu chefe me pediu para terminar o relatório hoje.",
+    "dailyUsage": "talk to your boss (falar com o chefe), ask the boss (perguntar ao chefe).",
+    "synonyms": ["manager", "supervisor"],
+    "antonyms": ["employee", "subordinate"],
+    "collocations": ["my boss", "talk to the boss", "the big boss"],
+    "usageNotes": "Informal. Em contextos formais prefira 'manager' ou 'supervisor'.",
+    "tags": ["trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "job",
+    "translation": "emprego, trabalho",
+    "partOfSpeech": "noun",
+    "ipa": "/dʒɑːb/",
+    "pronunciationHintPtBr": "djáb",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "emprego", "definitionEn": "the work a person does regularly to earn money", "definitionPtBr": "o trabalho que uma pessoa faz regularmente para ganhar dinheiro" },
+      { "translation": "tarefa", "definitionEn": "a specific task or piece of work", "definitionPtBr": "uma tarefa específica" }
+    ],
+    "exampleEn": "She got a new job at a tech company.",
+    "examplePtBr": "Ela conseguiu um emprego novo em uma empresa de tecnologia.",
+    "dailyUsage": "get a job (arrumar emprego), look for a job (procurar), lose a job (perder).",
+    "synonyms": ["position", "role"],
+    "antonyms": [],
+    "collocations": ["get a job", "look for a job", "full-time job"],
+    "usageNotes": "Contável. 'Work' é incontável; 'job' é contável.",
+    "tags": ["trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "team",
+    "translation": "equipe, time",
+    "partOfSpeech": "noun",
+    "ipa": "/tiːm/",
+    "pronunciationHintPtBr": "tím",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "equipe", "definitionEn": "a group of people who work together", "definitionPtBr": "grupo de pessoas que trabalham juntas" }
+    ],
+    "exampleEn": "Our team is small but very productive.",
+    "examplePtBr": "Nossa equipe é pequena, mas muito produtiva.",
+    "dailyUsage": "join a team (entrar na equipe), lead a team (liderar), team member (membro).",
+    "synonyms": ["group", "crew"],
+    "antonyms": [],
+    "collocations": ["join a team", "lead a team", "team member"],
+    "usageNotes": "No inglês americano costuma levar verbo no singular: 'the team is ready'.",
+    "tags": ["trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "office",
+    "translation": "escritório",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈɔːfəs/",
+    "pronunciationHintPtBr": "ó-fis",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "escritório", "definitionEn": "a place where people work, usually at desks", "definitionPtBr": "lugar onde as pessoas trabalham, geralmente em mesas" }
+    ],
+    "exampleEn": "I go to the office three days a week.",
+    "examplePtBr": "Eu vou ao escritório três dias por semana.",
+    "dailyUsage": "at the office (no escritório), work from the office, main office (matriz).",
+    "synonyms": ["workplace"],
+    "antonyms": [],
+    "collocations": ["at the office", "office building", "head office"],
+    "usageNotes": "Use 'at the office' para localização e 'in the office' para dentro do prédio.",
+    "tags": ["trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "money",
+    "translation": "dinheiro",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈmʌni/",
+    "pronunciationHintPtBr": "mâ-ni",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "dinheiro", "definitionEn": "coins and bills used to buy things", "definitionPtBr": "moedas e notas usadas para comprar coisas" }
+    ],
+    "exampleEn": "The company is making a lot of money this year.",
+    "examplePtBr": "A empresa está ganhando muito dinheiro este ano.",
+    "dailyUsage": "make money (ganhar), spend money (gastar), save money (economizar).",
+    "synonyms": ["cash", "funds"],
+    "antonyms": [],
+    "collocations": ["make money", "spend money", "save money"],
+    "usageNotes": "Incontável. Nunca diga 'moneys'; use 'a lot of money'.",
+    "tags": ["negocios", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "pay",
+    "translation": "pagar",
+    "partOfSpeech": "verb",
+    "ipa": "/peɪ/",
+    "pronunciationHintPtBr": "pêi",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "pagar", "definitionEn": "to give money for something you buy or owe", "definitionPtBr": "dar dinheiro por algo que você compra ou deve" }
+    ],
+    "exampleEn": "The client will pay the invoice next week.",
+    "examplePtBr": "O cliente vai pagar a fatura na semana que vem.",
+    "dailyUsage": "pay for something (pagar por algo), pay someone (pagar alguém), pay in cash.",
+    "synonyms": ["settle"],
+    "antonyms": ["owe"],
+    "collocations": ["pay a bill", "pay in cash", "pay on time"],
+    "usageNotes": "Verbo irregular: pay, paid, paid. Use 'pay for' antes do objeto comprado.",
+    "tags": ["negocios", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "company",
+    "translation": "empresa, companhia",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈkʌmpəni/",
+    "pronunciationHintPtBr": "câm-pã-ni",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "empresa", "definitionEn": "a business that sells goods or services", "definitionPtBr": "um negócio que vende produtos ou serviços" }
+    ],
+    "exampleEn": "He started his own company two years ago.",
+    "examplePtBr": "Ele abriu a própria empresa há dois anos.",
+    "dailyUsage": "start a company (abrir), run a company (tocar), work for a company.",
+    "synonyms": ["business", "firm"],
+    "antonyms": [],
+    "collocations": ["start a company", "run a company", "big company"],
+    "usageNotes": "Contável. Plural 'companies'. 'Firm' é mais usado para empresas de serviços.",
+    "tags": ["negocios", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "manager",
+    "translation": "gerente, gestor",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈmænɪdʒər/",
+    "pronunciationHintPtBr": "mé-ni-djer",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "gerente", "definitionEn": "a person who controls a team or part of a company", "definitionPtBr": "pessoa que controla uma equipe ou parte de uma empresa" }
+    ],
+    "exampleEn": "The sales manager will join the call at noon.",
+    "examplePtBr": "O gerente de vendas vai entrar na chamada ao meio-dia.",
+    "dailyUsage": "report to a manager (se reportar), ask your manager (perguntar).",
+    "synonyms": ["supervisor", "boss"],
+    "antonyms": ["subordinate"],
+    "collocations": ["project manager", "sales manager", "report to a manager"],
+    "usageNotes": "Mais formal que 'boss'. Comum em cargos: project manager, account manager.",
+    "tags": ["trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "customer",
+    "translation": "cliente, freguês",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈkʌstəmər/",
+    "pronunciationHintPtBr": "câs-tã-mer",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "cliente", "definitionEn": "a person who buys goods or services from a business", "definitionPtBr": "pessoa que compra produtos ou serviços de um negócio" }
+    ],
+    "exampleEn": "A happy customer often comes back to buy more.",
+    "examplePtBr": "Um cliente satisfeito costuma voltar para comprar mais.",
+    "dailyUsage": "serve a customer (atender), customer service (atendimento), loyal customer (fiel).",
+    "synonyms": ["client", "buyer"],
+    "antonyms": ["seller", "vendor"],
+    "collocations": ["customer service", "loyal customer", "customer support"],
+    "usageNotes": "'Customer' compra produtos; 'client' costuma contratar serviços profissionais.",
+    "tags": ["negocios", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "price",
+    "translation": "preço",
+    "partOfSpeech": "noun",
+    "ipa": "/praɪs/",
+    "pronunciationHintPtBr": "práis",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "preço", "definitionEn": "the amount of money you pay for something", "definitionPtBr": "a quantia de dinheiro que você paga por algo" }
+    ],
+    "exampleEn": "The price of the product went up last month.",
+    "examplePtBr": "O preço do produto subiu no mês passado.",
+    "dailyUsage": "raise the price (aumentar), lower the price (baixar), full price (preço cheio).",
+    "synonyms": ["cost", "rate"],
+    "antonyms": [],
+    "collocations": ["raise the price", "lower the price", "fair price"],
+    "usageNotes": "Não confunda com 'prize' (prêmio), que tem som e sentido diferentes.",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "sell",
+    "translation": "vender",
+    "partOfSpeech": "verb",
+    "ipa": "/sel/",
+    "pronunciationHintPtBr": "séu",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "vender", "definitionEn": "to give something to someone in exchange for money", "definitionPtBr": "dar algo a alguém em troca de dinheiro" }
+    ],
+    "exampleEn": "We sell our products online and in stores.",
+    "examplePtBr": "Nós vendemos nossos produtos online e em lojas.",
+    "dailyUsage": "sell out (esgotar), sell online, hard to sell (difícil de vender).",
+    "synonyms": ["market"],
+    "antonyms": ["buy"],
+    "collocations": ["sell products", "sell online", "sell out"],
+    "usageNotes": "Verbo irregular: sell, sold, sold.",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "buy",
+    "translation": "comprar",
+    "partOfSpeech": "verb",
+    "ipa": "/baɪ/",
+    "pronunciationHintPtBr": "bái",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "comprar", "definitionEn": "to get something by paying money for it", "definitionPtBr": "obter algo pagando dinheiro por ele" }
+    ],
+    "exampleEn": "Customers can buy the plan with a single click.",
+    "examplePtBr": "Os clientes podem comprar o plano com um único clique.",
+    "dailyUsage": "buy something (comprar algo), buy from a supplier, buy in bulk (em grande quantidade).",
+    "synonyms": ["purchase"],
+    "antonyms": ["sell"],
+    "collocations": ["buy online", "buy in bulk", "buy a product"],
+    "usageNotes": "Verbo irregular: buy, bought, bought. 'Purchase' é a versão formal.",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "plan",
+    "translation": "plano, planejar",
+    "partOfSpeech": "noun",
+    "ipa": "/plæn/",
+    "pronunciationHintPtBr": "plén",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "plano", "definitionEn": "a set of actions you decide to do in the future", "definitionPtBr": "conjunto de ações que você decide fazer no futuro" },
+      { "translation": "planejar", "definitionEn": "to decide in detail what you will do", "definitionPtBr": "decidir em detalhes o que você vai fazer" }
+    ],
+    "exampleEn": "The team made a clear plan for the next quarter.",
+    "examplePtBr": "A equipe fez um plano claro para o próximo trimestre.",
+    "dailyUsage": "make a plan (fazer), stick to the plan (seguir), plan ahead (planejar com antecedência).",
+    "synonyms": ["strategy", "scheme"],
+    "antonyms": [],
+    "collocations": ["make a plan", "business plan", "plan ahead"],
+    "usageNotes": "Como verbo pede 'to': 'we plan to launch in May'.",
+    "tags": ["negocios", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "report",
+    "translation": "relatório, reportar",
+    "partOfSpeech": "noun",
+    "ipa": "/rɪˈpɔːrt/",
+    "pronunciationHintPtBr": "ri-pórt",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "relatório", "definitionEn": "a written document that gives information about something", "definitionPtBr": "documento escrito que informa sobre algo" },
+      { "translation": "reportar-se", "definitionEn": "to tell someone in authority about something", "definitionPtBr": "informar alguém com autoridade sobre algo" }
+    ],
+    "exampleEn": "She sends the sales report every Friday.",
+    "examplePtBr": "Ela envia o relatório de vendas toda sexta.",
+    "dailyUsage": "write a report (escrever), submit a report (entregar), report to someone (se reportar a alguém).",
+    "synonyms": ["summary"],
+    "antonyms": [],
+    "collocations": ["write a report", "sales report", "report to a manager"],
+    "usageNotes": "'Report to' indica a quem você se reporta na hierarquia.",
+    "tags": ["trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "call",
+    "translation": "ligar, ligação",
+    "partOfSpeech": "verb",
+    "ipa": "/kɔːl/",
+    "pronunciationHintPtBr": "cóu",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "ligar", "definitionEn": "to talk to someone using the phone", "definitionPtBr": "falar com alguém pelo telefone" },
+      { "translation": "ligação, chamada", "definitionEn": "a phone or video conversation", "definitionPtBr": "uma conversa por telefone ou vídeo" }
+    ],
+    "exampleEn": "I will call the supplier to confirm the order.",
+    "examplePtBr": "Vou ligar para o fornecedor para confirmar o pedido.",
+    "dailyUsage": "make a call (fazer uma ligação), jump on a call (entrar numa chamada), call back (retornar).",
+    "synonyms": ["phone", "ring"],
+    "antonyms": [],
+    "collocations": ["make a call", "conference call", "call back"],
+    "usageNotes": "Em reuniões remotas, 'a call' virou sinônimo de videoconferência.",
+    "tags": ["comunicacao", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "send",
+    "translation": "enviar, mandar",
+    "partOfSpeech": "verb",
+    "ipa": "/send/",
+    "pronunciationHintPtBr": "sénd",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "enviar", "definitionEn": "to make something go to someone or somewhere", "definitionPtBr": "fazer algo chegar a alguém ou a algum lugar" }
+    ],
+    "exampleEn": "Please send the file before the end of the day.",
+    "examplePtBr": "Por favor, envie o arquivo antes do fim do dia.",
+    "dailyUsage": "send an email, send a file, send over (encaminhar).",
+    "synonyms": ["forward", "dispatch"],
+    "antonyms": ["receive"],
+    "collocations": ["send an email", "send a file", "send a message"],
+    "usageNotes": "Verbo irregular: send, sent, sent.",
+    "tags": ["comunicacao", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "busy",
+    "translation": "ocupado, movimentado",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˈbɪzi/",
+    "pronunciationHintPtBr": "bí-zi",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "ocupado", "definitionEn": "having a lot of things to do", "definitionPtBr": "com muitas coisas para fazer" }
+    ],
+    "exampleEn": "I am too busy to take the call right now.",
+    "examplePtBr": "Estou ocupado demais para atender a ligação agora.",
+    "dailyUsage": "busy day (dia corrido), busy with work (ocupado com o trabalho), keep busy (manter-se ocupado).",
+    "synonyms": ["occupied", "swamped"],
+    "antonyms": ["free", "idle"],
+    "collocations": ["busy day", "busy schedule", "too busy"],
+    "usageNotes": "Use 'busy with' + substantivo e 'busy doing' + verbo no gerúndio.",
+    "tags": ["trabalho", "cotidiano"],
+    "source": "seed"
+  },
+  {
+    "english": "late",
+    "translation": "atrasado, tarde",
+    "partOfSpeech": "adjective",
+    "ipa": "/leɪt/",
+    "pronunciationHintPtBr": "lêit",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "atrasado", "definitionEn": "arriving or happening after the expected time", "definitionPtBr": "que chega ou acontece depois do horário esperado" }
+    ],
+    "exampleEn": "He was late for the morning meeting again.",
+    "examplePtBr": "Ele chegou atrasado para a reunião da manhã de novo.",
+    "dailyUsage": "be late (estar atrasado), run late (estar atrasando), late payment (pagamento atrasado).",
+    "synonyms": ["delayed", "overdue"],
+    "antonyms": ["early", "on time"],
+    "collocations": ["be late", "run late", "late payment"],
+    "usageNotes": "Funciona como adjetivo e advérbio: 'he arrived late' (chegou tarde).",
+    "tags": ["trabalho", "cotidiano"],
+    "source": "seed"
+  },
+  {
+    "english": "staff",
+    "translation": "equipe, funcionários",
+    "partOfSpeech": "noun",
+    "ipa": "/stæf/",
+    "pronunciationHintPtBr": "stéf",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "equipe de funcionários", "definitionEn": "all the people who work for a company", "definitionPtBr": "todas as pessoas que trabalham numa empresa" }
+    ],
+    "exampleEn": "The store hired more staff for the holidays.",
+    "examplePtBr": "A loja contratou mais funcionários para as festas.",
+    "dailyUsage": "staff member (funcionário), train staff (treinar), cut staff (cortar pessoal).",
+    "synonyms": ["employees", "personnel"],
+    "antonyms": [],
+    "collocations": ["staff member", "train staff", "full staff"],
+    "usageNotes": "Substantivo coletivo; para um só use 'a staff member', não 'a staff'.",
+    "tags": ["trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "salary",
+    "translation": "salário",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈsæləri/",
+    "pronunciationHintPtBr": "sé-lã-ri",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "salário", "definitionEn": "a fixed amount of money paid to an employee, usually monthly", "definitionPtBr": "quantia fixa paga a um funcionário, geralmente por mês" }
+    ],
+    "exampleEn": "The new job offers a higher salary and good benefits.",
+    "examplePtBr": "O novo emprego oferece um salário maior e bons benefícios.",
+    "dailyUsage": "earn a salary (receber), base salary (salário-base), negotiate a salary.",
+    "synonyms": ["pay", "wage"],
+    "antonyms": [],
+    "collocations": ["earn a salary", "base salary", "annual salary"],
+    "usageNotes": "'Salary' é mensal e fixo; 'wage' costuma ser por hora.",
+    "tags": ["trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "schedule",
+    "translation": "agenda, cronograma, agendar",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈskedʒuːl/",
+    "pronunciationHintPtBr": "ské-djuu",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "cronograma, agenda", "definitionEn": "a plan that lists times for events or tasks", "definitionPtBr": "plano que lista os horários de eventos ou tarefas" },
+      { "translation": "agendar", "definitionEn": "to arrange for something to happen at a certain time", "definitionPtBr": "marcar algo para acontecer em certo horário" }
+    ],
+    "exampleEn": "Let's schedule the call for Tuesday afternoon.",
+    "examplePtBr": "Vamos agendar a chamada para terça à tarde.",
+    "dailyUsage": "a tight schedule (agenda apertada), behind schedule (atrasado), schedule a meeting.",
+    "synonyms": ["agenda", "timetable"],
+    "antonyms": [],
+    "collocations": ["busy schedule", "ahead of schedule", "schedule a meeting"],
+    "usageNotes": "Pronúncia americana começa com som de 'sk'. 'On schedule' = no prazo.",
+    "tags": ["trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "hire",
+    "translation": "contratar",
+    "partOfSpeech": "verb",
+    "ipa": "/ˈhaɪər/",
+    "pronunciationHintPtBr": "rrái-er",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "contratar", "definitionEn": "to give someone a job", "definitionPtBr": "dar um emprego a alguém" }
+    ],
+    "exampleEn": "The company plans to hire two developers this month.",
+    "examplePtBr": "A empresa planeja contratar dois desenvolvedores este mês.",
+    "dailyUsage": "hire someone (contratar), a new hire (um novo contratado), hire for a role.",
+    "synonyms": ["recruit", "take on"],
+    "antonyms": ["fire", "lay off"],
+    "collocations": ["hire staff", "new hire", "hire a candidate"],
+    "usageNotes": "No inglês americano 'hire' é contratar pessoas. 'A new hire' é um substantivo informal.",
+    "tags": ["trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "work",
+    "translation": "trabalhar, trabalho",
+    "partOfSpeech": "verb",
+    "ipa": "/wɜːrk/",
+    "pronunciationHintPtBr": "uérk",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "trabalhar", "definitionEn": "to do a job to earn money", "definitionPtBr": "fazer um serviço para ganhar dinheiro" },
+      { "translation": "funcionar", "definitionEn": "to operate correctly", "definitionPtBr": "operar corretamente" }
+    ],
+    "exampleEn": "I work in the sales department downtown.",
+    "examplePtBr": "Eu trabalho no departamento de vendas no centro.",
+    "dailyUsage": "work for a company (trabalhar para uma empresa), work from home (de casa), work hard (duro).",
+    "synonyms": ["labor", "function"],
+    "antonyms": ["rest"],
+    "collocations": ["work hard", "work from home", "work full-time"],
+    "usageNotes": "Como substantivo é incontável: diga 'a lot of work', nunca 'works'.",
+    "tags": ["trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "budget",
+    "translation": "orçamento",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈbʌdʒɪt/",
+    "pronunciationHintPtBr": "bâ-djét",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "orçamento", "definitionEn": "a plan for how much money you can spend", "definitionPtBr": "plano de quanto dinheiro você pode gastar" }
+    ],
+    "exampleEn": "We went over budget on the marketing campaign.",
+    "examplePtBr": "Nós estouramos o orçamento na campanha de marketing.",
+    "dailyUsage": "set a budget (definir), over budget (acima do orçamento), tight budget (apertado).",
+    "synonyms": ["funds", "allowance"],
+    "antonyms": [],
+    "collocations": ["set a budget", "over budget", "tight budget"],
+    "usageNotes": "'Over budget' = gastou mais que o previsto; 'under budget' = gastou menos.",
+    "tags": ["negocios", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "invoice",
+    "translation": "fatura, nota fiscal",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈɪnvɔɪs/",
+    "pronunciationHintPtBr": "ín-vóis",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "fatura", "definitionEn": "a document asking for payment for goods or services", "definitionPtBr": "documento que pede pagamento por produtos ou serviços" }
+    ],
+    "exampleEn": "I'll send the invoice as soon as the work is done.",
+    "examplePtBr": "Vou enviar a fatura assim que o trabalho estiver pronto.",
+    "dailyUsage": "send an invoice (enviar), pay an invoice (pagar), overdue invoice (vencida).",
+    "synonyms": ["bill"],
+    "antonyms": [],
+    "collocations": ["send an invoice", "pay an invoice", "overdue invoice"],
+    "usageNotes": "Também é verbo: 'we invoice clients monthly' (faturamos os clientes mensalmente).",
+    "tags": ["negocios", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "colleague",
+    "translation": "colega de trabalho",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈkɑːliːɡ/",
+    "pronunciationHintPtBr": "cá-lig",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "colega de trabalho", "definitionEn": "a person you work with", "definitionPtBr": "uma pessoa com quem você trabalha" }
+    ],
+    "exampleEn": "My colleague helped me finish the presentation.",
+    "examplePtBr": "Meu colega me ajudou a terminar a apresentação.",
+    "dailyUsage": "a close colleague (colega próximo), former colleague (ex-colega), work with a colleague.",
+    "synonyms": ["coworker", "teammate"],
+    "antonyms": [],
+    "collocations": ["close colleague", "former colleague", "fellow colleague"],
+    "usageNotes": "No inglês americano 'coworker' é ainda mais comum que 'colleague'.",
+    "tags": ["trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "agenda",
+    "translation": "pauta, ordem do dia",
+    "partOfSpeech": "noun",
+    "ipa": "/əˈdʒendə/",
+    "pronunciationHintPtBr": "ã-djén-dã",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "pauta", "definitionEn": "a list of topics to discuss in a meeting", "definitionPtBr": "lista de assuntos a discutir numa reunião" }
+    ],
+    "exampleEn": "The first item on the agenda is the budget.",
+    "examplePtBr": "O primeiro item da pauta é o orçamento.",
+    "dailyUsage": "set an agenda (definir a pauta), on the agenda (na pauta), a packed agenda (cheia).",
+    "synonyms": ["schedule", "program"],
+    "antonyms": [],
+    "collocations": ["set an agenda", "on the agenda", "meeting agenda"],
+    "usageNotes": "Em inglês 'agenda' é a pauta da reunião, não o caderninho de contatos.",
+    "tags": ["trabalho", "comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "attachment",
+    "translation": "anexo",
+    "partOfSpeech": "noun",
+    "ipa": "/əˈtætʃmənt/",
+    "pronunciationHintPtBr": "ã-té-tchment",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "anexo", "definitionEn": "a file sent together with an email", "definitionPtBr": "arquivo enviado junto com um e-mail" }
+    ],
+    "exampleEn": "You can find the contract in the attachment.",
+    "examplePtBr": "Você encontra o contrato no anexo.",
+    "dailyUsage": "open the attachment (abrir), see the attachment (ver), email attachment.",
+    "synonyms": ["enclosure", "file"],
+    "antonyms": [],
+    "collocations": ["open the attachment", "email attachment", "attach a file"],
+    "usageNotes": "O verbo é 'attach': 'I attached the file' (anexei o arquivo).",
+    "tags": ["comunicacao", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "reply",
+    "translation": "responder, resposta",
+    "partOfSpeech": "verb",
+    "ipa": "/rɪˈplaɪ/",
+    "pronunciationHintPtBr": "ri-plái",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "responder", "definitionEn": "to answer someone, often in writing", "definitionPtBr": "dar uma resposta a alguém, muitas vezes por escrito" }
+    ],
+    "exampleEn": "Please reply to the client by the end of the day.",
+    "examplePtBr": "Por favor, responda ao cliente até o fim do dia.",
+    "dailyUsage": "reply to an email (responder), a quick reply (resposta rápida), reply all (responder a todos).",
+    "synonyms": ["answer", "respond"],
+    "antonyms": [],
+    "collocations": ["reply to an email", "quick reply", "reply all"],
+    "usageNotes": "Pede 'to': 'reply to the message'. Cuidado com 'reply all' em e-mails longos.",
+    "tags": ["comunicacao", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "forward",
+    "translation": "encaminhar",
+    "partOfSpeech": "verb",
+    "ipa": "/ˈfɔːrwərd/",
+    "pronunciationHintPtBr": "fór-uerd",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "encaminhar", "definitionEn": "to send a message you received on to another person", "definitionPtBr": "enviar para outra pessoa uma mensagem que você recebeu" }
+    ],
+    "exampleEn": "Can you forward that email to the whole team?",
+    "examplePtBr": "Você pode encaminhar aquele e-mail para toda a equipe?",
+    "dailyUsage": "forward an email (encaminhar), forward to someone, forwarded message.",
+    "synonyms": ["pass on", "send on"],
+    "antonyms": [],
+    "collocations": ["forward an email", "forward a message", "forward the details"],
+    "usageNotes": "Como advérbio significa 'para frente'; aqui é o verbo de e-mail.",
+    "tags": ["comunicacao", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "deal",
+    "translation": "negócio, acordo",
+    "partOfSpeech": "noun",
+    "ipa": "/diːl/",
+    "pronunciationHintPtBr": "díu",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "acordo, negócio", "definitionEn": "an agreement, usually in business, that benefits both sides", "definitionPtBr": "um acordo, geralmente comercial, que beneficia os dois lados" },
+      { "translation": "oferta vantajosa", "definitionEn": "something you buy at a good price", "definitionPtBr": "algo que você compra por um bom preço" }
+    ],
+    "exampleEn": "We closed a big deal with a new supplier.",
+    "examplePtBr": "Nós fechamos um grande negócio com um novo fornecedor.",
+    "dailyUsage": "close a deal (fechar), a good deal (boa oferta), seal the deal (selar o acordo).",
+    "synonyms": ["agreement", "bargain"],
+    "antonyms": [],
+    "collocations": ["close a deal", "good deal", "seal the deal"],
+    "usageNotes": "'Big deal' no sentido figurado significa 'grande coisa'.",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "client",
+    "translation": "cliente",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈklaɪənt/",
+    "pronunciationHintPtBr": "clái-ent",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "cliente", "definitionEn": "a person or company that pays for professional services", "definitionPtBr": "pessoa ou empresa que paga por serviços profissionais" }
+    ],
+    "exampleEn": "The client approved the proposal this morning.",
+    "examplePtBr": "O cliente aprovou a proposta hoje de manhã.",
+    "dailyUsage": "a key client (cliente importante), meet a client (reunir-se), client base (carteira de clientes).",
+    "synonyms": ["customer", "account"],
+    "antonyms": [],
+    "collocations": ["key client", "meet a client", "client base"],
+    "usageNotes": "'Client' contrata serviços; 'customer' compra produtos em geral.",
+    "tags": ["negocios", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "supplier",
+    "translation": "fornecedor",
+    "partOfSpeech": "noun",
+    "ipa": "/səˈplaɪər/",
+    "pronunciationHintPtBr": "sã-plái-er",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "fornecedor", "definitionEn": "a company that provides goods or materials to another", "definitionPtBr": "empresa que fornece produtos ou materiais a outra" }
+    ],
+    "exampleEn": "Our main supplier raised prices last quarter.",
+    "examplePtBr": "Nosso principal fornecedor aumentou os preços no último trimestre.",
+    "dailyUsage": "find a supplier (achar), main supplier (principal), switch suppliers (trocar).",
+    "synonyms": ["vendor", "provider"],
+    "antonyms": ["buyer", "client"],
+    "collocations": ["main supplier", "find a supplier", "reliable supplier"],
+    "usageNotes": "O verbo é 'supply': 'they supply us with parts'.",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "revenue",
+    "translation": "receita, faturamento",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈrevənuː/",
+    "pronunciationHintPtBr": "ré-vã-nu",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "receita", "definitionEn": "the total money a business earns from sales", "definitionPtBr": "o total de dinheiro que um negócio ganha com as vendas" }
+    ],
+    "exampleEn": "The company grew its revenue by thirty percent.",
+    "examplePtBr": "A empresa aumentou a receita em trinta por cento.",
+    "dailyUsage": "grow revenue (aumentar), total revenue (receita total), revenue stream (fonte de receita).",
+    "synonyms": ["income", "sales"],
+    "antonyms": ["expense", "cost"],
+    "collocations": ["grow revenue", "total revenue", "revenue stream"],
+    "usageNotes": "Receita é o total das vendas; lucro é o que sobra depois dos custos.",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "profit",
+    "translation": "lucro",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈprɑːfɪt/",
+    "pronunciationHintPtBr": "prá-fit",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "lucro", "definitionEn": "the money left after you subtract costs from sales", "definitionPtBr": "o dinheiro que sobra depois de descontar os custos das vendas" }
+    ],
+    "exampleEn": "The store made a small profit in its first year.",
+    "examplePtBr": "A loja teve um pequeno lucro no primeiro ano.",
+    "dailyUsage": "make a profit (ter lucro), net profit (lucro líquido), profit margin (margem de lucro).",
+    "synonyms": ["gain", "earnings"],
+    "antonyms": ["loss"],
+    "collocations": ["make a profit", "net profit", "profit margin"],
+    "usageNotes": "Não confunda 'profit' (lucro) com 'revenue' (receita total).",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "loss",
+    "translation": "prejuízo, perda",
+    "partOfSpeech": "noun",
+    "ipa": "/lɔːs/",
+    "pronunciationHintPtBr": "lóss",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "prejuízo", "definitionEn": "money a business loses when costs are higher than income", "definitionPtBr": "dinheiro que um negócio perde quando os custos passam a receita" }
+    ],
+    "exampleEn": "The branch reported a loss for the second year.",
+    "examplePtBr": "A filial registrou prejuízo pelo segundo ano.",
+    "dailyUsage": "make a loss (ter prejuízo), at a loss (no prejuízo), cut losses (parar as perdas).",
+    "synonyms": ["deficit"],
+    "antonyms": ["profit", "gain"],
+    "collocations": ["make a loss", "net loss", "cut losses"],
+    "usageNotes": "'At a loss' também significa 'sem saber o que fazer'.",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "discount",
+    "translation": "desconto",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈdɪskaʊnt/",
+    "pronunciationHintPtBr": "dís-caunt",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "desconto", "definitionEn": "an amount taken off the normal price", "definitionPtBr": "um valor retirado do preço normal" }
+    ],
+    "exampleEn": "We offer a ten percent discount for early payment.",
+    "examplePtBr": "Oferecemos dez por cento de desconto para pagamento antecipado.",
+    "dailyUsage": "offer a discount (oferecer), get a discount (conseguir), a big discount (grande).",
+    "synonyms": ["reduction", "markdown"],
+    "antonyms": ["markup"],
+    "collocations": ["offer a discount", "get a discount", "bulk discount"],
+    "usageNotes": "Como verbo: 'we discounted the price' (baixamos o preço).",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "refund",
+    "translation": "reembolso, estorno",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈriːfʌnd/",
+    "pronunciationHintPtBr": "rí-fând",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "reembolso", "definitionEn": "money given back to a customer", "definitionPtBr": "dinheiro devolvido a um cliente" }
+    ],
+    "exampleEn": "The customer asked for a full refund.",
+    "examplePtBr": "O cliente pediu o reembolso total.",
+    "dailyUsage": "ask for a refund (pedir), get a refund (receber), full refund (total).",
+    "synonyms": ["reimbursement"],
+    "antonyms": [],
+    "collocations": ["full refund", "ask for a refund", "issue a refund"],
+    "usageNotes": "Verbo com acento diferente: 'to refund' (ri-FÂND) tem tônica no fim.",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "promote",
+    "translation": "promover, divulgar",
+    "partOfSpeech": "verb",
+    "ipa": "/prəˈmoʊt/",
+    "pronunciationHintPtBr": "prã-môut",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "promover (cargo)", "definitionEn": "to move someone to a higher job position", "definitionPtBr": "mover alguém para um cargo mais alto" },
+      { "translation": "divulgar", "definitionEn": "to help sell a product by advertising it", "definitionPtBr": "ajudar a vender um produto fazendo propaganda" }
+    ],
+    "exampleEn": "They promoted her to head of sales.",
+    "examplePtBr": "Eles a promoveram para chefe de vendas.",
+    "dailyUsage": "get promoted (ser promovido), promote a product (divulgar), promote a campaign.",
+    "synonyms": ["advance", "advertise"],
+    "antonyms": ["demote"],
+    "collocations": ["get promoted", "promote a product", "promote growth"],
+    "usageNotes": "O substantivo de carreira é 'promotion' (promoção).",
+    "tags": ["trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "apply",
+    "translation": "candidatar-se, aplicar",
+    "partOfSpeech": "verb",
+    "ipa": "/əˈplaɪ/",
+    "pronunciationHintPtBr": "ã-plái",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "candidatar-se", "definitionEn": "to ask formally for a job or position", "definitionPtBr": "pedir formalmente um emprego ou vaga" },
+      { "translation": "aplicar", "definitionEn": "to use or put something into practice", "definitionPtBr": "usar ou pôr algo em prática" }
+    ],
+    "exampleEn": "I applied for the marketing position last week.",
+    "examplePtBr": "Eu me candidatei à vaga de marketing na semana passada.",
+    "dailyUsage": "apply for a job (candidatar-se), apply online, apply a rule (aplicar uma regra).",
+    "synonyms": ["request"],
+    "antonyms": [],
+    "collocations": ["apply for a job", "apply online", "apply a discount"],
+    "usageNotes": "Para vagas use 'apply for'; o substantivo é 'application' (candidatura).",
+    "tags": ["trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "interview",
+    "translation": "entrevista",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈɪntərvjuː/",
+    "pronunciationHintPtBr": "ín-ter-viu",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "entrevista", "definitionEn": "a formal meeting to decide if someone is right for a job", "definitionPtBr": "encontro formal para decidir se alguém serve para uma vaga" }
+    ],
+    "exampleEn": "She has a job interview on Thursday.",
+    "examplePtBr": "Ela tem uma entrevista de emprego na quinta.",
+    "dailyUsage": "have an interview (ter), job interview (de emprego), ace an interview (arrasar).",
+    "synonyms": ["meeting"],
+    "antonyms": [],
+    "collocations": ["job interview", "have an interview", "interview questions"],
+    "usageNotes": "Também é verbo: 'they interviewed five candidates'.",
+    "tags": ["trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "resume",
+    "translation": "currículo",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈrezəmeɪ/",
+    "pronunciationHintPtBr": "ré-zu-mei",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "currículo", "definitionEn": "a short document listing your work experience and skills", "definitionPtBr": "documento curto que lista sua experiência e suas habilidades" }
+    ],
+    "exampleEn": "Attach your resume to the application email.",
+    "examplePtBr": "Anexe seu currículo ao e-mail de candidatura.",
+    "dailyUsage": "update your resume (atualizar), send a resume (enviar), a strong resume (forte).",
+    "synonyms": ["CV"],
+    "antonyms": [],
+    "collocations": ["update your resume", "send a resume", "strong resume"],
+    "usageNotes": "No inglês americano usa-se 'resume'; no britânico, 'CV'. O verbo 'resume' (retomar) tem outro som.",
+    "tags": ["trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "candidate",
+    "translation": "candidato",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈkændɪdeɪt/",
+    "pronunciationHintPtBr": "quén-di-deit",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "candidato", "definitionEn": "a person who applies for a job or position", "definitionPtBr": "pessoa que se candidata a um emprego ou vaga" }
+    ],
+    "exampleEn": "We interviewed three strong candidates for the role.",
+    "examplePtBr": "Nós entrevistamos três candidatos fortes para a vaga.",
+    "dailyUsage": "a strong candidate (forte), the ideal candidate (ideal), shortlist candidates (selecionar).",
+    "synonyms": ["applicant"],
+    "antonyms": [],
+    "collocations": ["strong candidate", "ideal candidate", "shortlist candidates"],
+    "usageNotes": "Em RH, 'applicant' é quem se candidatou; 'candidate' é quem avançou no processo.",
+    "tags": ["trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "skill",
+    "translation": "habilidade, competência",
+    "partOfSpeech": "noun",
+    "ipa": "/skɪl/",
+    "pronunciationHintPtBr": "skíu",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "habilidade", "definitionEn": "the ability to do something well, learned with practice", "definitionPtBr": "a capacidade de fazer algo bem, aprendida com prática" }
+    ],
+    "exampleEn": "Communication is a key skill for any manager.",
+    "examplePtBr": "Comunicação é uma habilidade essencial para qualquer gestor.",
+    "dailyUsage": "develop a skill (desenvolver), soft skills (habilidades interpessoais), key skill (essencial).",
+    "synonyms": ["ability", "competence"],
+    "antonyms": [],
+    "collocations": ["develop a skill", "soft skills", "key skill"],
+    "usageNotes": "O adjetivo 'skilled' significa 'qualificado, habilidoso'.",
+    "tags": ["trabalho", "estudos"],
+    "source": "seed"
+  },
+  {
+    "english": "task",
+    "translation": "tarefa",
+    "partOfSpeech": "noun",
+    "ipa": "/tæsk/",
+    "pronunciationHintPtBr": "tésk",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "tarefa", "definitionEn": "a piece of work that must be done", "definitionPtBr": "um trabalho que precisa ser feito" }
+    ],
+    "exampleEn": "I have a long list of tasks for today.",
+    "examplePtBr": "Eu tenho uma longa lista de tarefas para hoje.",
+    "dailyUsage": "complete a task (concluir), assign a task (atribuir), daily tasks (diárias).",
+    "synonyms": ["job", "assignment"],
+    "antonyms": [],
+    "collocations": ["complete a task", "assign a task", "daily tasks"],
+    "usageNotes": "'Task' é uma unidade de trabalho; várias tarefas formam um 'project'.",
+    "tags": ["trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "project",
+    "translation": "projeto",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈprɑːdʒekt/",
+    "pronunciationHintPtBr": "prá-djékt",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "projeto", "definitionEn": "a planned piece of work with a clear goal", "definitionPtBr": "um trabalho planejado com um objetivo claro" }
+    ],
+    "exampleEn": "The team is working on a new project this quarter.",
+    "examplePtBr": "A equipe está trabalhando em um novo projeto neste trimestre.",
+    "dailyUsage": "run a project (tocar), project manager (gerente de projeto), kick off a project (iniciar).",
+    "synonyms": ["initiative", "venture"],
+    "antonyms": [],
+    "collocations": ["run a project", "project manager", "project plan"],
+    "usageNotes": "O substantivo tem tônica no começo; o verbo 'to project' tem tônica no fim.",
+    "tags": ["trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "target",
+    "translation": "meta, alvo",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈtɑːrɡɪt/",
+    "pronunciationHintPtBr": "tár-guét",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "meta", "definitionEn": "a result you aim to reach", "definitionPtBr": "um resultado que você pretende alcançar" }
+    ],
+    "exampleEn": "The sales team hit its target for the month.",
+    "examplePtBr": "A equipe de vendas bateu a meta do mês.",
+    "dailyUsage": "hit a target (bater a meta), set a target (definir), monthly target (mensal).",
+    "synonyms": ["goal", "objective"],
+    "antonyms": [],
+    "collocations": ["hit a target", "set a target", "sales target"],
+    "usageNotes": "'Target audience' é o público-alvo em marketing.",
+    "tags": ["negocios", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "goal",
+    "translation": "objetivo, meta",
+    "partOfSpeech": "noun",
+    "ipa": "/ɡoʊl/",
+    "pronunciationHintPtBr": "góu",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "objetivo", "definitionEn": "something you want to accomplish", "definitionPtBr": "algo que você quer realizar" }
+    ],
+    "exampleEn": "Our main goal is to grow the customer base.",
+    "examplePtBr": "Nosso principal objetivo é ampliar a base de clientes.",
+    "dailyUsage": "set a goal (definir), reach a goal (alcançar), long-term goal (de longo prazo).",
+    "synonyms": ["objective", "aim"],
+    "antonyms": [],
+    "collocations": ["set a goal", "reach a goal", "long-term goal"],
+    "usageNotes": "'Goal' é mais amplo; 'target' costuma trazer número ou prazo.",
+    "tags": ["trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "feedback",
+    "translation": "retorno, devolutiva",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈfiːdbæk/",
+    "pronunciationHintPtBr": "fíd-béc",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "retorno", "definitionEn": "comments about how good or useful something is", "definitionPtBr": "comentários sobre o quanto algo é bom ou útil" }
+    ],
+    "exampleEn": "The manager gave me helpful feedback on my report.",
+    "examplePtBr": "O gerente me deu um retorno útil sobre o meu relatório.",
+    "dailyUsage": "give feedback (dar), get feedback (receber), honest feedback (sincero).",
+    "synonyms": ["comments", "input"],
+    "antonyms": [],
+    "collocations": ["give feedback", "get feedback", "honest feedback"],
+    "usageNotes": "Incontável: diga 'some feedback', nunca 'feedbacks'.",
+    "tags": ["trabalho", "comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "follow up",
+    "translation": "dar continuidade, retomar contato",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌfɑːloʊ ˈʌp/",
+    "pronunciationHintPtBr": "fá-lou âp",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "dar continuidade", "definitionEn": "to do something more to check on or continue a previous action", "definitionPtBr": "fazer algo a mais para verificar ou continuar uma ação anterior" }
+    ],
+    "exampleEn": "I'll follow up with the client after the meeting.",
+    "examplePtBr": "Vou retomar o contato com o cliente depois da reunião.",
+    "dailyUsage": "follow up on an email (dar sequência), follow up with someone (retomar contato).",
+    "synonyms": ["check in", "pursue"],
+    "antonyms": [],
+    "collocations": ["follow up with a client", "follow up on an email", "quick follow-up"],
+    "usageNotes": "Como substantivo vira 'a follow-up' (um acompanhamento), com hífen.",
+    "tags": ["phrasal-verb", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "sign up",
+    "translation": "inscrever-se, cadastrar-se",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌsaɪn ˈʌp/",
+    "pronunciationHintPtBr": "sáin âp",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "inscrever-se", "definitionEn": "to put your name on a list to join or register for something", "definitionPtBr": "colocar seu nome em uma lista para participar ou se registrar em algo" }
+    ],
+    "exampleEn": "Hundreds of users signed up for the free trial.",
+    "examplePtBr": "Centenas de usuários se cadastraram para o teste grátis.",
+    "dailyUsage": "sign up for a course (inscrever-se), sign up online, sign-up form (formulário).",
+    "synonyms": ["register", "enroll"],
+    "antonyms": ["cancel", "unsubscribe"],
+    "collocations": ["sign up for a trial", "sign up online", "sign-up form"],
+    "usageNotes": "Use 'sign up for' + atividade. O substantivo é 'a sign-up'.",
+    "tags": ["phrasal-verb", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "set up",
+    "translation": "montar, configurar, organizar",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌset ˈʌp/",
+    "pronunciationHintPtBr": "sét âp",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "configurar, montar", "definitionEn": "to prepare or arrange something so it is ready to use", "definitionPtBr": "preparar ou arrumar algo para que fique pronto para usar" }
+    ],
+    "exampleEn": "Let's set up a call for next week.",
+    "examplePtBr": "Vamos marcar uma chamada para a semana que vem.",
+    "dailyUsage": "set up a meeting (marcar), set up an account (criar), set up a business (abrir).",
+    "synonyms": ["arrange", "establish"],
+    "antonyms": ["take down"],
+    "collocations": ["set up a meeting", "set up an account", "set up a system"],
+    "usageNotes": "O substantivo 'setup' (sem hífen) é a configuração ou o arranjo.",
+    "tags": ["phrasal-verb", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "carry out",
+    "translation": "executar, realizar",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌkæri ˈaʊt/",
+    "pronunciationHintPtBr": "ké-ri áut",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "executar", "definitionEn": "to do or complete a planned task", "definitionPtBr": "fazer ou concluir uma tarefa planejada" }
+    ],
+    "exampleEn": "The team carried out the plan without problems.",
+    "examplePtBr": "A equipe executou o plano sem problemas.",
+    "dailyUsage": "carry out a task (executar), carry out a plan (realizar), carry out research (conduzir).",
+    "synonyms": ["perform", "execute"],
+    "antonyms": [],
+    "collocations": ["carry out a plan", "carry out a task", "carry out research"],
+    "usageNotes": "Mais formal que 'do'. Comum em relatórios e descrições de processos.",
+    "tags": ["phrasal-verb", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "take over",
+    "translation": "assumir, assumir o controle",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌteɪk ˈoʊvər/",
+    "pronunciationHintPtBr": "têik ô-ver",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "assumir", "definitionEn": "to take control of something from another person", "definitionPtBr": "assumir o controle de algo que era de outra pessoa" }
+    ],
+    "exampleEn": "She will take over the project while I am away.",
+    "examplePtBr": "Ela vai assumir o projeto enquanto eu estiver fora.",
+    "dailyUsage": "take over a task (assumir), take over a company (comprar o controle), take over from someone.",
+    "synonyms": ["assume control", "inherit"],
+    "antonyms": ["hand over"],
+    "collocations": ["take over a project", "take over a company", "take over the lead"],
+    "usageNotes": "O substantivo 'takeover' é a aquisição de uma empresa por outra.",
+    "tags": ["phrasal-verb", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "hand in",
+    "translation": "entregar",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌhænd ˈɪn/",
+    "pronunciationHintPtBr": "rrénd ín",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "entregar", "definitionEn": "to give a completed piece of work to someone in charge", "definitionPtBr": "dar um trabalho concluído a alguém responsável" }
+    ],
+    "exampleEn": "You need to hand in the report by Friday.",
+    "examplePtBr": "Você precisa entregar o relatório até sexta.",
+    "dailyUsage": "hand in a report (entregar), hand in your notice (pedir demissão), hand it in on time.",
+    "synonyms": ["submit", "turn in"],
+    "antonyms": [],
+    "collocations": ["hand in a report", "hand in your notice", "hand in on time"],
+    "usageNotes": "'Hand in your notice' significa pedir demissão formalmente.",
+    "tags": ["phrasal-verb", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "fill out",
+    "translation": "preencher",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌfɪl ˈaʊt/",
+    "pronunciationHintPtBr": "fíu áut",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "preencher", "definitionEn": "to write information in the spaces of a form", "definitionPtBr": "escrever informações nos espaços de um formulário" }
+    ],
+    "exampleEn": "Please fill out this form before the interview.",
+    "examplePtBr": "Por favor, preencha este formulário antes da entrevista.",
+    "dailyUsage": "fill out a form (preencher), fill out an application, fill it out completely.",
+    "synonyms": ["complete", "fill in"],
+    "antonyms": [],
+    "collocations": ["fill out a form", "fill out an application", "fill out the details"],
+    "usageNotes": "No inglês americano 'fill out'; no britânico 'fill in' é mais comum.",
+    "tags": ["phrasal-verb", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "teamwork",
+    "translation": "trabalho em equipe",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈtiːmwɜːrk/",
+    "pronunciationHintPtBr": "tím-uerk",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "trabalho em equipe", "definitionEn": "the effort of a group working together well", "definitionPtBr": "o esforço de um grupo que trabalha bem junto" }
+    ],
+    "exampleEn": "Good teamwork made the launch a success.",
+    "examplePtBr": "O bom trabalho em equipe fez do lançamento um sucesso.",
+    "dailyUsage": "good teamwork (bom), promote teamwork (incentivar), teamwork skills (habilidades).",
+    "synonyms": ["collaboration", "cooperation"],
+    "antonyms": [],
+    "collocations": ["good teamwork", "promote teamwork", "teamwork skills"],
+    "usageNotes": "Incontável. Não se usa no plural.",
+    "tags": ["trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "workload",
+    "translation": "carga de trabalho",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈwɜːrkloʊd/",
+    "pronunciationHintPtBr": "uerk-lôud",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "carga de trabalho", "definitionEn": "the amount of work a person has to do", "definitionPtBr": "a quantidade de trabalho que uma pessoa precisa fazer" }
+    ],
+    "exampleEn": "My workload is heavy at the end of the month.",
+    "examplePtBr": "Minha carga de trabalho fica pesada no fim do mês.",
+    "dailyUsage": "heavy workload (pesada), manage your workload (administrar), share the workload (dividir).",
+    "synonyms": ["load"],
+    "antonyms": [],
+    "collocations": ["heavy workload", "manage workload", "share the workload"],
+    "usageNotes": "Combina com 'heavy/light' (pesada/leve), não 'big/small'.",
+    "tags": ["trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "overtime",
+    "translation": "hora extra",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈoʊvərtaɪm/",
+    "pronunciationHintPtBr": "ô-ver-taim",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "hora extra", "definitionEn": "time you work beyond your normal hours", "definitionPtBr": "tempo que você trabalha além do horário normal" }
+    ],
+    "exampleEn": "We worked overtime to finish before the launch.",
+    "examplePtBr": "Nós fizemos hora extra para terminar antes do lançamento.",
+    "dailyUsage": "work overtime (fazer hora extra), paid overtime (remunerada), overtime pay (pagamento).",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": ["work overtime", "overtime pay", "paid overtime"],
+    "usageNotes": "Incontável. Funciona também como advérbio: 'she works overtime'.",
+    "tags": ["trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "shift",
+    "translation": "turno, plantão",
+    "partOfSpeech": "noun",
+    "ipa": "/ʃɪft/",
+    "pronunciationHintPtBr": "chíft",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "turno", "definitionEn": "a set period of work during the day or night", "definitionPtBr": "um período fixo de trabalho durante o dia ou a noite" }
+    ],
+    "exampleEn": "She works the night shift at the warehouse.",
+    "examplePtBr": "Ela trabalha no turno da noite no depósito.",
+    "dailyUsage": "night shift (turno da noite), cover a shift (cobrir), swap shifts (trocar).",
+    "synonyms": ["turn"],
+    "antonyms": [],
+    "collocations": ["night shift", "cover a shift", "work in shifts"],
+    "usageNotes": "Como verbo significa 'mudar, deslocar': 'the market shifted'.",
+    "tags": ["trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "benefit",
+    "translation": "benefício, vantagem",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈbenɪfɪt/",
+    "pronunciationHintPtBr": "bé-ni-fit",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "benefício", "definitionEn": "an advantage you get from something", "definitionPtBr": "uma vantagem que você obtém de algo" },
+      { "translation": "benefício de trabalho", "definitionEn": "extra things a job gives besides salary", "definitionPtBr": "extras que um emprego oferece além do salário" }
+    ],
+    "exampleEn": "The job comes with great health benefits.",
+    "examplePtBr": "O emprego vem com ótimos benefícios de saúde.",
+    "dailyUsage": "health benefits (de saúde), a clear benefit (vantagem clara), benefit from something (beneficiar-se).",
+    "synonyms": ["advantage", "perk"],
+    "antonyms": ["drawback"],
+    "collocations": ["health benefits", "benefit from", "key benefit"],
+    "usageNotes": "Como verbo pede 'from': 'we benefit from the deal'.",
+    "tags": ["trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "raise",
+    "translation": "aumento (de salário)",
+    "partOfSpeech": "noun",
+    "ipa": "/reɪz/",
+    "pronunciationHintPtBr": "rêiz",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "aumento salarial", "definitionEn": "an increase in the money you are paid", "definitionPtBr": "um aumento no dinheiro que você recebe" },
+      { "translation": "levantar, aumentar", "definitionEn": "to lift or increase something", "definitionPtBr": "erguer ou aumentar algo" }
+    ],
+    "exampleEn": "She asked her boss for a raise.",
+    "examplePtBr": "Ela pediu um aumento ao chefe.",
+    "dailyUsage": "ask for a raise (pedir aumento), get a raise (conseguir), raise prices (aumentar preços).",
+    "synonyms": ["increase", "pay rise"],
+    "antonyms": ["cut"],
+    "collocations": ["ask for a raise", "get a raise", "raise prices"],
+    "usageNotes": "No inglês americano é 'a raise'; no britânico, 'a pay rise'.",
+    "tags": ["trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "bonus",
+    "translation": "bônus, gratificação",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈboʊnəs/",
+    "pronunciationHintPtBr": "bô-nãs",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "bônus", "definitionEn": "extra money paid for good work or results", "definitionPtBr": "dinheiro extra pago por bom trabalho ou resultados" }
+    ],
+    "exampleEn": "The team earned a bonus for hitting the target.",
+    "examplePtBr": "A equipe ganhou um bônus por bater a meta.",
+    "dailyUsage": "a year-end bonus (de fim de ano), earn a bonus (ganhar), performance bonus (por desempenho).",
+    "synonyms": ["reward", "incentive"],
+    "antonyms": [],
+    "collocations": ["year-end bonus", "performance bonus", "earn a bonus"],
+    "usageNotes": "Plural: 'bonuses'.",
+    "tags": ["trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "contract",
+    "translation": "contrato",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈkɑːntrækt/",
+    "pronunciationHintPtBr": "cán-tract",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "contrato", "definitionEn": "a written legal agreement between two sides", "definitionPtBr": "um acordo legal por escrito entre duas partes" }
+    ],
+    "exampleEn": "Both sides signed the contract yesterday.",
+    "examplePtBr": "Ambas as partes assinaram o contrato ontem.",
+    "dailyUsage": "sign a contract (assinar), renew a contract (renovar), break a contract (quebrar).",
+    "synonyms": ["agreement"],
+    "antonyms": [],
+    "collocations": ["sign a contract", "renew a contract", "contract terms"],
+    "usageNotes": "O substantivo tem tônica no começo; o verbo 'to contract' no fim.",
+    "tags": ["negocios", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "negotiate",
+    "translation": "negociar",
+    "partOfSpeech": "verb",
+    "ipa": "/nɪˈɡoʊʃieɪt/",
+    "pronunciationHintPtBr": "ni-gô-chi-eit",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "negociar", "definitionEn": "to talk in order to reach an agreement", "definitionPtBr": "conversar para chegar a um acordo" }
+    ],
+    "exampleEn": "We negotiated a better price with the supplier.",
+    "examplePtBr": "Nós negociamos um preço melhor com o fornecedor.",
+    "dailyUsage": "negotiate a deal (negociar), negotiate terms (termos), negotiate a salary.",
+    "synonyms": ["bargain"],
+    "antonyms": [],
+    "collocations": ["negotiate a deal", "negotiate a price", "negotiate terms"],
+    "usageNotes": "O substantivo é 'negotiation' (negociação).",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "launch",
+    "translation": "lançar, lançamento",
+    "partOfSpeech": "verb",
+    "ipa": "/lɔːntʃ/",
+    "pronunciationHintPtBr": "lóntch",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "lançar", "definitionEn": "to make a product or service available for the first time", "definitionPtBr": "disponibilizar um produto ou serviço pela primeira vez" }
+    ],
+    "exampleEn": "The company will launch the new app in March.",
+    "examplePtBr": "A empresa vai lançar o novo aplicativo em março.",
+    "dailyUsage": "launch a product (lançar), product launch (lançamento), soft launch (lançamento discreto).",
+    "synonyms": ["release", "roll out"],
+    "antonyms": ["discontinue"],
+    "collocations": ["launch a product", "product launch", "launch a campaign"],
+    "usageNotes": "Também é substantivo: 'the launch went well' (o lançamento foi bem).",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "improve",
+    "translation": "melhorar, aprimorar",
+    "partOfSpeech": "verb",
+    "ipa": "/ɪmˈpruːv/",
+    "pronunciationHintPtBr": "im-prúv",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "melhorar", "definitionEn": "to make something better or become better", "definitionPtBr": "tornar algo melhor ou ficar melhor" }
+    ],
+    "exampleEn": "We need to improve our customer service.",
+    "examplePtBr": "Nós precisamos melhorar nosso atendimento ao cliente.",
+    "dailyUsage": "improve quality (melhorar a qualidade), improve results, room to improve (espaço para melhorar).",
+    "synonyms": ["enhance", "boost"],
+    "antonyms": ["worsen"],
+    "collocations": ["improve quality", "improve results", "improve performance"],
+    "usageNotes": "O substantivo é 'improvement' (melhoria).",
+    "tags": ["trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "increase",
+    "translation": "aumentar, aumento",
+    "partOfSpeech": "verb",
+    "ipa": "/ɪnˈkriːs/",
+    "pronunciationHintPtBr": "in-crís",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "aumentar", "definitionEn": "to make something larger in number or amount", "definitionPtBr": "tornar algo maior em número ou quantidade" }
+    ],
+    "exampleEn": "Sales increased after the new campaign.",
+    "examplePtBr": "As vendas aumentaram depois da nova campanha.",
+    "dailyUsage": "increase sales (aumentar vendas), a sharp increase (forte aumento), increase by ten percent.",
+    "synonyms": ["rise", "grow"],
+    "antonyms": ["decrease", "reduce"],
+    "collocations": ["increase sales", "sharp increase", "increase by"],
+    "usageNotes": "O verbo tem tônica no fim; o substantivo 'an increase', no começo.",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "stakeholder",
+    "translation": "parte interessada, envolvido",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈsteɪkhoʊldər/",
+    "pronunciationHintPtBr": "stêik-rôul-der",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "parte interessada", "definitionEn": "a person or group affected by a project or decision", "definitionPtBr": "pessoa ou grupo afetado por um projeto ou decisão" }
+    ],
+    "exampleEn": "We need buy-in from all key stakeholders.",
+    "examplePtBr": "Precisamos do apoio de todas as partes interessadas.",
+    "dailyUsage": "key stakeholders (principais), align stakeholders (alinhar), stakeholder buy-in (apoio).",
+    "synonyms": ["party", "player"],
+    "antonyms": [],
+    "collocations": ["key stakeholders", "align stakeholders", "stakeholder buy-in"],
+    "usageNotes": "Palavra típica de gestão de projetos; inclui clientes, equipe, investidores.",
+    "tags": ["negocios", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "leverage",
+    "translation": "alavancar, aproveitar",
+    "partOfSpeech": "verb",
+    "ipa": "/ˈlevərɪdʒ/",
+    "pronunciationHintPtBr": "lé-ve-ridj",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "alavancar", "definitionEn": "to use something you have to get the most benefit", "definitionPtBr": "usar algo que você tem para obter o máximo de benefício" }
+    ],
+    "exampleEn": "We can leverage our data to reach better customers.",
+    "examplePtBr": "Podemos aproveitar nossos dados para alcançar clientes melhores.",
+    "dailyUsage": "leverage data (aproveitar dados), leverage resources, leverage a relationship.",
+    "synonyms": ["use", "exploit"],
+    "antonyms": ["waste"],
+    "collocations": ["leverage data", "leverage resources", "leverage technology"],
+    "usageNotes": "Jargão corporativo. Em finanças, o substantivo significa 'alavancagem'.",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "streamline",
+    "translation": "simplificar, otimizar",
+    "partOfSpeech": "verb",
+    "ipa": "/ˈstriːmlaɪn/",
+    "pronunciationHintPtBr": "strím-lain",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "simplificar processos", "definitionEn": "to make a process simpler and more efficient", "definitionPtBr": "tornar um processo mais simples e eficiente" }
+    ],
+    "exampleEn": "The new software helped streamline our workflow.",
+    "examplePtBr": "O novo software ajudou a otimizar nosso fluxo de trabalho.",
+    "dailyUsage": "streamline a process (otimizar), streamline operations, streamline the workflow.",
+    "synonyms": ["simplify", "optimize"],
+    "antonyms": ["complicate"],
+    "collocations": ["streamline a process", "streamline operations", "streamline the workflow"],
+    "usageNotes": "Sugere remover etapas desnecessárias para ganhar velocidade.",
+    "tags": ["negocios", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "outsource",
+    "translation": "terceirizar",
+    "partOfSpeech": "verb",
+    "ipa": "/ˈaʊtsɔːrs/",
+    "pronunciationHintPtBr": "áut-sors",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "terceirizar", "definitionEn": "to pay an outside company to do work for you", "definitionPtBr": "pagar uma empresa externa para fazer um trabalho para você" }
+    ],
+    "exampleEn": "They decided to outsource customer support.",
+    "examplePtBr": "Eles decidiram terceirizar o suporte ao cliente.",
+    "dailyUsage": "outsource work (terceirizar), outsource to another country, outsource a service.",
+    "synonyms": ["subcontract"],
+    "antonyms": ["insource"],
+    "collocations": ["outsource work", "outsource support", "outsource production"],
+    "usageNotes": "O substantivo 'outsourcing' é a prática de terceirizar.",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "onboarding",
+    "translation": "integração (de novo funcionário)",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈɑːnbɔːrdɪŋ/",
+    "pronunciationHintPtBr": "ón-bor-ding",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "integração", "definitionEn": "the process of welcoming and training a new employee", "definitionPtBr": "o processo de receber e treinar um novo funcionário" }
+    ],
+    "exampleEn": "A good onboarding helps new hires feel confident.",
+    "examplePtBr": "Uma boa integração ajuda os novos contratados a se sentirem confiantes.",
+    "dailyUsage": "onboarding process (processo de integração), employee onboarding, onboarding plan.",
+    "synonyms": ["integration", "induction"],
+    "antonyms": ["offboarding"],
+    "collocations": ["onboarding process", "employee onboarding", "onboarding plan"],
+    "usageNotes": "Também usado para clientes: 'customer onboarding' é a ativação do cliente.",
+    "tags": ["trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "turnover",
+    "translation": "rotatividade, faturamento",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈtɜːrnoʊvər/",
+    "pronunciationHintPtBr": "tern-ô-ver",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "rotatividade", "definitionEn": "the rate at which employees leave and are replaced", "definitionPtBr": "a taxa com que funcionários saem e são substituídos" },
+      { "translation": "faturamento", "definitionEn": "the total amount of business done in a period", "definitionPtBr": "o total de negócios feitos em um período" }
+    ],
+    "exampleEn": "High staff turnover is hurting the team.",
+    "examplePtBr": "A alta rotatividade de pessoal está prejudicando a equipe.",
+    "dailyUsage": "high turnover (alta rotatividade), staff turnover (de pessoal), annual turnover (faturamento anual).",
+    "synonyms": ["churn"],
+    "antonyms": ["retention"],
+    "collocations": ["high turnover", "staff turnover", "annual turnover"],
+    "usageNotes": "O sentido muda com o contexto: pessoas (rotatividade) ou dinheiro (faturamento).",
+    "tags": ["negocios", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "retention",
+    "translation": "retenção",
+    "partOfSpeech": "noun",
+    "ipa": "/rɪˈtenʃən/",
+    "pronunciationHintPtBr": "ri-tén-chãn",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "retenção", "definitionEn": "the act of keeping customers or employees over time", "definitionPtBr": "o ato de manter clientes ou funcionários ao longo do tempo" }
+    ],
+    "exampleEn": "Customer retention is cheaper than finding new clients.",
+    "examplePtBr": "A retenção de clientes é mais barata do que buscar novos.",
+    "dailyUsage": "customer retention (de clientes), improve retention (melhorar), retention rate (taxa).",
+    "synonyms": ["keeping"],
+    "antonyms": ["churn", "turnover"],
+    "collocations": ["customer retention", "retention rate", "employee retention"],
+    "usageNotes": "O verbo é 'retain' (reter, manter).",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "cash flow",
+    "translation": "fluxo de caixa",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈkæʃ floʊ/",
+    "pronunciationHintPtBr": "kéch flôu",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "fluxo de caixa", "definitionEn": "the money moving in and out of a business", "definitionPtBr": "o dinheiro que entra e sai de um negócio" }
+    ],
+    "exampleEn": "Poor cash flow can sink a small business.",
+    "examplePtBr": "Um fluxo de caixa ruim pode afundar um pequeno negócio.",
+    "dailyUsage": "positive cash flow (positivo), manage cash flow (gerenciar), cash flow problem (problema).",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": ["positive cash flow", "manage cash flow", "cash flow problem"],
+    "usageNotes": "Dinheiro que entra menos o que sai; diferente de lucro no papel.",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "overhead",
+    "translation": "custos fixos, despesas gerais",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈoʊvərhed/",
+    "pronunciationHintPtBr": "ô-ver-rréd",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "custos fixos", "definitionEn": "the ongoing costs of running a business, like rent", "definitionPtBr": "os custos contínuos de manter um negócio, como aluguel" }
+    ],
+    "exampleEn": "Working from home cut our overhead a lot.",
+    "examplePtBr": "Trabalhar de casa cortou bastante os nossos custos fixos.",
+    "dailyUsage": "low overhead (baixo), cut overhead (cortar), overhead costs (despesas gerais).",
+    "synonyms": ["fixed costs"],
+    "antonyms": [],
+    "collocations": ["low overhead", "cut overhead", "overhead costs"],
+    "usageNotes": "Geralmente incontável quando se fala de custos; não confunda com o advérbio 'overhead' (acima).",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "margin",
+    "translation": "margem",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈmɑːrdʒɪn/",
+    "pronunciationHintPtBr": "már-djin",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "margem de lucro", "definitionEn": "the difference between cost and selling price", "definitionPtBr": "a diferença entre o custo e o preço de venda" }
+    ],
+    "exampleEn": "Our profit margin is too thin to drop prices.",
+    "examplePtBr": "Nossa margem de lucro é apertada demais para baixar preços.",
+    "dailyUsage": "profit margin (margem de lucro), thin margin (apertada), wide margin (larga).",
+    "synonyms": ["markup"],
+    "antonyms": [],
+    "collocations": ["profit margin", "thin margin", "gross margin"],
+    "usageNotes": "'Thin/narrow margin' = margem pequena; 'healthy margin' = boa margem.",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "forecast",
+    "translation": "previsão, projeção",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈfɔːrkæst/",
+    "pronunciationHintPtBr": "fór-cást",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "previsão", "definitionEn": "a statement about what is likely to happen in the future", "definitionPtBr": "uma afirmação sobre o que provavelmente vai acontecer no futuro" }
+    ],
+    "exampleEn": "The sales forecast for next quarter looks strong.",
+    "examplePtBr": "A previsão de vendas para o próximo trimestre parece forte.",
+    "dailyUsage": "sales forecast (previsão de vendas), revenue forecast, forecast demand (prever a demanda).",
+    "synonyms": ["projection", "prediction"],
+    "antonyms": [],
+    "collocations": ["sales forecast", "revenue forecast", "forecast demand"],
+    "usageNotes": "Também é verbo: 'we forecast slow growth' (prevemos crescimento lento).",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "pipeline",
+    "translation": "funil, carteira de oportunidades",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈpaɪplaɪn/",
+    "pronunciationHintPtBr": "pái-plain",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "funil de vendas", "definitionEn": "the set of deals or tasks moving toward completion", "definitionPtBr": "o conjunto de negócios ou tarefas caminhando para a conclusão" }
+    ],
+    "exampleEn": "We have several big deals in the pipeline.",
+    "examplePtBr": "Temos vários grandes negócios no funil.",
+    "dailyUsage": "sales pipeline (funil de vendas), in the pipeline (a caminho), build a pipeline (montar).",
+    "synonyms": ["funnel"],
+    "antonyms": [],
+    "collocations": ["sales pipeline", "in the pipeline", "build a pipeline"],
+    "usageNotes": "'In the pipeline' significa algo em andamento ou previsto.",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "lead",
+    "translation": "lead, cliente em potencial",
+    "partOfSpeech": "noun",
+    "ipa": "/liːd/",
+    "pronunciationHintPtBr": "líd",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "lead (potencial cliente)", "definitionEn": "a person who might become a customer", "definitionPtBr": "uma pessoa que pode vir a ser cliente" }
+    ],
+    "exampleEn": "The campaign brought in a lot of new leads.",
+    "examplePtBr": "A campanha trouxe muitos leads novos.",
+    "dailyUsage": "generate leads (gerar), qualify a lead (qualificar), hot lead (quente).",
+    "synonyms": ["prospect"],
+    "antonyms": [],
+    "collocations": ["generate leads", "qualify a lead", "hot lead"],
+    "usageNotes": "Em vendas, 'lead' é um contato inicial; ao avançar, vira 'prospect'.",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "prospect",
+    "translation": "cliente potencial, prospecto",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈprɑːspekt/",
+    "pronunciationHintPtBr": "prás-pékt",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "cliente potencial", "definitionEn": "a likely customer who has shown real interest", "definitionPtBr": "um provável cliente que já mostrou interesse real" }
+    ],
+    "exampleEn": "The sales rep called three prospects this morning.",
+    "examplePtBr": "O vendedor ligou para três clientes potenciais hoje de manhã.",
+    "dailyUsage": "a hot prospect (quente), qualify a prospect (qualificar), reach out to prospects (abordar).",
+    "synonyms": ["lead", "potential client"],
+    "antonyms": [],
+    "collocations": ["hot prospect", "qualify a prospect", "potential prospect"],
+    "usageNotes": "No plural 'prospects' também significa 'perspectivas' de futuro.",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "quota",
+    "translation": "cota, meta de vendas",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈkwoʊtə/",
+    "pronunciationHintPtBr": "cuô-tã",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "cota de vendas", "definitionEn": "a fixed amount of sales someone must reach", "definitionPtBr": "uma quantidade fixa de vendas que alguém precisa atingir" }
+    ],
+    "exampleEn": "She beat her sales quota two months in a row.",
+    "examplePtBr": "Ela superou a cota de vendas dois meses seguidos.",
+    "dailyUsage": "hit a quota (bater a cota), monthly quota (mensal), miss a quota (não bater).",
+    "synonyms": ["target", "allowance"],
+    "antonyms": [],
+    "collocations": ["sales quota", "hit a quota", "monthly quota"],
+    "usageNotes": "Comum em times de vendas; parecido com 'target', mas costuma ser individual.",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "commission",
+    "translation": "comissão",
+    "partOfSpeech": "noun",
+    "ipa": "/kəˈmɪʃən/",
+    "pronunciationHintPtBr": "cã-mí-chãn",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "comissão", "definitionEn": "money paid to a salesperson based on sales made", "definitionPtBr": "dinheiro pago a um vendedor com base nas vendas feitas" }
+    ],
+    "exampleEn": "He earns a commission on every car he sells.",
+    "examplePtBr": "Ele ganha uma comissão em cada carro que vende.",
+    "dailyUsage": "earn commission (ganhar), work on commission (por comissão), commission rate (percentual).",
+    "synonyms": ["cut", "percentage"],
+    "antonyms": [],
+    "collocations": ["earn commission", "work on commission", "commission rate"],
+    "usageNotes": "Como verbo significa 'encomendar': 'they commissioned a study'.",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "accountability",
+    "translation": "responsabilização, prestação de contas",
+    "partOfSpeech": "noun",
+    "ipa": "/əˌkaʊntəˈbɪləti/",
+    "pronunciationHintPtBr": "ã-caun-tã-bí-lã-ti",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "responsabilização", "definitionEn": "the duty to explain your actions and accept the results", "definitionPtBr": "o dever de explicar suas ações e aceitar os resultados" }
+    ],
+    "exampleEn": "Clear roles create a sense of accountability.",
+    "examplePtBr": "Papéis claros criam um senso de responsabilização.",
+    "dailyUsage": "a sense of accountability (senso de), hold someone accountable (responsabilizar), personal accountability.",
+    "synonyms": ["responsibility"],
+    "antonyms": [],
+    "collocations": ["sense of accountability", "hold accountable", "personal accountability"],
+    "usageNotes": "O adjetivo 'accountable' significa 'responsável por prestar contas'.",
+    "tags": ["trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "delegate",
+    "translation": "delegar",
+    "partOfSpeech": "verb",
+    "ipa": "/ˈdeləɡeɪt/",
+    "pronunciationHintPtBr": "dé-lã-gueit",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "delegar", "definitionEn": "to give part of your work to someone else", "definitionPtBr": "passar parte do seu trabalho para outra pessoa" }
+    ],
+    "exampleEn": "A good leader knows how to delegate tasks.",
+    "examplePtBr": "Um bom líder sabe como delegar tarefas.",
+    "dailyUsage": "delegate tasks (delegar tarefas), delegate responsibility, learn to delegate.",
+    "synonyms": ["assign", "hand off"],
+    "antonyms": ["micromanage"],
+    "collocations": ["delegate tasks", "delegate responsibility", "delegate authority"],
+    "usageNotes": "O substantivo 'delegate' (representante) tem o final com som mais fraco.",
+    "tags": ["trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "prioritize",
+    "translation": "priorizar",
+    "partOfSpeech": "verb",
+    "ipa": "/praɪˈɔːrətaɪz/",
+    "pronunciationHintPtBr": "prai-ó-rã-taiz",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "priorizar", "definitionEn": "to decide which things are most important to do first", "definitionPtBr": "decidir quais coisas são mais importantes para fazer primeiro" }
+    ],
+    "exampleEn": "We had to prioritize the most urgent tasks.",
+    "examplePtBr": "Nós tivemos que priorizar as tarefas mais urgentes.",
+    "dailyUsage": "prioritize tasks (priorizar tarefas), prioritize your work, prioritize customers.",
+    "synonyms": ["rank", "focus on"],
+    "antonyms": [],
+    "collocations": ["prioritize tasks", "prioritize your work", "prioritize customers"],
+    "usageNotes": "O substantivo 'priority' é a prioridade em si.",
+    "tags": ["trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "implement",
+    "translation": "implementar, pôr em prática",
+    "partOfSpeech": "verb",
+    "ipa": "/ˈɪmplɪment/",
+    "pronunciationHintPtBr": "ím-pli-ment",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "implementar", "definitionEn": "to start using a plan, system, or decision", "definitionPtBr": "começar a usar um plano, sistema ou decisão" }
+    ],
+    "exampleEn": "We will implement the new policy next month.",
+    "examplePtBr": "Nós vamos implementar a nova política no mês que vem.",
+    "dailyUsage": "implement a plan (implementar), implement changes (mudanças), implement a system.",
+    "synonyms": ["apply", "carry out"],
+    "antonyms": [],
+    "collocations": ["implement a plan", "implement changes", "implement a system"],
+    "usageNotes": "O substantivo é 'implementation' (implementação).",
+    "tags": ["negocios", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "scalable",
+    "translation": "escalável",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˈskeɪləbəl/",
+    "pronunciationHintPtBr": "skêi-lã-bãl",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "escalável", "definitionEn": "able to grow in size without losing quality", "definitionPtBr": "capaz de crescer em tamanho sem perder qualidade" }
+    ],
+    "exampleEn": "We need a scalable model to serve more clients.",
+    "examplePtBr": "Precisamos de um modelo escalável para atender mais clientes.",
+    "dailyUsage": "a scalable model (modelo escalável), scalable business, scalable solution.",
+    "synonyms": ["expandable"],
+    "antonyms": [],
+    "collocations": ["scalable model", "scalable business", "scalable solution"],
+    "usageNotes": "O verbo é 'to scale' (escalar, crescer de forma sustentável).",
+    "tags": ["negocios", "tecnologia"],
+    "source": "seed"
+  },
+  {
+    "english": "efficient",
+    "translation": "eficiente",
+    "partOfSpeech": "adjective",
+    "ipa": "/ɪˈfɪʃənt/",
+    "pronunciationHintPtBr": "i-fí-chent",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "eficiente", "definitionEn": "working well without wasting time or resources", "definitionPtBr": "que funciona bem sem desperdiçar tempo ou recursos" }
+    ],
+    "exampleEn": "The new process is faster and more efficient.",
+    "examplePtBr": "O novo processo é mais rápido e mais eficiente.",
+    "dailyUsage": "an efficient process (processo eficiente), cost-efficient (econômico), highly efficient.",
+    "synonyms": ["productive", "effective"],
+    "antonyms": ["inefficient", "wasteful"],
+    "collocations": ["efficient process", "cost-efficient", "highly efficient"],
+    "usageNotes": "'Efficient' é fazer sem desperdício; 'effective' é alcançar o resultado.",
+    "tags": ["trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "proactive",
+    "translation": "proativo",
+    "partOfSpeech": "adjective",
+    "ipa": "/proʊˈæktɪv/",
+    "pronunciationHintPtBr": "prô-ék-tiv",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "proativo", "definitionEn": "acting in advance to prevent problems instead of waiting", "definitionPtBr": "agir com antecedência para evitar problemas em vez de esperar" }
+    ],
+    "exampleEn": "Be proactive and flag issues before they grow.",
+    "examplePtBr": "Seja proativo e aponte os problemas antes que cresçam.",
+    "dailyUsage": "a proactive approach (abordagem proativa), be proactive (ser), proactive support.",
+    "synonyms": ["forward-thinking"],
+    "antonyms": ["reactive", "passive"],
+    "collocations": ["proactive approach", "be proactive", "proactive support"],
+    "usageNotes": "Oposto de 'reactive' (só reage depois que o problema aparece).",
+    "tags": ["trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "bottleneck",
+    "translation": "gargalo",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈbɑːtlnek/",
+    "pronunciationHintPtBr": "bá-tãl-nék",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "gargalo", "definitionEn": "a point where work slows down and holds up everything else", "definitionPtBr": "um ponto em que o trabalho trava e segura todo o resto" }
+    ],
+    "exampleEn": "Approval delays are the main bottleneck in the process.",
+    "examplePtBr": "Os atrasos na aprovação são o principal gargalo do processo.",
+    "dailyUsage": "a bottleneck in the process (gargalo), remove a bottleneck (eliminar), create a bottleneck.",
+    "synonyms": ["choke point"],
+    "antonyms": [],
+    "collocations": ["bottleneck in the process", "remove a bottleneck", "create a bottleneck"],
+    "usageNotes": "Imagem do gargalo de garrafa: o ponto estreito que limita o fluxo.",
+    "tags": ["trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "milestone",
+    "translation": "marco, etapa importante",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈmaɪlstoʊn/",
+    "pronunciationHintPtBr": "máil-stôun",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "marco", "definitionEn": "an important point or stage in a project", "definitionPtBr": "um ponto ou etapa importante de um projeto" }
+    ],
+    "exampleEn": "Launching in three countries was a big milestone.",
+    "examplePtBr": "Lançar em três países foi um grande marco.",
+    "dailyUsage": "reach a milestone (atingir), a key milestone (importante), project milestone.",
+    "synonyms": ["landmark", "stage"],
+    "antonyms": [],
+    "collocations": ["reach a milestone", "key milestone", "project milestone"],
+    "usageNotes": "Em projetos, marca um ponto de verificação, não a entrega final.",
+    "tags": ["trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "deliverable",
+    "translation": "entregável",
+    "partOfSpeech": "noun",
+    "ipa": "/dɪˈlɪvərəbəl/",
+    "pronunciationHintPtBr": "di-lí-vã-rã-bãl",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "entregável", "definitionEn": "a specific result that a project must produce", "definitionPtBr": "um resultado específico que um projeto precisa produzir" }
+    ],
+    "exampleEn": "The first deliverable is a draft of the report.",
+    "examplePtBr": "O primeiro entregável é um rascunho do relatório.",
+    "dailyUsage": "a key deliverable (entregável principal), list the deliverables (listar), final deliverable.",
+    "synonyms": ["output"],
+    "antonyms": [],
+    "collocations": ["key deliverable", "list the deliverables", "final deliverable"],
+    "usageNotes": "Jargão de projetos; é aquilo que você precisa entregar e mostrar.",
+    "tags": ["trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "benchmark",
+    "translation": "referência, parâmetro",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈbentʃmɑːrk/",
+    "pronunciationHintPtBr": "béntch-márk",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "referência", "definitionEn": "a standard used to compare and measure performance", "definitionPtBr": "um padrão usado para comparar e medir o desempenho" }
+    ],
+    "exampleEn": "We use last year's results as a benchmark.",
+    "examplePtBr": "Nós usamos os resultados do ano passado como referência.",
+    "dailyUsage": "set a benchmark (definir), industry benchmark (do setor), benchmark against rivals (comparar).",
+    "synonyms": ["standard", "reference point"],
+    "antonyms": [],
+    "collocations": ["set a benchmark", "industry benchmark", "benchmark against"],
+    "usageNotes": "Também é verbo: 'benchmark our prices against theirs'.",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "compliance",
+    "translation": "conformidade, cumprimento das regras",
+    "partOfSpeech": "noun",
+    "ipa": "/kəmˈplaɪəns/",
+    "pronunciationHintPtBr": "cãm-plái-ãns",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "conformidade", "definitionEn": "the act of following rules, laws, or standards", "definitionPtBr": "o ato de seguir regras, leis ou padrões" }
+    ],
+    "exampleEn": "The audit checks our compliance with the new rules.",
+    "examplePtBr": "A auditoria verifica nossa conformidade com as novas regras.",
+    "dailyUsage": "in compliance with (em conformidade com), compliance team (equipe), ensure compliance (garantir).",
+    "synonyms": ["conformity"],
+    "antonyms": ["violation", "breach"],
+    "collocations": ["in compliance with", "ensure compliance", "compliance team"],
+    "usageNotes": "O verbo é 'comply with' (cumprir, estar em conformidade com).",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "incentive",
+    "translation": "incentivo",
+    "partOfSpeech": "noun",
+    "ipa": "/ɪnˈsentɪv/",
+    "pronunciationHintPtBr": "in-sén-tiv",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "incentivo", "definitionEn": "something that encourages a person to act or work harder", "definitionPtBr": "algo que incentiva uma pessoa a agir ou se esforçar mais" }
+    ],
+    "exampleEn": "Bonuses are a strong incentive to hit targets.",
+    "examplePtBr": "Os bônus são um forte incentivo para bater as metas.",
+    "dailyUsage": "offer an incentive (oferecer), a strong incentive (forte), financial incentive (financeiro).",
+    "synonyms": ["motivation", "reward"],
+    "antonyms": ["deterrent"],
+    "collocations": ["offer an incentive", "strong incentive", "financial incentive"],
+    "usageNotes": "Costuma vir seguido de 'to' + verbo: 'an incentive to perform'.",
+    "tags": ["negocios", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "appraisal",
+    "translation": "avaliação de desempenho",
+    "partOfSpeech": "noun",
+    "ipa": "/əˈpreɪzəl/",
+    "pronunciationHintPtBr": "ã-prêi-zãl",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "avaliação de desempenho", "definitionEn": "a formal review of how well an employee is doing", "definitionPtBr": "uma análise formal de como um funcionário está se saindo" }
+    ],
+    "exampleEn": "Her annual appraisal went very well.",
+    "examplePtBr": "A avaliação anual dela foi muito bem.",
+    "dailyUsage": "an annual appraisal (anual), performance appraisal (de desempenho), appraisal meeting (reunião).",
+    "synonyms": ["review", "evaluation"],
+    "antonyms": [],
+    "collocations": ["annual appraisal", "performance appraisal", "appraisal meeting"],
+    "usageNotes": "O verbo é 'appraise' (avaliar o valor ou o desempenho).",
+    "tags": ["trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "headcount",
+    "translation": "quadro de pessoal, número de funcionários",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈhedkaʊnt/",
+    "pronunciationHintPtBr": "rréd-caunt",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "número de funcionários", "definitionEn": "the total number of people employed", "definitionPtBr": "o número total de pessoas empregadas" }
+    ],
+    "exampleEn": "We need to grow the team but headcount is frozen.",
+    "examplePtBr": "Precisamos ampliar o time, mas o quadro de pessoal está congelado.",
+    "dailyUsage": "increase headcount (aumentar), freeze headcount (congelar), reduce headcount (reduzir).",
+    "synonyms": ["staff count"],
+    "antonyms": [],
+    "collocations": ["increase headcount", "freeze headcount", "reduce headcount"],
+    "usageNotes": "Termo de RH e orçamento para falar do tamanho da equipe.",
+    "tags": ["negocios", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "downsize",
+    "translation": "reduzir o quadro, enxugar",
+    "partOfSpeech": "verb",
+    "ipa": "/ˈdaʊnsaɪz/",
+    "pronunciationHintPtBr": "dáun-saiz",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "reduzir o quadro", "definitionEn": "to make a company smaller by cutting jobs", "definitionPtBr": "tornar uma empresa menor cortando empregos" }
+    ],
+    "exampleEn": "The firm had to downsize after a weak year.",
+    "examplePtBr": "A empresa teve que enxugar o quadro depois de um ano fraco.",
+    "dailyUsage": "downsize the team (reduzir), downsize operations (enxugar operações).",
+    "synonyms": ["cut back", "lay off"],
+    "antonyms": ["expand", "scale up"],
+    "collocations": ["downsize the team", "downsize operations", "downsize the company"],
+    "usageNotes": "Eufemismo corporativo para demissões; mais suave que 'fire'.",
+    "tags": ["negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "ramp up",
+    "translation": "intensificar, acelerar",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌræmp ˈʌp/",
+    "pronunciationHintPtBr": "rémp âp",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "intensificar", "definitionEn": "to increase the amount or speed of something", "definitionPtBr": "aumentar a quantidade ou a velocidade de algo" }
+    ],
+    "exampleEn": "We need to ramp up production before the holidays.",
+    "examplePtBr": "Precisamos acelerar a produção antes das festas.",
+    "dailyUsage": "ramp up production (acelerar produção), ramp up hiring (intensificar contratações), ramp up efforts.",
+    "synonyms": ["increase", "boost"],
+    "antonyms": ["scale back", "wind down"],
+    "collocations": ["ramp up production", "ramp up hiring", "ramp up efforts"],
+    "usageNotes": "Sugere aumento gradual e planejado, não de uma vez só.",
+    "tags": ["phrasal-verb", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "roll out",
+    "translation": "lançar, implantar gradualmente",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌroʊl ˈaʊt/",
+    "pronunciationHintPtBr": "rôu áut",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "implantar gradualmente", "definitionEn": "to introduce a product or plan step by step", "definitionPtBr": "introduzir um produto ou plano passo a passo" }
+    ],
+    "exampleEn": "The company will roll out the update to all users.",
+    "examplePtBr": "A empresa vai implantar a atualização para todos os usuários.",
+    "dailyUsage": "roll out a feature (implantar), roll out in phases (em fases), a product rollout (implantação).",
+    "synonyms": ["launch", "introduce"],
+    "antonyms": ["roll back"],
+    "collocations": ["roll out a feature", "roll out an update", "roll out in phases"],
+    "usageNotes": "O substantivo 'a rollout' é a implantação. 'Roll back' é desfazer.",
+    "tags": ["phrasal-verb", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "reach out",
+    "translation": "entrar em contato, buscar contato",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌriːtʃ ˈaʊt/",
+    "pronunciationHintPtBr": "rítch áut",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "entrar em contato", "definitionEn": "to contact someone to ask for or offer something", "definitionPtBr": "contatar alguém para pedir ou oferecer algo" }
+    ],
+    "exampleEn": "Feel free to reach out if you have any questions.",
+    "examplePtBr": "Fique à vontade para entrar em contato se tiver dúvidas.",
+    "dailyUsage": "reach out to a client (contatar), reach out for help (pedir ajuda), reach out to prospects.",
+    "synonyms": ["contact", "get in touch"],
+    "antonyms": [],
+    "collocations": ["reach out to a client", "reach out for help", "reach out to prospects"],
+    "usageNotes": "Muito comum em e-mails profissionais no inglês americano.",
+    "tags": ["phrasal-verb", "comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "touch base",
+    "translation": "trocar uma ideia, dar um alinhada",
+    "partOfSpeech": "idiom",
+    "ipa": "/ˌtʌtʃ ˈbeɪs/",
+    "pronunciationHintPtBr": "tâtch bêis",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "fazer um breve contato", "definitionEn": "to have a short talk to share updates", "definitionPtBr": "ter uma conversa curta para trocar novidades" }
+    ],
+    "exampleEn": "Let's touch base on Friday to see where we are.",
+    "examplePtBr": "Vamos trocar uma ideia na sexta para ver como estamos.",
+    "dailyUsage": "touch base with someone (alinhar com alguém), touch base quickly (rapidinho), let's touch base later.",
+    "synonyms": ["check in", "connect"],
+    "antonyms": [],
+    "collocations": ["touch base with", "touch base later", "quick touch base"],
+    "usageNotes": "Expressão informal de escritório; vem do beisebol. Pede 'with'.",
+    "tags": ["expressao", "comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "on the same page",
+    "translation": "na mesma página, em sintonia",
+    "partOfSpeech": "idiom",
+    "ipa": "/ɑːn ðə ˌseɪm ˈpeɪdʒ/",
+    "pronunciationHintPtBr": "ón dã sêim pêidj",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "em sintonia", "definitionEn": "agreeing and sharing the same understanding", "definitionPtBr": "concordando e com o mesmo entendimento" }
+    ],
+    "exampleEn": "Let's talk first so we are all on the same page.",
+    "examplePtBr": "Vamos conversar antes para ficarmos todos na mesma página.",
+    "dailyUsage": "get on the same page (alinhar), be on the same page (estar em sintonia).",
+    "synonyms": ["in agreement", "aligned"],
+    "antonyms": ["at odds"],
+    "collocations": ["get on the same page", "be on the same page", "stay on the same page"],
+    "usageNotes": "Expressão muito usada em reuniões para confirmar alinhamento.",
+    "tags": ["expressao", "comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "ballpark figure",
+    "translation": "valor aproximado, estimativa grosseira",
+    "partOfSpeech": "idiom",
+    "ipa": "/ˈbɔːlpɑːrk ˌfɪɡjər/",
+    "pronunciationHintPtBr": "bóu-park fí-guiur",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "valor aproximado", "definitionEn": "a rough estimate that is not exact", "definitionPtBr": "uma estimativa aproximada, não exata" }
+    ],
+    "exampleEn": "Can you give me a ballpark figure for the project?",
+    "examplePtBr": "Você pode me dar um valor aproximado para o projeto?",
+    "dailyUsage": "a ballpark figure (estimativa), in the ballpark of (na faixa de), a ballpark number.",
+    "synonyms": ["rough estimate", "approximation"],
+    "antonyms": ["exact figure"],
+    "collocations": ["ballpark figure", "in the ballpark of", "ballpark estimate"],
+    "usageNotes": "Vem do beisebol; usada quando só se quer uma ideia geral de valor.",
+    "tags": ["expressao", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "move the needle",
+    "translation": "fazer diferença de verdade",
+    "partOfSpeech": "idiom",
+    "ipa": "/ˌmuːv ðə ˈniːdl/",
+    "pronunciationHintPtBr": "múv dã ní-dãl",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "gerar impacto real", "definitionEn": "to make a noticeable difference in results", "definitionPtBr": "fazer uma diferença perceptível nos resultados" }
+    ],
+    "exampleEn": "Small tweaks won't move the needle on sales.",
+    "examplePtBr": "Pequenos ajustes não vão fazer diferença nas vendas.",
+    "dailyUsage": "move the needle (gerar impacto), really move the needle, won't move the needle (não muda nada).",
+    "synonyms": ["make an impact"],
+    "antonyms": [],
+    "collocations": ["move the needle", "really move the needle", "move the needle on sales"],
+    "usageNotes": "Imagem do ponteiro de um medidor que se mexe; foco em impacto mensurável.",
+    "tags": ["expressao", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "bottom line",
+    "translation": "resultado final, o que realmente importa",
+    "partOfSpeech": "idiom",
+    "ipa": "/ˌbɑːtəm ˈlaɪn/",
+    "pronunciationHintPtBr": "bá-tãm láin",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "resultado financeiro", "definitionEn": "the final profit or loss of a business", "definitionPtBr": "o lucro ou prejuízo final de um negócio" },
+      { "translation": "o ponto central", "definitionEn": "the most important fact in a discussion", "definitionPtBr": "o fato mais importante de uma discussão" }
+    ],
+    "exampleEn": "The bottom line is that we need more sales.",
+    "examplePtBr": "O ponto central é que precisamos de mais vendas.",
+    "dailyUsage": "the bottom line is (o que importa é), hurt the bottom line (prejudicar o resultado), boost the bottom line.",
+    "synonyms": ["net result", "key point"],
+    "antonyms": [],
+    "collocations": ["the bottom line is", "hurt the bottom line", "boost the bottom line"],
+    "usageNotes": "Vem da última linha do balanço financeiro (lucro líquido).",
+    "tags": ["expressao", "negocios"],
+    "source": "seed"
+  }
+]

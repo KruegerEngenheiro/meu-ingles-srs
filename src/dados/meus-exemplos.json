@@ -1,0 +1,69 @@
+[
+  {
+    "english": "achieve", "translation": "alcançar, conquistar",
+    "partOfSpeech": "verb", "ipa": "/əˈtʃiːv/", "pronunciationHintPtBr": "âtchív", "cefr": "B1",
+    "meanings": [{ "translation": "alcançar (um objetivo)", "definitionEn": "to successfully reach a goal, especially by effort", "definitionPtBr": "conseguir chegar a um objetivo, geralmente com esforço" }],
+    "exampleEn": "She worked hard to achieve her goals this year.",
+    "examplePtBr": "Ela se esforçou muito para alcançar seus objetivos este ano.",
+    "dailyUsage": "Use para metas e resultados conquistados com esforço: achieve a goal, achieve success.",
+    "synonyms": ["accomplish", "attain", "reach"], "antonyms": ["fail", "miss"],
+    "collocations": ["achieve a goal", "achieve success", "achieve results"],
+    "usageNotes": "Mais formal que 'get' ou 'reach'. Combina com metas e resultados, não com objetos físicos.",
+    "tags": ["trabalho", "estudos"], "source": "seed"
+  },
+  {
+    "english": "deadline", "translation": "prazo final",
+    "partOfSpeech": "noun", "ipa": "/ˈdedlaɪn/", "pronunciationHintPtBr": "déd-lain", "cefr": "B1",
+    "meanings": [{ "translation": "prazo final", "definitionEn": "a time or date by which something must be finished", "definitionPtBr": "data ou horário limite para terminar algo" }],
+    "exampleEn": "We have to deliver the report before the deadline on Friday.",
+    "examplePtBr": "Temos que entregar o relatório antes do prazo final na sexta.",
+    "dailyUsage": "meet a deadline (cumprir), miss a deadline (perder), tight deadline (prazo apertado).",
+    "synonyms": ["due date", "time limit"], "antonyms": [],
+    "collocations": ["meet a deadline", "miss a deadline", "tight deadline", "extend a deadline"],
+    "usageNotes": "Substantivo contável. Não confundir com 'timeline' (linha do tempo).",
+    "tags": ["trabalho", "negocios"], "source": "seed"
+  },
+  {
+    "english": "work out", "translation": "malhar; dar certo; resolver",
+    "partOfSpeech": "phrasal verb", "ipa": "/ˌwɜːrk ˈaʊt/", "pronunciationHintPtBr": "uôrk-áut", "cefr": "B1",
+    "meanings": [
+      { "translation": "malhar, treinar", "definitionEn": "to exercise to improve fitness", "definitionPtBr": "fazer exercício físico" },
+      { "translation": "dar certo", "definitionEn": "to happen in a successful way", "definitionPtBr": "acabar bem, resolver-se" },
+      { "translation": "calcular, resolver", "definitionEn": "to find the answer or solution", "definitionPtBr": "descobrir a resposta" }
+    ],
+    "exampleEn": "I work out at the gym three times a week.",
+    "examplePtBr": "Eu malho na academia três vezes por semana.",
+    "dailyUsage": "No fitness é dos mais usados. Também 'things worked out' = deu tudo certo.",
+    "synonyms": ["exercise", "train"], "antonyms": [],
+    "collocations": ["work out at the gym", "work out a problem", "it worked out well"],
+    "usageNotes": "Separável no sentido de calcular: 'work it out'. No sentido de treinar, não leva objeto.",
+    "tags": ["fitness", "cotidiano", "phrasal-verb"], "source": "seed"
+  },
+  {
+    "english": "deploy", "translation": "implantar; mobilizar",
+    "partOfSpeech": "verb", "ipa": "/dɪˈplɔɪ/", "pronunciationHintPtBr": "di-plói", "cefr": "B2",
+    "meanings": [
+      { "translation": "implantar, colocar no ar", "definitionEn": "to put software or a system into use", "definitionPtBr": "colocar um sistema ou software em funcionamento" },
+      { "translation": "mobilizar, posicionar", "definitionEn": "to move soldiers or equipment into position for action", "definitionPtBr": "posicionar tropas ou recursos para uma ação" }
+    ],
+    "exampleEn": "The team will deploy the new app to production tonight.",
+    "examplePtBr": "A equipe vai colocar o novo app em produção hoje à noite.",
+    "dailyUsage": "Tech: deploy to production. Militar: deploy troops. A ideia é a mesma: pôr em posição para agir.",
+    "synonyms": ["roll out", "launch", "position"], "antonyms": ["withdraw", "recall"],
+    "collocations": ["deploy to production", "deploy troops", "deploy resources"],
+    "usageNotes": "Conecta seus dois mundos: engenharia e exército. Em tech é quase sempre 'deploy to production'.",
+    "tags": ["tecnologia", "exercito"], "source": "seed"
+  },
+  {
+    "english": "get the hang of", "translation": "pegar o jeito de",
+    "partOfSpeech": "idiom", "ipa": "/ˌɡet ðə ˈhæŋ əv/", "pronunciationHintPtBr": "guét dâ rãng ov", "cefr": "B1",
+    "meanings": [{ "translation": "pegar o jeito, aprender a fazer", "definitionEn": "to learn how to do something with a little practice", "definitionPtBr": "aprender a fazer algo depois de um pouco de prática" }],
+    "exampleEn": "It was hard at first, but I got the hang of it quickly.",
+    "examplePtBr": "Foi difícil no começo, mas peguei o jeito rápido.",
+    "dailyUsage": "Informal, muito usado na fala. Quase sempre com 'it': get the hang of it.",
+    "synonyms": ["get the knack of", "pick up"], "antonyms": [],
+    "collocations": ["get the hang of it", "get the hang of something"],
+    "usageNotes": "Expressão idiomática informal. Não traduzir ao pé da letra.",
+    "tags": ["cotidiano", "comunicacao", "expressao"], "source": "seed"
+  }
+]

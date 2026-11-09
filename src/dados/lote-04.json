@@ -1,0 +1,1611 @@
+[
+  {
+    "english": "soldier",
+    "translation": "soldado, militar",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈsoʊldʒər/",
+    "pronunciationHintPtBr": "sôul-djer",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "soldado", "definitionEn": "a person who serves in an army", "definitionPtBr": "pessoa que serve em um exército" }
+    ],
+    "exampleEn": "Every soldier in the unit received new boots before the operation.",
+    "examplePtBr": "Cada soldado da unidade recebeu botas novas antes da operação.",
+    "dailyUsage": "Palavra base do vocabulário militar. Use para qualquer membro de tropa, sem patente específica.",
+    "synonyms": ["serviceman", "trooper"],
+    "antonyms": ["civilian"],
+    "collocations": ["a brave soldier", "enemy soldier", "train as a soldier"],
+    "usageNotes": "O plural é 'soldiers'. Para alguém que luta de forma figurada, existe a expressão 'foot soldier'.",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "army",
+    "translation": "exército",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈɑːrmi/",
+    "pronunciationHintPtBr": "ár-mi",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "exército", "definitionEn": "the land military force of a country", "definitionPtBr": "a força militar terrestre de um país" }
+    ],
+    "exampleEn": "He joined the army right after he finished high school.",
+    "examplePtBr": "Ele entrou para o exército logo depois de terminar o ensino médio.",
+    "dailyUsage": "Costuma vir com 'the': 'the army'. Também aparece de forma figurada ('an army of volunteers').",
+    "synonyms": ["military", "troops"],
+    "antonyms": [],
+    "collocations": ["join the army", "the regular army", "serve in the army"],
+    "usageNotes": "'Army' é a força terrestre. Para o conjunto das forças use 'the military' ou 'armed forces'.",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "officer",
+    "translation": "oficial",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈɔːfɪsər/",
+    "pronunciationHintPtBr": "ó-fi-ser",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "oficial", "definitionEn": "a person who holds a position of command in the military", "definitionPtBr": "pessoa que ocupa um posto de comando nas forças armadas" }
+    ],
+    "exampleEn": "A senior officer briefed the team on the new orders.",
+    "examplePtBr": "Um oficial graduado passou as novas ordens para a equipe.",
+    "dailyUsage": "Serve para militares de comando e também para funções civis ('police officer', 'customs officer').",
+    "synonyms": ["commander", "official"],
+    "antonyms": ["enlisted"],
+    "collocations": ["senior officer", "commanding officer", "army officer"],
+    "usageNotes": "No meio militar, 'officer' é quem tem patente de comando, diferente do soldado raso ('enlisted').",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "mission",
+    "translation": "missão",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈmɪʃən/",
+    "pronunciationHintPtBr": "mi-chãn",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "missão", "definitionEn": "an important task or operation assigned to a group", "definitionPtBr": "uma tarefa ou operação importante atribuída a um grupo" }
+    ],
+    "exampleEn": "The peacekeeping mission lasted almost six months.",
+    "examplePtBr": "A missão de paz durou quase seis meses.",
+    "dailyUsage": "Muito usado em cooperação internacional ('peacekeeping mission') e também no mundo corporativo ('mission statement').",
+    "synonyms": ["operation", "assignment"],
+    "antonyms": [],
+    "collocations": ["carry out a mission", "peacekeeping mission", "mission objective"],
+    "usageNotes": "'Mission accomplished' é uma frase feita bem comum para dizer que a tarefa foi concluída.",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "unit",
+    "translation": "unidade, pelotão",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈjuːnɪt/",
+    "pronunciationHintPtBr": "iú-nit",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "unidade", "definitionEn": "a group of soldiers that is part of a larger force", "definitionPtBr": "um grupo de militares que faz parte de uma força maior" }
+    ],
+    "exampleEn": "Her unit was responsible for securing the bridge.",
+    "examplePtBr": "A unidade dela era responsável por proteger a ponte.",
+    "dailyUsage": "No contexto militar significa grupo organizado de tropa. Fora disso, significa 'unidade' de medida ou de um todo.",
+    "synonyms": ["division", "squad"],
+    "antonyms": [],
+    "collocations": ["military unit", "combat unit", "join a unit"],
+    "usageNotes": "Palavra bem flexível: unidade militar, unidade de medida, unidade de um prédio.",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "logistics",
+    "translation": "logística",
+    "partOfSpeech": "noun",
+    "ipa": "/ləˈdʒɪstɪks/",
+    "pronunciationHintPtBr": "lo-djís-tiks",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "logística", "definitionEn": "the planning and organizing of moving people and supplies", "definitionPtBr": "o planejamento e a organização do transporte de pessoas e suprimentos" }
+    ],
+    "exampleEn": "The logistics of moving the equipment took weeks to plan.",
+    "examplePtBr": "A logística de transportar o equipamento levou semanas para ser planejada.",
+    "dailyUsage": "Usado tanto no exército quanto em empresas. Em geral vem no plural e com verbo no singular.",
+    "synonyms": ["coordination", "planning"],
+    "antonyms": [],
+    "collocations": ["handle the logistics", "logistics team", "military logistics"],
+    "usageNotes": "Mesmo terminando em 's', geralmente se comporta como singular: 'logistics is complex'.",
+    "tags": ["exercito", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "convoy",
+    "translation": "comboio, escolta de veículos",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈkɑːnvɔɪ/",
+    "pronunciationHintPtBr": "cán-vói",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "comboio", "definitionEn": "a group of vehicles traveling together, often for protection", "definitionPtBr": "um grupo de veículos que viajam juntos, geralmente por proteção" }
+    ],
+    "exampleEn": "The supply convoy reached the base before nightfall.",
+    "examplePtBr": "O comboio de suprimentos chegou à base antes de anoitecer.",
+    "dailyUsage": "Comum em logística e operações. Também existe o verbo 'to convoy' (escoltar em grupo), menos frequente.",
+    "synonyms": ["caravan", "column"],
+    "antonyms": [],
+    "collocations": ["supply convoy", "convoy of trucks", "escort a convoy"],
+    "usageNotes": "A sílaba tônica fica no 'con'. Fora do contexto militar, descreve qualquer fila organizada de veículos.",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "briefing",
+    "translation": "instrução, reunião informativa",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈbriːfɪŋ/",
+    "pronunciationHintPtBr": "brí-fing",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "briefing, instrução", "definitionEn": "a short meeting to give people information before an action", "definitionPtBr": "uma reunião rápida para passar informações antes de uma ação" }
+    ],
+    "exampleEn": "The commander gave a short briefing before the patrol left.",
+    "examplePtBr": "O comandante deu uma breve instrução antes de a patrulha sair.",
+    "dailyUsage": "Palavra que já virou empréstimo no português. Usada tanto no exército quanto em empresas e imprensa.",
+    "synonyms": ["debrief", "rundown"],
+    "antonyms": [],
+    "collocations": ["give a briefing", "press briefing", "attend a briefing"],
+    "usageNotes": "O oposto, feito depois da ação para colher relatos, é 'debriefing'.",
+    "tags": ["exercito", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "deployment",
+    "translation": "mobilização, envio de tropas",
+    "partOfSpeech": "noun",
+    "ipa": "/dɪˈplɔɪmənt/",
+    "pronunciationHintPtBr": "di-plói-ment",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "mobilização", "definitionEn": "the act of moving troops or resources into position for action", "definitionPtBr": "o ato de mover tropas ou recursos para uma posição de ação" }
+    ],
+    "exampleEn": "His deployment overseas lasted almost a year.",
+    "examplePtBr": "A mobilização dele no exterior durou quase um ano.",
+    "dailyUsage": "Substantivo muito usado em defesa. No mundo de software, significa colocar um sistema em produção.",
+    "synonyms": ["posting", "mobilization"],
+    "antonyms": ["withdrawal"],
+    "collocations": ["troop deployment", "overseas deployment", "rapid deployment"],
+    "usageNotes": "Aqui é o substantivo. O verbo correspondente (colocar em posição) foi deixado de fora deste lote.",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "supply",
+    "translation": "suprimento, abastecimento",
+    "partOfSpeech": "noun",
+    "ipa": "/səˈplaɪ/",
+    "pronunciationHintPtBr": "sa-plái",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "suprimento", "definitionEn": "an amount of something available or provided for use", "definitionPtBr": "uma quantidade de algo disponível ou fornecida para uso" },
+      { "translation": "abastecer", "definitionEn": "to provide someone with what they need", "definitionPtBr": "fornecer a alguém o que é necessário" }
+    ],
+    "exampleEn": "The base ran low on medical supplies during the storm.",
+    "examplePtBr": "A base ficou com poucos suprimentos médicos durante a tempestade.",
+    "dailyUsage": "Como substantivo, muitas vezes no plural ('supplies'). Como verbo, significa fornecer. Fundamental em logística.",
+    "synonyms": ["provisions", "stock"],
+    "antonyms": ["demand"],
+    "collocations": ["supply line", "medical supplies", "cut off the supply"],
+    "usageNotes": "'Supply and demand' (oferta e procura) é um par fixo na economia.",
+    "tags": ["exercito", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "command",
+    "translation": "comando, ordem",
+    "partOfSpeech": "noun",
+    "ipa": "/kəˈmænd/",
+    "pronunciationHintPtBr": "ka-mánd",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "comando", "definitionEn": "authority to control a military force", "definitionPtBr": "autoridade para controlar uma força militar" },
+      { "translation": "ordem", "definitionEn": "an order given to a person or group", "definitionPtBr": "uma ordem dada a uma pessoa ou grupo" }
+    ],
+    "exampleEn": "She took command of the unit after the captain left.",
+    "examplePtBr": "Ela assumiu o comando da unidade depois que o capitão saiu.",
+    "dailyUsage": "Pode ser substantivo (comando) ou verbo (comandar, ordenar). Também é 'comando' de computador.",
+    "synonyms": ["order", "control"],
+    "antonyms": [],
+    "collocations": ["take command", "chain of command", "under the command of"],
+    "usageNotes": "'In command' significa no controle. 'At your command' é uma expressão formal de prontidão.",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "base",
+    "translation": "base militar",
+    "partOfSpeech": "noun",
+    "ipa": "/beɪs/",
+    "pronunciationHintPtBr": "bêis",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "base", "definitionEn": "a place where military forces are stationed and operate from", "definitionPtBr": "um lugar onde forças militares ficam estacionadas e operam" }
+    ],
+    "exampleEn": "The troops returned to base after the exercise.",
+    "examplePtBr": "As tropas voltaram para a base depois do exercício.",
+    "dailyUsage": "No exército, é o quartel ou instalação. No dia a dia, significa base ou fundamento de algo.",
+    "synonyms": ["camp", "station"],
+    "antonyms": [],
+    "collocations": ["military base", "return to base", "air base"],
+    "usageNotes": "Com frequência usado sem artigo em frases militares: 'back at base'.",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "rank",
+    "translation": "patente, posto",
+    "partOfSpeech": "noun",
+    "ipa": "/ræŋk/",
+    "pronunciationHintPtBr": "rénk",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "patente", "definitionEn": "an official level of authority in the military", "definitionPtBr": "um nível oficial de autoridade na hierarquia militar" }
+    ],
+    "exampleEn": "He was promoted to the rank of sergeant last month.",
+    "examplePtBr": "Ele foi promovido à patente de sargento no mês passado.",
+    "dailyUsage": "Essencial para falar de hierarquia. Também é verbo ('to rank') no sentido de classificar.",
+    "synonyms": ["grade", "position"],
+    "antonyms": [],
+    "collocations": ["high rank", "the rank of", "rise through the ranks"],
+    "usageNotes": "'Rise through the ranks' significa subir na hierarquia aos poucos.",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "patrol",
+    "translation": "patrulha, patrulhar",
+    "partOfSpeech": "noun",
+    "ipa": "/pəˈtroʊl/",
+    "pronunciationHintPtBr": "pa-trôul",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "patrulha", "definitionEn": "a group that moves around an area to keep it safe", "definitionPtBr": "um grupo que percorre uma área para mantê-la segura" },
+      { "translation": "patrulhar", "definitionEn": "to move around an area to guard it", "definitionPtBr": "percorrer uma área para protegê-la" }
+    ],
+    "exampleEn": "Two soldiers went on patrol along the border.",
+    "examplePtBr": "Dois soldados saíram em patrulha ao longo da fronteira.",
+    "dailyUsage": "Funciona como substantivo e verbo. Comum também no policiamento, não só no exército.",
+    "synonyms": ["guard", "watch"],
+    "antonyms": [],
+    "collocations": ["go on patrol", "border patrol", "night patrol"],
+    "usageNotes": "A tônica cai em 'trol'. 'On patrol' é a forma fixa para descrever quem está em serviço de ronda.",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "troop",
+    "translation": "tropa, contingente",
+    "partOfSpeech": "noun",
+    "ipa": "/truːp/",
+    "pronunciationHintPtBr": "trúp",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "tropa", "definitionEn": "soldiers, usually a group acting together", "definitionPtBr": "soldados, geralmente um grupo agindo em conjunto" }
+    ],
+    "exampleEn": "The government sent more troops to the region.",
+    "examplePtBr": "O governo enviou mais tropas para a região.",
+    "dailyUsage": "No plural ('troops') é a forma mais comum e significa os soldados em geral.",
+    "synonyms": ["soldiers", "forces"],
+    "antonyms": [],
+    "collocations": ["ground troops", "send troops", "withdraw troops"],
+    "usageNotes": "Cuidado com 'troupe', que soa igual mas significa trupe de artistas.",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "squad",
+    "translation": "esquadrão, pelotão pequeno",
+    "partOfSpeech": "noun",
+    "ipa": "/skwɑːd/",
+    "pronunciationHintPtBr": "skuód",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "esquadrão", "definitionEn": "a small group of soldiers working as a team", "definitionPtBr": "um pequeno grupo de soldados que trabalha em equipe" }
+    ],
+    "exampleEn": "The squad moved quietly through the forest at dawn.",
+    "examplePtBr": "O esquadrão avançou em silêncio pela floresta ao amanhecer.",
+    "dailyUsage": "Grupo pequeno e coeso. Também muito usado no esporte ('the national squad') e de forma informal para um grupo de amigos.",
+    "synonyms": ["team", "crew"],
+    "antonyms": [],
+    "collocations": ["bomb squad", "squad leader", "join the squad"],
+    "usageNotes": "Menor que uma 'unit' e bem informal quando aplicado a amigos.",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "reinforcement",
+    "translation": "reforço",
+    "partOfSpeech": "noun",
+    "ipa": "/ˌriːɪnˈfɔːrsmənt/",
+    "pronunciationHintPtBr": "rii-in-fórs-ment",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "reforço", "definitionEn": "extra soldiers or resources sent to strengthen a force", "definitionPtBr": "soldados ou recursos extras enviados para fortalecer uma força" }
+    ],
+    "exampleEn": "They held the position until reinforcements arrived.",
+    "examplePtBr": "Eles mantiveram a posição até os reforços chegarem.",
+    "dailyUsage": "No sentido de tropas de apoio, quase sempre no plural ('reinforcements').",
+    "synonyms": ["backup", "support"],
+    "antonyms": [],
+    "collocations": ["call for reinforcements", "send reinforcements", "await reinforcements"],
+    "usageNotes": "No singular, costuma ter sentido abstrato (reforço de uma ideia ou estrutura).",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "equipment",
+    "translation": "equipamento",
+    "partOfSpeech": "noun",
+    "ipa": "/ɪˈkwɪpmənt/",
+    "pronunciationHintPtBr": "i-kuíp-ment",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "equipamento", "definitionEn": "the tools and machines needed for an activity", "definitionPtBr": "as ferramentas e máquinas necessárias para uma atividade" }
+    ],
+    "exampleEn": "All the equipment was loaded onto the trucks overnight.",
+    "examplePtBr": "Todo o equipamento foi carregado nos caminhões durante a noite.",
+    "dailyUsage": "É incontável: não se diz 'equipments'. Para contar, use 'a piece of equipment'.",
+    "synonyms": ["gear", "apparatus"],
+    "antonyms": [],
+    "collocations": ["military equipment", "a piece of equipment", "safety equipment"],
+    "usageNotes": "Substantivo incontável, sempre no singular mesmo quando se refere a várias coisas.",
+    "tags": ["exercito", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "ammunition",
+    "translation": "munição",
+    "partOfSpeech": "noun",
+    "ipa": "/ˌæmjəˈnɪʃən/",
+    "pronunciationHintPtBr": "ém-iu-ni-chãn",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "munição", "definitionEn": "the supply of bullets and shells used by weapons", "definitionPtBr": "o estoque de balas e cartuchos usados por armas" }
+    ],
+    "exampleEn": "The convoy was carrying food, water, and ammunition.",
+    "examplePtBr": "O comboio levava comida, água e munição.",
+    "dailyUsage": "Incontável, não tem plural. Abreviado informalmente como 'ammo'. Também usado em sentido figurado (argumentos).",
+    "synonyms": ["ammo", "rounds"],
+    "antonyms": [],
+    "collocations": ["run out of ammunition", "live ammunition", "ammunition supply"],
+    "usageNotes": "Em sentido figurado significa argumentos ('that gave critics ammunition').",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "shipment",
+    "translation": "carregamento, remessa",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈʃɪpmənt/",
+    "pronunciationHintPtBr": "chíp-ment",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "carregamento", "definitionEn": "a quantity of goods sent together from one place to another", "definitionPtBr": "uma quantidade de mercadorias enviadas juntas de um lugar para outro" }
+    ],
+    "exampleEn": "The next shipment of supplies is due on Friday.",
+    "examplePtBr": "O próximo carregamento de suprimentos está previsto para sexta-feira.",
+    "dailyUsage": "Palavra chave de logística, tanto militar quanto comercial. Vem da raiz 'ship' (enviar, despachar).",
+    "synonyms": ["delivery", "consignment"],
+    "antonyms": [],
+    "collocations": ["a shipment of", "receive a shipment", "delayed shipment"],
+    "usageNotes": "Não precisa envolver navio: qualquer meio de transporte serve.",
+    "tags": ["exercito", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "reconnaissance",
+    "translation": "reconhecimento (de área)",
+    "partOfSpeech": "noun",
+    "ipa": "/rɪˈkɑːnəsəns/",
+    "pronunciationHintPtBr": "ri-cá-na-sans",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "reconhecimento", "definitionEn": "the activity of observing an area to gather information", "definitionPtBr": "a atividade de observar uma área para obter informações" }
+    ],
+    "exampleEn": "The team carried out reconnaissance before the main operation.",
+    "examplePtBr": "A equipe fez o reconhecimento antes da operação principal.",
+    "dailyUsage": "Palavra formal; no dia a dia militar aparece abreviada como 'recon'.",
+    "synonyms": ["recon", "scouting"],
+    "antonyms": [],
+    "collocations": ["aerial reconnaissance", "reconnaissance mission", "carry out reconnaissance"],
+    "usageNotes": "Pronúncia pega muita gente: a tônica fica em 'con', e o fim soa 'sans'.",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "surveillance",
+    "translation": "vigilância, monitoramento",
+    "partOfSpeech": "noun",
+    "ipa": "/sərˈveɪləns/",
+    "pronunciationHintPtBr": "ser-vêi-lans",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "vigilância", "definitionEn": "close observation of a place or person", "definitionPtBr": "observação atenta de um local ou pessoa" }
+    ],
+    "exampleEn": "The border is kept under constant surveillance.",
+    "examplePtBr": "A fronteira é mantida sob vigilância constante.",
+    "dailyUsage": "Comum em defesa, segurança e tecnologia (câmeras, dados). 'Under surveillance' é a forma fixa.",
+    "synonyms": ["monitoring", "watch"],
+    "antonyms": [],
+    "collocations": ["under surveillance", "surveillance camera", "aerial surveillance"],
+    "usageNotes": "A tônica é na segunda sílaba. Costuma aparecer com 'under'.",
+    "tags": ["exercito", "tecnologia"],
+    "source": "seed"
+  },
+  {
+    "english": "strategic",
+    "translation": "estratégico",
+    "partOfSpeech": "adjective",
+    "ipa": "/strəˈtiːdʒɪk/",
+    "pronunciationHintPtBr": "stra-tí-djik",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "estratégico", "definitionEn": "planned carefully to reach a long-term goal", "definitionPtBr": "planejado com cuidado para atingir um objetivo de longo prazo" }
+    ],
+    "exampleEn": "The bridge had great strategic importance for both sides.",
+    "examplePtBr": "A ponte tinha grande importância estratégica para os dois lados.",
+    "dailyUsage": "Muito usado em defesa e negócios. O advérbio é 'strategically'.",
+    "synonyms": ["tactical", "calculated"],
+    "antonyms": ["random"],
+    "collocations": ["strategic importance", "strategic plan", "strategic location"],
+    "usageNotes": "A tônica muda do substantivo 'strategy' para o adjetivo 'strategic'.",
+    "tags": ["exercito", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "tactical",
+    "translation": "tático",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˈtæktɪkəl/",
+    "pronunciationHintPtBr": "ték-ti-kol",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "tático", "definitionEn": "related to the methods used to win a specific action", "definitionPtBr": "relativo aos métodos usados para vencer uma ação específica" }
+    ],
+    "exampleEn": "They made a tactical decision to wait until dark.",
+    "examplePtBr": "Eles tomaram uma decisão tática de esperar escurecer.",
+    "dailyUsage": "Pensa em 'tático' como o curto prazo e 'estratégico' como o longo prazo. Usado também fora do exército.",
+    "synonyms": ["calculated", "strategic"],
+    "antonyms": ["impulsive"],
+    "collocations": ["tactical decision", "tactical move", "tactical advantage"],
+    "usageNotes": "'Tactical' é sobre o como imediato; 'strategic' é sobre o quadro maior.",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "personnel",
+    "translation": "pessoal, efetivo",
+    "partOfSpeech": "noun",
+    "ipa": "/ˌpɜːrsəˈnel/",
+    "pronunciationHintPtBr": "per-so-nél",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "pessoal", "definitionEn": "the people who work for an organization or serve in a force", "definitionPtBr": "as pessoas que trabalham numa organização ou servem numa força" }
+    ],
+    "exampleEn": "All military personnel must carry their ID at all times.",
+    "examplePtBr": "Todo o pessoal militar deve portar a identificação o tempo todo.",
+    "dailyUsage": "Palavra formal para o conjunto de pessoas de uma instituição. A tônica fica no fim ('nel').",
+    "synonyms": ["staff", "workforce"],
+    "antonyms": [],
+    "collocations": ["military personnel", "trained personnel", "personnel department"],
+    "usageNotes": "Não confundir com 'personal' (pessoal, particular), que soa e se escreve parecido.",
+    "tags": ["exercito", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "allied",
+    "translation": "aliado",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˈælaɪd/",
+    "pronunciationHintPtBr": "é-laid",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "aliado", "definitionEn": "joined together for a common purpose, especially countries", "definitionPtBr": "unido para um objetivo comum, especialmente países" }
+    ],
+    "exampleEn": "The allied forces coordinated the rescue operation together.",
+    "examplePtBr": "As forças aliadas coordenaram juntas a operação de resgate.",
+    "dailyUsage": "Muito usado em cooperação internacional. O substantivo relacionado é 'ally' (um aliado).",
+    "synonyms": ["united", "partnered"],
+    "antonyms": ["opposing", "enemy"],
+    "collocations": ["allied forces", "allied nations", "closely allied"],
+    "usageNotes": "Como adjetivo, a tônica fica no começo; como verbo 'to ally', muda para o fim.",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "evacuation",
+    "translation": "evacuação, retirada",
+    "partOfSpeech": "noun",
+    "ipa": "/ɪˌvækjuˈeɪʃən/",
+    "pronunciationHintPtBr": "i-vék-iu-êi-chãn",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "evacuação", "definitionEn": "the act of moving people away from a dangerous place", "definitionPtBr": "o ato de retirar pessoas de um lugar perigoso" }
+    ],
+    "exampleEn": "The evacuation of civilians began at first light.",
+    "examplePtBr": "A evacuação dos civis começou ao amanhecer.",
+    "dailyUsage": "Comum em operações humanitárias, desastres e segurança. O verbo é 'to evacuate'.",
+    "synonyms": ["withdrawal", "removal"],
+    "antonyms": ["return"],
+    "collocations": ["emergency evacuation", "evacuation plan", "order an evacuation"],
+    "usageNotes": "Serve tanto para retirar pessoas de uma zona de combate quanto de um prédio em incêndio.",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "procurement",
+    "translation": "aquisição, compras (institucionais)",
+    "partOfSpeech": "noun",
+    "ipa": "/prəˈkjʊrmənt/",
+    "pronunciationHintPtBr": "pro-kiúr-ment",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "aquisição", "definitionEn": "the process of obtaining supplies or equipment for an organization", "definitionPtBr": "o processo de obter suprimentos ou equipamentos para uma organização" }
+    ],
+    "exampleEn": "The procurement of new vehicles took several months.",
+    "examplePtBr": "A aquisição de novos veículos levou vários meses.",
+    "dailyUsage": "Termo formal de logística e compras institucionais, tanto no setor público quanto em empresas.",
+    "synonyms": ["acquisition", "purchasing"],
+    "antonyms": [],
+    "collocations": ["procurement process", "defense procurement", "procurement contract"],
+    "usageNotes": "Mais formal que 'buying'; típico de licitações e contratos.",
+    "tags": ["exercito", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "maneuver",
+    "translation": "manobra, manobrar",
+    "partOfSpeech": "noun",
+    "ipa": "/məˈnuːvər/",
+    "pronunciationHintPtBr": "ma-nú-ver",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "manobra", "definitionEn": "a planned and controlled movement, often military", "definitionPtBr": "um movimento planejado e controlado, muitas vezes militar" },
+      { "translation": "manobrar", "definitionEn": "to move something skillfully into position", "definitionPtBr": "mover algo com habilidade até a posição certa" }
+    ],
+    "exampleEn": "The troops practiced the maneuver several times before dawn.",
+    "examplePtBr": "As tropas praticaram a manobra várias vezes antes do amanhecer.",
+    "dailyUsage": "Grafia americana 'maneuver'; a britânica é 'manoeuvre'. Serve para exercícios militares e para dirigir.",
+    "synonyms": ["move", "operation"],
+    "antonyms": [],
+    "collocations": ["military maneuver", "evasive maneuver", "a tricky maneuver"],
+    "usageNotes": "No plural, 'maneuvers' costuma significar exercícios militares de treinamento.",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "backup",
+    "translation": "apoio, reserva",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈbækʌp/",
+    "pronunciationHintPtBr": "bék-ap",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "apoio", "definitionEn": "extra help or support ready when needed", "definitionPtBr": "ajuda ou suporte extra pronto para quando for preciso" }
+    ],
+    "exampleEn": "The patrol radioed for backup when they saw movement ahead.",
+    "examplePtBr": "A patrulha pediu apoio pelo rádio ao ver movimento à frente.",
+    "dailyUsage": "Como substantivo, apoio ou reserva. Em tecnologia, é a cópia de segurança. Como verbo é 'back up' (dois termos).",
+    "synonyms": ["support", "reinforcement"],
+    "antonyms": [],
+    "collocations": ["call for backup", "backup plan", "provide backup"],
+    "usageNotes": "Substantivo 'backup' é junto; o phrasal verb 'back up' (fazer cópia, dar ré) é separado.",
+    "tags": ["exercito", "tecnologia"],
+    "source": "seed"
+  },
+  {
+    "english": "standby",
+    "translation": "prontidão, de reserva",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈstændbaɪ/",
+    "pronunciationHintPtBr": "sténd-bai",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "prontidão", "definitionEn": "a state of being ready to act immediately if needed", "definitionPtBr": "o estado de estar pronto para agir de imediato se preciso" }
+    ],
+    "exampleEn": "The medical team was kept on standby all night.",
+    "examplePtBr": "A equipe médica ficou de prontidão a noite toda.",
+    "dailyUsage": "'On standby' é a forma mais usada: de prontidão. No aeroporto, 'standby' é a lista de espera por assento.",
+    "synonyms": ["readiness", "alert"],
+    "antonyms": [],
+    "collocations": ["on standby", "standby mode", "standby ticket"],
+    "usageNotes": "Serve para exército, aviação e até aparelhos ('standby mode', modo de espera).",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "checkpoint",
+    "translation": "posto de controle, barreira",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈtʃekpɔɪnt/",
+    "pronunciationHintPtBr": "tchék-point",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "posto de controle", "definitionEn": "a place where people and vehicles are stopped and checked", "definitionPtBr": "um local onde pessoas e veículos são parados e verificados" }
+    ],
+    "exampleEn": "Every car was inspected at the checkpoint on the main road.",
+    "examplePtBr": "Cada carro foi inspecionado no posto de controle da estrada principal.",
+    "dailyUsage": "Comum em segurança, fronteiras e operações. Também usado em games e projetos (ponto de verificação).",
+    "synonyms": ["control point", "barrier"],
+    "antonyms": [],
+    "collocations": ["security checkpoint", "pass through a checkpoint", "set up a checkpoint"],
+    "usageNotes": "No aeroporto, 'security checkpoint' é a inspeção de segurança antes do embarque.",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "chain of command",
+    "translation": "cadeia de comando, hierarquia",
+    "partOfSpeech": "idiom",
+    "ipa": "/ˌtʃeɪn əv kəˈmænd/",
+    "pronunciationHintPtBr": "tchêin ov ka-mánd",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "cadeia de comando", "definitionEn": "the order of authority from top to bottom in an organization", "definitionPtBr": "a ordem de autoridade de cima para baixo numa organização" }
+    ],
+    "exampleEn": "He reported the problem through the proper chain of command.",
+    "examplePtBr": "Ele relatou o problema seguindo a cadeia de comando correta.",
+    "dailyUsage": "Expressão fixa sobre hierarquia. Muito usada no exército e também em empresas.",
+    "synonyms": ["hierarchy", "command structure"],
+    "antonyms": [],
+    "collocations": ["follow the chain of command", "go up the chain of command", "break the chain of command"],
+    "usageNotes": "Passar por cima dela ('go over someone's head') costuma soar desrespeitoso.",
+    "tags": ["exercito", "expressao"],
+    "source": "seed"
+  },
+  {
+    "english": "report",
+    "translation": "apresentar-se, reportar",
+    "partOfSpeech": "verb",
+    "ipa": "/rɪˈpɔːrt/",
+    "pronunciationHintPtBr": "ri-pórt",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "apresentar-se", "definitionEn": "to present yourself to a person or place as required", "definitionPtBr": "apresentar-se a uma pessoa ou local conforme exigido" },
+      { "translation": "reportar", "definitionEn": "to give an account of something to someone in charge", "definitionPtBr": "dar conta de algo a quem está no comando" }
+    ],
+    "exampleEn": "New recruits must report to the base by eight in the morning.",
+    "examplePtBr": "Os novos recrutas devem se apresentar à base às oito da manhã.",
+    "dailyUsage": "'Report to someone' é prestar contas a alguém (quem é seu chefe). 'Report for duty' é apresentar-se ao serviço.",
+    "synonyms": ["present yourself", "inform"],
+    "antonyms": [],
+    "collocations": ["report to", "report for duty", "report a problem"],
+    "usageNotes": "Também é substantivo ('a report', um relatório), mas aqui o foco é o verbo.",
+    "tags": ["exercito", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "carry out",
+    "translation": "executar, realizar",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˈkæri aʊt/",
+    "pronunciationHintPtBr": "ké-ri áut",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "executar", "definitionEn": "to do or complete a task or plan", "definitionPtBr": "fazer ou concluir uma tarefa ou plano" }
+    ],
+    "exampleEn": "The unit carried out the orders without any delay.",
+    "examplePtBr": "A unidade executou as ordens sem nenhum atraso.",
+    "dailyUsage": "Muito usado em contexto formal: 'carry out an order, a task, a study, an attack'. Separável com objeto pronome ('carry it out').",
+    "synonyms": ["perform", "execute"],
+    "antonyms": ["abandon"],
+    "collocations": ["carry out orders", "carry out a plan", "carry out a mission"],
+    "usageNotes": "Com pronome, o objeto vai no meio: 'carry it out', nunca 'carry out it'.",
+    "tags": ["exercito", "phrasal-verb"],
+    "source": "seed"
+  },
+  {
+    "english": "call off",
+    "translation": "cancelar, suspender",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌkɔːl ˈɔːf/",
+    "pronunciationHintPtBr": "cól óf",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "cancelar", "definitionEn": "to decide that a planned event or action will not happen", "definitionPtBr": "decidir que um evento ou ação planejada não vai acontecer" }
+    ],
+    "exampleEn": "Command called off the operation because of the storm.",
+    "examplePtBr": "O comando cancelou a operação por causa da tempestade.",
+    "dailyUsage": "Usado para cancelar algo já em andamento ou marcado: busca, greve, jogo, operação. Separável.",
+    "synonyms": ["cancel", "abandon"],
+    "antonyms": ["go ahead"],
+    "collocations": ["call off the search", "call off a strike", "call it off"],
+    "usageNotes": "Com pronome, o objeto fica no meio: 'call it off'.",
+    "tags": ["exercito", "phrasal-verb"],
+    "source": "seed"
+  },
+  {
+    "english": "medic",
+    "translation": "socorrista, enfermeiro de combate",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈmedɪk/",
+    "pronunciationHintPtBr": "mé-dik",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "socorrista", "definitionEn": "a person trained to give medical help, often in the military", "definitionPtBr": "pessoa treinada para prestar socorro médico, muitas vezes no exército" }
+    ],
+    "exampleEn": "The medic treated the injured soldier on the spot.",
+    "examplePtBr": "O socorrista tratou o soldado ferido ali mesmo.",
+    "dailyUsage": "Informal para o profissional de saúde no campo. 'Medic!' é o grito pedindo socorro em filmes de guerra.",
+    "synonyms": ["paramedic", "corpsman"],
+    "antonyms": [],
+    "collocations": ["combat medic", "call a medic", "field medic"],
+    "usageNotes": "Mais coloquial que 'medical officer'. Serve para ambientes militares e de emergência.",
+    "tags": ["exercito", "saude"],
+    "source": "seed"
+  },
+  {
+    "english": "fleet",
+    "translation": "frota, esquadra",
+    "partOfSpeech": "noun",
+    "ipa": "/fliːt/",
+    "pronunciationHintPtBr": "flít",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "frota", "definitionEn": "a group of ships or vehicles operating together", "definitionPtBr": "um grupo de navios ou veículos que operam juntos" }
+    ],
+    "exampleEn": "The company renewed its entire fleet of delivery trucks.",
+    "examplePtBr": "A empresa renovou toda a sua frota de caminhões de entrega.",
+    "dailyUsage": "Clássico para navios de guerra, mas hoje muito usado para frotas de veículos de empresas e logística.",
+    "synonyms": ["flotilla", "squadron"],
+    "antonyms": [],
+    "collocations": ["a fleet of ships", "delivery fleet", "fleet of vehicles"],
+    "usageNotes": "'Fleet' como adjetivo (raro) significa veloz, mas o sentido comum é frota.",
+    "tags": ["exercito", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "duty",
+    "translation": "dever, serviço, plantão",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈduːti/",
+    "pronunciationHintPtBr": "dú-ti",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "dever", "definitionEn": "something you must do as part of your job or role", "definitionPtBr": "algo que você deve fazer como parte do seu trabalho ou papel" },
+      { "translation": "plantão", "definitionEn": "a period of time when someone is working or on call", "definitionPtBr": "um período em que alguém está trabalhando ou de plantão" }
+    ],
+    "exampleEn": "The guard was on duty from midnight until dawn.",
+    "examplePtBr": "O guarda ficou de serviço da meia-noite até o amanhecer.",
+    "dailyUsage": "'On duty' (de serviço) e 'off duty' (de folga) são pares fixos muito úteis.",
+    "synonyms": ["obligation", "responsibility"],
+    "antonyms": [],
+    "collocations": ["on duty", "off duty", "report for duty"],
+    "usageNotes": "No plural ('duties') costuma significar as tarefas de um cargo.",
+    "tags": ["exercito", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "escort",
+    "translation": "escolta, escoltar",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈeskɔːrt/",
+    "pronunciationHintPtBr": "és-cort",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "escolta", "definitionEn": "a person or group that travels with someone to protect or guide them", "definitionPtBr": "pessoa ou grupo que acompanha alguém para proteger ou guiar" },
+      { "translation": "escoltar", "definitionEn": "to go with someone to protect or guide them", "definitionPtBr": "acompanhar alguém para proteger ou guiar" }
+    ],
+    "exampleEn": "Two vehicles provided an escort for the supply trucks.",
+    "examplePtBr": "Dois veículos serviram de escolta para os caminhões de suprimentos.",
+    "dailyUsage": "Como substantivo a tônica é no 'es'; como verbo ('to escort') muda para o fim.",
+    "synonyms": ["guard", "accompaniment"],
+    "antonyms": [],
+    "collocations": ["police escort", "under escort", "provide an escort"],
+    "usageNotes": "'Under escort' significa sendo acompanhado por uma escolta, por proteção ou vigilância.",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "airport",
+    "translation": "aeroporto",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈerpɔːrt/",
+    "pronunciationHintPtBr": "ér-port",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "aeroporto", "definitionEn": "a place where planes take off and land", "definitionPtBr": "um lugar onde aviões decolam e pousam" }
+    ],
+    "exampleEn": "We got to the airport three hours before our flight.",
+    "examplePtBr": "Chegamos ao aeroporto três horas antes do nosso voo.",
+    "dailyUsage": "Use 'at the airport' para falar de estar lá e 'to the airport' para ir até ele.",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": ["at the airport", "airport terminal", "airport shuttle"],
+    "usageNotes": "'Airport shuttle' é o transporte que liga o aeroporto ao hotel ou à cidade.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "hotel",
+    "translation": "hotel",
+    "partOfSpeech": "noun",
+    "ipa": "/hoʊˈtel/",
+    "pronunciationHintPtBr": "rôu-tél",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "hotel", "definitionEn": "a place that offers rooms and meals to travelers for payment", "definitionPtBr": "um lugar que oferece quartos e refeições a viajantes mediante pagamento" }
+    ],
+    "exampleEn": "Our hotel was right next to the train station.",
+    "examplePtBr": "Nosso hotel ficava bem ao lado da estação de trem.",
+    "dailyUsage": "A tônica em inglês fica na segunda sílaba ('tél'), diferente do português. 'Stay at a hotel' é a forma comum.",
+    "synonyms": ["inn", "lodge"],
+    "antonyms": [],
+    "collocations": ["check into a hotel", "hotel room", "book a hotel"],
+    "usageNotes": "Em inglês americano o 'h' é aspirado, então se usa 'a hotel', não 'an hotel'.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "ticket",
+    "translation": "bilhete, passagem",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈtɪkɪt/",
+    "pronunciationHintPtBr": "tí-ket",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "passagem", "definitionEn": "a printed or digital pass that lets you travel or enter", "definitionPtBr": "um comprovante impresso ou digital que permite viajar ou entrar" }
+    ],
+    "exampleEn": "I bought my train ticket online the night before.",
+    "examplePtBr": "Comprei minha passagem de trem pela internet na noite anterior.",
+    "dailyUsage": "Serve para transporte, shows, cinema e até multa ('a parking ticket').",
+    "synonyms": ["pass", "fare"],
+    "antonyms": [],
+    "collocations": ["buy a ticket", "plane ticket", "one-way ticket"],
+    "usageNotes": "'A ticket' pode ser também uma multa de trânsito no inglês americano.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "luggage",
+    "translation": "bagagem",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈlʌɡɪdʒ/",
+    "pronunciationHintPtBr": "lá-guidj",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "bagagem", "definitionEn": "the bags and cases you take when you travel", "definitionPtBr": "as malas e bolsas que você leva quando viaja" }
+    ],
+    "exampleEn": "We left our luggage at the hotel and went to explore.",
+    "examplePtBr": "Deixamos a bagagem no hotel e saímos para explorar.",
+    "dailyUsage": "É incontável: não se diz 'luggages'. Para contar, use 'a piece of luggage'.",
+    "synonyms": ["baggage", "bags"],
+    "antonyms": [],
+    "collocations": ["carry-on luggage", "a piece of luggage", "hand luggage"],
+    "usageNotes": "Substantivo incontável. 'Baggage' é praticamente sinônimo, mais comum nos EUA.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "passport",
+    "translation": "passaporte",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈpæspɔːrt/",
+    "pronunciationHintPtBr": "pés-port",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "passaporte", "definitionEn": "an official document that lets you travel to other countries", "definitionPtBr": "um documento oficial que permite viajar para outros países" }
+    ],
+    "exampleEn": "Make sure your passport is valid before you book the trip.",
+    "examplePtBr": "Garanta que seu passaporte esteja válido antes de fechar a viagem.",
+    "dailyUsage": "No controle de imigração você ouve 'passport, please'. Fique de olho na data de validade ('expiry date').",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": ["renew a passport", "valid passport", "passport control"],
+    "usageNotes": "'Passport control' é o guichê de imigração onde o passaporte é carimbado.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "flight",
+    "translation": "voo",
+    "partOfSpeech": "noun",
+    "ipa": "/flaɪt/",
+    "pronunciationHintPtBr": "fláit",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "voo", "definitionEn": "a journey made by air from one place to another", "definitionPtBr": "uma viagem feita pelo ar de um lugar a outro" }
+    ],
+    "exampleEn": "Our flight was delayed by almost two hours.",
+    "examplePtBr": "Nosso voo atrasou quase duas horas.",
+    "dailyUsage": "'Catch a flight' é pegar o voo; 'miss a flight' é perdê-lo. 'A direct flight' é um voo sem escalas.",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": ["book a flight", "catch a flight", "direct flight"],
+    "usageNotes": "Voo sem troca de avião é 'direct flight'; com troca é 'connecting flight'.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "taxi",
+    "translation": "táxi",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈtæksi/",
+    "pronunciationHintPtBr": "ték-si",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "táxi", "definitionEn": "a car with a driver that you pay to take you somewhere", "definitionPtBr": "um carro com motorista que você paga para te levar a algum lugar" }
+    ],
+    "exampleEn": "We took a taxi from the airport to the city center.",
+    "examplePtBr": "Pegamos um táxi do aeroporto até o centro da cidade.",
+    "dailyUsage": "'Take a taxi' ou 'catch a taxi' é pegar um táxi. 'Cab' é sinônimo comum nos EUA.",
+    "synonyms": ["cab"],
+    "antonyms": [],
+    "collocations": ["take a taxi", "call a taxi", "taxi stand"],
+    "usageNotes": "'Taxi stand' é o ponto de táxi. No inglês americano também se diz 'cab'.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "trip",
+    "translation": "viagem, passeio",
+    "partOfSpeech": "noun",
+    "ipa": "/trɪp/",
+    "pronunciationHintPtBr": "trip",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "viagem", "definitionEn": "a journey to a place and back, usually short", "definitionPtBr": "uma ida a um lugar e a volta, geralmente curta" }
+    ],
+    "exampleEn": "We are planning a short trip to the coast this weekend.",
+    "examplePtBr": "Estamos planejando uma viagem curta até o litoral neste fim de semana.",
+    "dailyUsage": "'Trip' foca no deslocamento até um lugar e a volta. 'Have a good trip!' é 'boa viagem!'.",
+    "synonyms": ["journey", "outing"],
+    "antonyms": [],
+    "collocations": ["business trip", "road trip", "go on a trip"],
+    "usageNotes": "'Trip' é a ida e volta; 'journey' enfatiza o trajeto; 'travel' é o conceito geral de viajar.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "map",
+    "translation": "mapa",
+    "partOfSpeech": "noun",
+    "ipa": "/mæp/",
+    "pronunciationHintPtBr": "mép",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "mapa", "definitionEn": "a drawing of an area showing roads, places, and features", "definitionPtBr": "um desenho de uma área mostrando ruas, lugares e pontos" }
+    ],
+    "exampleEn": "I opened the map on my phone to find the hostel.",
+    "examplePtBr": "Abri o mapa no celular para achar o hostel.",
+    "dailyUsage": "'Read a map' é ler um mapa; 'on the map' pode ser literal ou figurado (ganhar destaque).",
+    "synonyms": ["chart", "plan"],
+    "antonyms": [],
+    "collocations": ["read a map", "a map of", "on the map"],
+    "usageNotes": "'Put a place on the map' significa torná-lo conhecido.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "bus",
+    "translation": "ônibus",
+    "partOfSpeech": "noun",
+    "ipa": "/bʌs/",
+    "pronunciationHintPtBr": "bás",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "ônibus", "definitionEn": "a large road vehicle that carries many passengers", "definitionPtBr": "um veículo grande de estrada que leva muitos passageiros" }
+    ],
+    "exampleEn": "The hotel is just two bus stops from the beach.",
+    "examplePtBr": "O hotel fica a apenas dois pontos de ônibus da praia.",
+    "dailyUsage": "'Take the bus' ou 'catch the bus' é pegar o ônibus; 'get off the bus' é descer.",
+    "synonyms": ["coach"],
+    "antonyms": [],
+    "collocations": ["take the bus", "bus stop", "bus station"],
+    "usageNotes": "'Coach' costuma ser o ônibus de longa distância; 'bus' é o urbano.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "suitcase",
+    "translation": "mala",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈsuːtkeɪs/",
+    "pronunciationHintPtBr": "sút-keis",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "mala", "definitionEn": "a large bag with a handle for carrying clothes when traveling", "definitionPtBr": "uma bolsa grande com alça para levar roupas em viagem" }
+    ],
+    "exampleEn": "She packed her suitcase the night before the trip.",
+    "examplePtBr": "Ela arrumou a mala na noite anterior à viagem.",
+    "dailyUsage": "'Pack a suitcase' é fazer a mala; 'unpack' é desfazer. 'Live out of a suitcase' é viver viajando.",
+    "synonyms": ["case", "bag"],
+    "antonyms": [],
+    "collocations": ["pack a suitcase", "a heavy suitcase", "unpack the suitcase"],
+    "usageNotes": "'Live out of a suitcase' é uma expressão para quem está sempre em trânsito.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "gate",
+    "translation": "portão de embarque",
+    "partOfSpeech": "noun",
+    "ipa": "/ɡeɪt/",
+    "pronunciationHintPtBr": "guêit",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "portão de embarque", "definitionEn": "the place in an airport where you board the plane", "definitionPtBr": "o local no aeroporto onde você embarca no avião" }
+    ],
+    "exampleEn": "Our gate changed twice before we finally boarded.",
+    "examplePtBr": "Nosso portão mudou duas vezes antes de finalmente embarcarmos.",
+    "dailyUsage": "No aeroporto é o 'boarding gate'. A palavra também significa portão comum de entrada.",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": ["boarding gate", "gate number", "gate change"],
+    "usageNotes": "O painel do aeroporto mostra o 'gate number'. Fora do aeroporto, 'gate' é qualquer portão.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "backpack",
+    "translation": "mochila",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈbækpæk/",
+    "pronunciationHintPtBr": "bék-pék",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "mochila", "definitionEn": "a bag carried on your back with two shoulder straps", "definitionPtBr": "uma bolsa carregada nas costas com duas alças de ombro" }
+    ],
+    "exampleEn": "He traveled across Europe with just a backpack.",
+    "examplePtBr": "Ele viajou pela Europa só com uma mochila.",
+    "dailyUsage": "Também é verbo: 'to backpack' significa viajar de mochila, de forma econômica. Quem faz isso é 'a backpacker'.",
+    "synonyms": ["rucksack", "pack"],
+    "antonyms": [],
+    "collocations": ["a heavy backpack", "backpack across Europe", "pack a backpack"],
+    "usageNotes": "'Backpacker' é o viajante mochileiro; 'backpacking' é esse estilo de viagem.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "one-way",
+    "translation": "só de ida",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˌwʌn ˈweɪ/",
+    "pronunciationHintPtBr": "uán uêi",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "só de ida", "definitionEn": "allowing travel in one direction only", "definitionPtBr": "que permite viagem em apenas um sentido" }
+    ],
+    "exampleEn": "I only need a one-way ticket because I'm not coming back.",
+    "examplePtBr": "Só preciso de uma passagem de ida porque não vou voltar.",
+    "dailyUsage": "'One-way ticket' é passagem só de ida; o oposto é 'round-trip' (ida e volta). Também existe 'one-way street' (rua de mão única).",
+    "synonyms": ["single"],
+    "antonyms": ["round-trip"],
+    "collocations": ["one-way ticket", "one-way street", "one-way trip"],
+    "usageNotes": "No inglês britânico, passagem só de ida é 'single'; nos EUA é 'one-way'.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "destination",
+    "translation": "destino",
+    "partOfSpeech": "noun",
+    "ipa": "/ˌdestɪˈneɪʃən/",
+    "pronunciationHintPtBr": "dés-ti-nêi-chãn",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "destino", "definitionEn": "the place where someone or something is going", "definitionPtBr": "o lugar para onde alguém ou algo está indo" }
+    ],
+    "exampleEn": "The island is a popular destination for summer travelers.",
+    "examplePtBr": "A ilha é um destino popular para viajantes de verão.",
+    "dailyUsage": "'Final destination' é o destino final; 'travel destination' é um destino turístico.",
+    "synonyms": ["target", "endpoint"],
+    "antonyms": ["origin", "departure point"],
+    "collocations": ["final destination", "travel destination", "reach a destination"],
+    "usageNotes": "Aqui significa o lugar de chegada, não o conceito de sorte ou sina.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "reservation",
+    "translation": "reserva",
+    "partOfSpeech": "noun",
+    "ipa": "/ˌrezərˈveɪʃən/",
+    "pronunciationHintPtBr": "ré-zer-vêi-chãn",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "reserva", "definitionEn": "an arrangement to keep a room, table, or seat for you", "definitionPtBr": "um acordo para guardar um quarto, mesa ou assento para você" }
+    ],
+    "exampleEn": "I made a reservation for two nights at a small hotel.",
+    "examplePtBr": "Fiz uma reserva de duas noites num hotel pequeno.",
+    "dailyUsage": "'Make a reservation' é fazer uma reserva; 'under the name of' indica em nome de quem está.",
+    "synonyms": ["booking"],
+    "antonyms": [],
+    "collocations": ["make a reservation", "hotel reservation", "cancel a reservation"],
+    "usageNotes": "'Reservation' também pode significar uma ressalva ou dúvida ('I have reservations about it').",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "boarding pass",
+    "translation": "cartão de embarque",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈbɔːrdɪŋ pæs/",
+    "pronunciationHintPtBr": "bór-ding pés",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "cartão de embarque", "definitionEn": "a document that lets you get on a plane", "definitionPtBr": "um documento que permite entrar no avião" }
+    ],
+    "exampleEn": "Have your boarding pass ready before you reach the gate.",
+    "examplePtBr": "Tenha o cartão de embarque em mãos antes de chegar ao portão.",
+    "dailyUsage": "Hoje é comum o 'mobile boarding pass', no celular. Pedem no raio-X e no embarque.",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": ["mobile boarding pass", "show your boarding pass", "print a boarding pass"],
+    "usageNotes": "Sai no check-in, impresso ou digital. Diferente da passagem ('ticket').",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "departure",
+    "translation": "partida, saída",
+    "partOfSpeech": "noun",
+    "ipa": "/dɪˈpɑːrtʃər/",
+    "pronunciationHintPtBr": "di-pár-tcher",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "partida", "definitionEn": "the act of leaving a place, especially to travel", "definitionPtBr": "o ato de deixar um lugar, especialmente para viajar" }
+    ],
+    "exampleEn": "The departure time was pushed back to nine o'clock.",
+    "examplePtBr": "O horário de partida foi adiado para as nove horas.",
+    "dailyUsage": "No aeroporto, 'departures' é o setor de saídas, oposto de 'arrivals'. O verbo é 'to depart'.",
+    "synonyms": ["exit", "leaving"],
+    "antonyms": ["arrival"],
+    "collocations": ["departure time", "departure gate", "departure lounge"],
+    "usageNotes": "'Departure lounge' é a sala de espera depois do raio-X.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "arrival",
+    "translation": "chegada",
+    "partOfSpeech": "noun",
+    "ipa": "/əˈraɪvəl/",
+    "pronunciationHintPtBr": "a-rái-vol",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "chegada", "definitionEn": "the act of reaching a place at the end of a journey", "definitionPtBr": "o ato de alcançar um lugar ao fim de uma viagem" }
+    ],
+    "exampleEn": "Our arrival was delayed because of heavy traffic.",
+    "examplePtBr": "Nossa chegada atrasou por causa do trânsito pesado.",
+    "dailyUsage": "No aeroporto, 'arrivals' é o setor de chegadas. 'On arrival' significa ao chegar.",
+    "synonyms": ["coming"],
+    "antonyms": ["departure"],
+    "collocations": ["on arrival", "arrival time", "arrivals hall"],
+    "usageNotes": "'On arrival' é uma expressão útil: 'pay on arrival' (pague ao chegar).",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "check-in",
+    "translation": "registro de entrada, check-in",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈtʃekɪn/",
+    "pronunciationHintPtBr": "tchék-in",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "check-in", "definitionEn": "the process of registering at an airport or hotel", "definitionPtBr": "o processo de registrar sua chegada num aeroporto ou hotel" }
+    ],
+    "exampleEn": "Online check-in opens twenty-four hours before the flight.",
+    "examplePtBr": "O check-in online abre vinte e quatro horas antes do voo.",
+    "dailyUsage": "Como substantivo é 'check-in' (com hífen); como verbo são duas palavras ('check in').",
+    "synonyms": ["registration"],
+    "antonyms": ["check-out"],
+    "collocations": ["online check-in", "check-in desk", "check-in time"],
+    "usageNotes": "Substantivo leva hífen. O 'check-in desk' é o balcão de atendimento.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "delay",
+    "translation": "atraso, atrasar",
+    "partOfSpeech": "noun",
+    "ipa": "/dɪˈleɪ/",
+    "pronunciationHintPtBr": "di-lêi",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "atraso", "definitionEn": "a period of time when something happens later than planned", "definitionPtBr": "um período em que algo acontece mais tarde do que o planejado" },
+      { "translation": "atrasar", "definitionEn": "to make something happen later than expected", "definitionPtBr": "fazer algo acontecer mais tarde do que o esperado" }
+    ],
+    "exampleEn": "There was a long delay before the plane finally took off.",
+    "examplePtBr": "Houve um longo atraso antes de o avião finalmente decolar.",
+    "dailyUsage": "Substantivo e verbo. 'Without delay' significa sem demora; 'a flight delay' é atraso de voo.",
+    "synonyms": ["holdup", "wait"],
+    "antonyms": [],
+    "collocations": ["flight delay", "a long delay", "without delay"],
+    "usageNotes": "'Delayed' como adjetivo descreve o voo atrasado: 'the flight is delayed'.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "carry-on",
+    "translation": "bagagem de mão",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈkæri ɑːn/",
+    "pronunciationHintPtBr": "ké-ri ón",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "bagagem de mão", "definitionEn": "a small bag you take into the plane cabin with you", "definitionPtBr": "uma bolsa pequena que você leva com você na cabine do avião" }
+    ],
+    "exampleEn": "I only travel with a carry-on to avoid waiting for luggage.",
+    "examplePtBr": "Eu só viajo com bagagem de mão para não esperar pela mala.",
+    "dailyUsage": "Termo americano. Também funciona como adjetivo: 'carry-on bag', 'carry-on allowance'.",
+    "synonyms": ["hand luggage", "cabin bag"],
+    "antonyms": ["checked baggage"],
+    "collocations": ["carry-on bag", "carry-on allowance", "fit in the carry-on"],
+    "usageNotes": "O oposto é 'checked baggage', a mala despachada que vai no porão.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "customs",
+    "translation": "alfândega",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈkʌstəmz/",
+    "pronunciationHintPtBr": "cás-tams",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "alfândega", "definitionEn": "the place where officials check what you bring into a country", "definitionPtBr": "o local onde agentes verificam o que você traz para um país" }
+    ],
+    "exampleEn": "We had nothing to declare, so customs was quick.",
+    "examplePtBr": "Não tínhamos nada a declarar, então a alfândega foi rápida.",
+    "dailyUsage": "Usado no plural. 'Go through customs' é passar pela alfândega; 'declare' é declarar itens.",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": ["go through customs", "customs officer", "clear customs"],
+    "usageNotes": "Não confundir com 'custom' no singular, que significa costume ou tradição.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "round-trip",
+    "translation": "ida e volta",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˌraʊnd ˈtrɪp/",
+    "pronunciationHintPtBr": "ráund trip",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "ida e volta", "definitionEn": "covering the journey to a place and back again", "definitionPtBr": "que cobre a viagem até um lugar e a volta" }
+    ],
+    "exampleEn": "A round-trip ticket was cheaper than two one-way fares.",
+    "examplePtBr": "Uma passagem de ida e volta ficou mais barata que duas passagens só de ida.",
+    "dailyUsage": "Termo americano. No inglês britânico se diz 'return ticket'.",
+    "synonyms": ["return"],
+    "antonyms": ["one-way"],
+    "collocations": ["round-trip ticket", "round-trip flight", "round-trip fare"],
+    "usageNotes": "Nos EUA, 'round-trip'; no Reino Unido, 'return'. Significam a mesma coisa.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "aisle seat",
+    "translation": "assento no corredor",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈaɪl siːt/",
+    "pronunciationHintPtBr": "áil sít",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "assento no corredor", "definitionEn": "a seat next to the passage on a plane or bus", "definitionPtBr": "um assento ao lado da passagem num avião ou ônibus" }
+    ],
+    "exampleEn": "I always ask for an aisle seat so I can stretch my legs.",
+    "examplePtBr": "Eu sempre peço um assento no corredor para poder esticar as pernas.",
+    "dailyUsage": "O 's' de 'aisle' é mudo: soa 'áil'. O oposto é 'window seat' (assento na janela).",
+    "synonyms": [],
+    "antonyms": ["window seat"],
+    "collocations": ["request an aisle seat", "prefer an aisle seat", "book an aisle seat"],
+    "usageNotes": "Cuidado com a pronúncia: 'aisle' soa igual a 'isle' e a 'I'll'.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "check out",
+    "translation": "fazer o checkout, dar baixa na saída",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌtʃek ˈaʊt/",
+    "pronunciationHintPtBr": "tchék áut",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "fazer o checkout", "definitionEn": "to pay and leave a hotel at the end of your stay", "definitionPtBr": "pagar e sair de um hotel ao fim da estadia" },
+      { "translation": "dar uma olhada", "definitionEn": "to look at or try something to see if it is good", "definitionPtBr": "olhar ou experimentar algo para ver se é bom" }
+    ],
+    "exampleEn": "We have to check out of the hotel before noon.",
+    "examplePtBr": "Temos que fazer o checkout do hotel antes do meio-dia.",
+    "dailyUsage": "No hotel, oposto de 'check in'. No dia a dia, 'check out this place' é dar uma olhada.",
+    "synonyms": ["leave", "look at"],
+    "antonyms": ["check in"],
+    "collocations": ["check out of a hotel", "check-out time", "check it out"],
+    "usageNotes": "O substantivo 'check-out' (horário de saída) leva hífen; o phrasal verb são duas palavras.",
+    "tags": ["viagens", "phrasal-verb"],
+    "source": "seed"
+  },
+  {
+    "english": "board",
+    "translation": "embarcar",
+    "partOfSpeech": "verb",
+    "ipa": "/bɔːrd/",
+    "pronunciationHintPtBr": "bórd",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "embarcar", "definitionEn": "to get on a plane, ship, bus, or train", "definitionPtBr": "entrar num avião, navio, ônibus ou trem" }
+    ],
+    "exampleEn": "Passengers can board the plane as soon as the gate opens.",
+    "examplePtBr": "Os passageiros podem embarcar no avião assim que o portão abrir.",
+    "dailyUsage": "'Now boarding' é a chamada de embarque no aeroporto. 'On board' significa a bordo.",
+    "synonyms": ["get on", "embark"],
+    "antonyms": ["disembark", "get off"],
+    "collocations": ["board a plane", "now boarding", "board the train"],
+    "usageNotes": "'Board' também é substantivo (tábua, conselho), mas aqui o foco é o verbo de embarcar.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "fare",
+    "translation": "tarifa, preço da passagem",
+    "partOfSpeech": "noun",
+    "ipa": "/fer/",
+    "pronunciationHintPtBr": "fér",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "tarifa", "definitionEn": "the money you pay to travel by bus, train, taxi, or plane", "definitionPtBr": "o dinheiro que você paga para viajar de ônibus, trem, táxi ou avião" }
+    ],
+    "exampleEn": "The taxi fare from the airport was higher than we expected.",
+    "examplePtBr": "A tarifa do táxi do aeroporto foi mais alta do que esperávamos.",
+    "dailyUsage": "'Air fare' é o preço da passagem aérea; 'bus fare' é a tarifa do ônibus.",
+    "synonyms": ["fee", "price"],
+    "antonyms": [],
+    "collocations": ["bus fare", "air fare", "pay the fare"],
+    "usageNotes": "Não confundir com 'fair' (justo, feira), que tem o mesmo som.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "baggage claim",
+    "translation": "esteira de bagagem, retirada de bagagem",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈbæɡɪdʒ kleɪm/",
+    "pronunciationHintPtBr": "bé-guidj kleim",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "retirada de bagagem", "definitionEn": "the area in an airport where you collect your checked bags", "definitionPtBr": "a área do aeroporto onde você pega suas malas despachadas" }
+    ],
+    "exampleEn": "We waited at baggage claim for almost half an hour.",
+    "examplePtBr": "Esperamos na esteira de bagagem por quase meia hora.",
+    "dailyUsage": "Termo americano. No Reino Unido também se diz 'baggage reclaim'.",
+    "synonyms": ["baggage reclaim"],
+    "antonyms": [],
+    "collocations": ["at baggage claim", "baggage claim area", "wait at baggage claim"],
+    "usageNotes": "É onde ficam as esteiras ('carousels') com as malas despachadas.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "hostel",
+    "translation": "albergue, hostel",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈhɑːstəl/",
+    "pronunciationHintPtBr": "rós-tol",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "albergue", "definitionEn": "a cheap place to stay, often with shared rooms", "definitionPtBr": "um lugar barato para se hospedar, muitas vezes com quartos compartilhados" }
+    ],
+    "exampleEn": "We stayed in a friendly hostel near the old town.",
+    "examplePtBr": "Ficamos num hostel simpático perto do centro histórico.",
+    "dailyUsage": "Popular entre mochileiros. Não confundir com 'hotel', que é diferente em som e preço.",
+    "synonyms": ["guesthouse", "inn"],
+    "antonyms": [],
+    "collocations": ["youth hostel", "stay in a hostel", "a cheap hostel"],
+    "usageNotes": "Cuidado para não confundir 'hostel' (albergue) com 'hostile' (hostil).",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "sightseeing",
+    "translation": "turismo, passeio turístico",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈsaɪtsiːɪŋ/",
+    "pronunciationHintPtBr": "sáit-sii-ing",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "passeio turístico", "definitionEn": "the activity of visiting interesting places as a tourist", "definitionPtBr": "a atividade de visitar lugares interessantes como turista" }
+    ],
+    "exampleEn": "We spent the whole afternoon sightseeing in the old city.",
+    "examplePtBr": "Passamos a tarde inteira fazendo turismo na cidade antiga.",
+    "dailyUsage": "'Go sightseeing' é fazer o passeio turístico; 'sightseeing tour' é o passeio guiado.",
+    "synonyms": ["touring"],
+    "antonyms": [],
+    "collocations": ["go sightseeing", "sightseeing tour", "a day of sightseeing"],
+    "usageNotes": "Substantivo incontável. 'Sights' são os pontos turísticos ('see the sights').",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "itinerary",
+    "translation": "roteiro, itinerário",
+    "partOfSpeech": "noun",
+    "ipa": "/aɪˈtɪnəreri/",
+    "pronunciationHintPtBr": "ai-tí-ne-ré-ri",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "roteiro", "definitionEn": "a detailed plan of a journey, listing places and times", "definitionPtBr": "um plano detalhado de uma viagem, com lugares e horários" }
+    ],
+    "exampleEn": "Our itinerary included three cities in just five days.",
+    "examplePtBr": "Nosso roteiro incluía três cidades em apenas cinco dias.",
+    "dailyUsage": "Palavra formal para o plano da viagem. A tônica fica na segunda sílaba ('tin').",
+    "synonyms": ["schedule", "route"],
+    "antonyms": [],
+    "collocations": ["travel itinerary", "plan an itinerary", "a packed itinerary"],
+    "usageNotes": "'A packed itinerary' é um roteiro cheio, com pouco tempo livre.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "layover",
+    "translation": "escala, conexão (com espera)",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈleɪoʊvər/",
+    "pronunciationHintPtBr": "lêi-ôu-ver",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "escala", "definitionEn": "a short stop at an airport between two flights", "definitionPtBr": "uma parada curta num aeroporto entre dois voos" }
+    ],
+    "exampleEn": "We had a three-hour layover in Chicago on the way home.",
+    "examplePtBr": "Tivemos uma escala de três horas em Chicago na volta para casa.",
+    "dailyUsage": "Termo americano. No inglês britânico é mais comum 'stopover'.",
+    "synonyms": ["stopover"],
+    "antonyms": ["direct flight"],
+    "collocations": ["a long layover", "layover time", "a short layover"],
+    "usageNotes": "'Layover' costuma ser no mesmo dia; 'stopover' pode ser uma parada de mais de um dia.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "jet lag",
+    "translation": "fuso horário (cansaço da viagem)",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈdʒet læɡ/",
+    "pronunciationHintPtBr": "djét lég",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "jet lag", "definitionEn": "tiredness caused by flying across several time zones", "definitionPtBr": "o cansaço causado por voar atravessando vários fusos horários" }
+    ],
+    "exampleEn": "The jet lag hit me hard after the long flight from Asia.",
+    "examplePtBr": "O jet lag me pegou forte depois do voo longo vindo da Ásia.",
+    "dailyUsage": "Incontável. 'Have jet lag' ou 'be jet-lagged' (com hífen, como adjetivo) descrevem o estado.",
+    "synonyms": ["time-zone fatigue"],
+    "antonyms": [],
+    "collocations": ["have jet lag", "get over jet lag", "bad jet lag"],
+    "usageNotes": "Como adjetivo vira 'jet-lagged': 'I'm still jet-lagged'.",
+    "tags": ["viagens", "saude"],
+    "source": "seed"
+  },
+  {
+    "english": "connecting flight",
+    "translation": "voo de conexão",
+    "partOfSpeech": "noun",
+    "ipa": "/kəˈnektɪŋ flaɪt/",
+    "pronunciationHintPtBr": "ka-nék-ting fláit",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "voo de conexão", "definitionEn": "a second flight you take to reach your final destination", "definitionPtBr": "um segundo voo que você pega para chegar ao destino final" }
+    ],
+    "exampleEn": "We almost missed our connecting flight because of the delay.",
+    "examplePtBr": "Quase perdemos o voo de conexão por causa do atraso.",
+    "dailyUsage": "Relacionado a 'layover': a espera entre um voo e a conexão. 'Catch the connection' é pegar a conexão.",
+    "synonyms": ["connection"],
+    "antonyms": ["direct flight"],
+    "collocations": ["miss a connecting flight", "catch a connecting flight", "book a connecting flight"],
+    "usageNotes": "Abreviado informalmente como 'connection': 'I have a tight connection'.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "accommodation",
+    "translation": "hospedagem, acomodação",
+    "partOfSpeech": "noun",
+    "ipa": "/əˌkɑːməˈdeɪʃən/",
+    "pronunciationHintPtBr": "a-cô-ma-dêi-chãn",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "hospedagem", "definitionEn": "a place to stay, such as a hotel room or apartment", "definitionPtBr": "um lugar para se hospedar, como um quarto de hotel ou apartamento" }
+    ],
+    "exampleEn": "The price includes flights, meals, and accommodation.",
+    "examplePtBr": "O preço inclui voos, refeições e hospedagem.",
+    "dailyUsage": "No inglês americano costuma vir no plural ('accommodations'); no britânico, incontável no singular.",
+    "synonyms": ["lodging", "housing"],
+    "antonyms": [],
+    "collocations": ["book accommodation", "overnight accommodation", "affordable accommodation"],
+    "usageNotes": "Atenção à grafia: dois 'c' e dois 'm'. Erro de escrita muito comum.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "concierge",
+    "translation": "concierge (recepção de hotel)",
+    "partOfSpeech": "noun",
+    "ipa": "/ˌkɑːnsiˈerʒ/",
+    "pronunciationHintPtBr": "cón-si-érj",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "concierge", "definitionEn": "a hotel employee who helps guests with bookings and advice", "definitionPtBr": "um funcionário de hotel que ajuda os hóspedes com reservas e dicas" }
+    ],
+    "exampleEn": "The concierge recommended a great restaurant near the hotel.",
+    "examplePtBr": "O concierge recomendou um ótimo restaurante perto do hotel.",
+    "dailyUsage": "Palavra de origem francesa; o fim soa 'érj'. Comum em hotéis maiores e prédios.",
+    "synonyms": ["receptionist", "host"],
+    "antonyms": [],
+    "collocations": ["hotel concierge", "ask the concierge", "concierge service"],
+    "usageNotes": "O 'g' final tem som suave ('zh'), herança do francês.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "excursion",
+    "translation": "excursão, passeio",
+    "partOfSpeech": "noun",
+    "ipa": "/ɪkˈskɜːrʒən/",
+    "pronunciationHintPtBr": "iks-kér-jãn",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "excursão", "definitionEn": "a short trip made for pleasure, usually in a group", "definitionPtBr": "um passeio curto feito por prazer, geralmente em grupo" }
+    ],
+    "exampleEn": "The hotel offers a day excursion to the nearby volcano.",
+    "examplePtBr": "O hotel oferece uma excursão de um dia ao vulcão próximo.",
+    "dailyUsage": "Mais formal que 'trip', sugere um passeio organizado, muitas vezes guiado.",
+    "synonyms": ["outing", "day trip"],
+    "antonyms": [],
+    "collocations": ["day excursion", "guided excursion", "go on an excursion"],
+    "usageNotes": "Costuma ser um passeio de um dia, a partir de uma base como o hotel.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "duty-free",
+    "translation": "livre de impostos (duty-free)",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˌduːti ˈfriː/",
+    "pronunciationHintPtBr": "dú-ti frí",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "livre de impostos", "definitionEn": "sold without the usual import taxes, often at airports", "definitionPtBr": "vendido sem os impostos de importação habituais, muitas vezes em aeroportos" }
+    ],
+    "exampleEn": "She bought some perfume at the duty-free shop before boarding.",
+    "examplePtBr": "Ela comprou um perfume na loja duty-free antes de embarcar.",
+    "dailyUsage": "Usado como adjetivo ('duty-free shop') e como substantivo informal ('I'll grab it at the duty-free').",
+    "synonyms": ["tax-free"],
+    "antonyms": ["taxed"],
+    "collocations": ["duty-free shop", "duty-free goods", "buy duty-free"],
+    "usageNotes": "Vem de 'duty' no sentido de imposto alfandegário, não de dever.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "currency",
+    "translation": "moeda, câmbio",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈkɜːrənsi/",
+    "pronunciationHintPtBr": "ké-ran-si",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "moeda", "definitionEn": "the system of money used in a particular country", "definitionPtBr": "o sistema de dinheiro usado em um determinado país" }
+    ],
+    "exampleEn": "You can exchange your currency at the airport, but the rate is poor.",
+    "examplePtBr": "Você pode trocar sua moeda no aeroporto, mas a taxa é ruim.",
+    "dailyUsage": "'Foreign currency' é moeda estrangeira; 'exchange currency' é trocar dinheiro. 'Exchange rate' é a taxa de câmbio.",
+    "synonyms": ["money", "legal tender"],
+    "antonyms": [],
+    "collocations": ["foreign currency", "exchange currency", "local currency"],
+    "usageNotes": "'Currency' é o sistema monetário; para a taxa de conversão, use 'exchange rate'.",
+    "tags": ["viagens", "negocios"],
+    "source": "seed"
+  }
+]

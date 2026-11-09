@@ -1,0 +1,2217 @@
+[
+  {
+    "english": "hello",
+    "translation": "olá, oi",
+    "partOfSpeech": "noun",
+    "ipa": "/həˈloʊ/",
+    "pronunciationHintPtBr": "rê-lôu",
+    "cefr": "A1",
+    "meanings": [
+      { "translation": "olá", "definitionEn": "a greeting you say when you meet someone", "definitionPtBr": "uma saudação usada ao encontrar alguém" }
+    ],
+    "exampleEn": "She said hello to everyone at the party.",
+    "examplePtBr": "Ela disse oi para todo mundo na festa.",
+    "dailyUsage": "Saudação mais comum e neutra. Serve em qualquer situação, formal ou informal.",
+    "synonyms": ["hi", "hey"],
+    "antonyms": ["goodbye"],
+    "collocations": ["say hello", "hello there", "a warm hello"],
+    "usageNotes": "'Hi' é mais casual que 'hello'. 'Hey' é ainda mais informal e pode soar íntimo demais com estranhos.",
+    "tags": ["cotidiano", "comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "please",
+    "translation": "por favor",
+    "partOfSpeech": "adverb",
+    "ipa": "/pliːz/",
+    "pronunciationHintPtBr": "plíiz",
+    "cefr": "A1",
+    "meanings": [
+      { "translation": "por favor", "definitionEn": "a polite word added to a request", "definitionPtBr": "palavra educada que se junta a um pedido" }
+    ],
+    "exampleEn": "Can you pass the salt, please?",
+    "examplePtBr": "Pode passar o sal, por favor?",
+    "dailyUsage": "Use no fim ou no começo de pedidos. Sem 'please', o pedido soa seco em inglês.",
+    "synonyms": ["kindly"],
+    "antonyms": [],
+    "collocations": ["yes, please", "please wait", "please help me"],
+    "usageNotes": "Em inglês, pedir algo sem 'please' soa mais rude do que em português. Use sempre em pedidos a estranhos.",
+    "tags": ["cotidiano", "comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "thank you",
+    "translation": "obrigado, obrigada",
+    "partOfSpeech": "idiom",
+    "ipa": "/ˈθæŋk juː/",
+    "pronunciationHintPtBr": "fânk iú",
+    "cefr": "A1",
+    "meanings": [
+      { "translation": "obrigado", "definitionEn": "a phrase used to show you are grateful", "definitionPtBr": "expressão usada para demonstrar gratidão" }
+    ],
+    "exampleEn": "Thank you for helping me move the boxes.",
+    "examplePtBr": "Obrigado por me ajudar a carregar as caixas.",
+    "dailyUsage": "Use o tempo todo. 'Thanks' é a versão curta e casual.",
+    "synonyms": ["thanks", "thanks a lot"],
+    "antonyms": [],
+    "collocations": ["thank you so much", "thank you for", "no, thank you"],
+    "usageNotes": "'Thank you' é neutro. 'Thanks' é mais informal. A resposta comum é 'you're welcome'.",
+    "tags": ["cotidiano", "comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "sorry",
+    "translation": "desculpa, sinto muito",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˈsɑːri/",
+    "pronunciationHintPtBr": "sári",
+    "cefr": "A1",
+    "meanings": [
+      { "translation": "desculpa", "definitionEn": "used to apologize for something", "definitionPtBr": "usado para pedir desculpas por algo" },
+      { "translation": "sinto muito", "definitionEn": "used to show sympathy for a bad situation", "definitionPtBr": "usado para demonstrar pena por uma situação ruim" }
+    ],
+    "exampleEn": "Sorry, I didn't see you there.",
+    "examplePtBr": "Desculpa, não te vi aí.",
+    "dailyUsage": "Serve para pedir desculpa e também para lamentar algo. 'I'm sorry to hear that' é condolência.",
+    "synonyms": ["my bad", "excuse me"],
+    "antonyms": [],
+    "collocations": ["I'm sorry", "sorry about that", "sorry to bother you"],
+    "usageNotes": "'Sorry' pede desculpa; 'excuse me' chama atenção ou pede passagem. Não confunda os dois.",
+    "tags": ["cotidiano", "comunicacao", "emocoes"],
+    "source": "seed"
+  },
+  {
+    "english": "friend",
+    "translation": "amigo, amiga",
+    "partOfSpeech": "noun",
+    "ipa": "/frend/",
+    "pronunciationHintPtBr": "frênd",
+    "cefr": "A1",
+    "meanings": [
+      { "translation": "amigo", "definitionEn": "a person you like and know well", "definitionPtBr": "pessoa de quem você gosta e conhece bem" }
+    ],
+    "exampleEn": "My best friend lives next door.",
+    "examplePtBr": "Meu melhor amigo mora na casa ao lado.",
+    "dailyUsage": "Palavra básica e muito usada. 'Make friends' é fazer amizades.",
+    "synonyms": ["buddy", "pal"],
+    "antonyms": ["enemy"],
+    "collocations": ["best friend", "close friend", "make friends"],
+    "usageNotes": "'Buddy' e 'pal' são bem informais. No trabalho, prefira 'colleague' para colega.",
+    "tags": ["cotidiano", "comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "happy",
+    "translation": "feliz, contente",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˈhæpi/",
+    "pronunciationHintPtBr": "rápi",
+    "cefr": "A1",
+    "meanings": [
+      { "translation": "feliz", "definitionEn": "feeling good and pleased", "definitionPtBr": "sentindo-se bem e satisfeito" }
+    ],
+    "exampleEn": "I'm so happy to see you again.",
+    "examplePtBr": "Estou tão feliz de te ver de novo.",
+    "dailyUsage": "Emoção básica. 'Happy to help' quer dizer que você ajuda com prazer.",
+    "synonyms": ["glad", "pleased", "cheerful"],
+    "antonyms": ["sad", "unhappy"],
+    "collocations": ["happy to help", "really happy", "happy about"],
+    "usageNotes": "Use 'happy about' para o motivo e 'happy with' para resultado. 'Glad' costuma ser mais passageiro.",
+    "tags": ["emocoes", "cotidiano"],
+    "source": "seed"
+  },
+  {
+    "english": "tired",
+    "translation": "cansado, cansada",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˈtaɪərd/",
+    "pronunciationHintPtBr": "táiârd",
+    "cefr": "A1",
+    "meanings": [
+      { "translation": "cansado", "definitionEn": "needing rest or sleep", "definitionPtBr": "precisando de descanso ou sono" }
+    ],
+    "exampleEn": "I'm too tired to cook tonight.",
+    "examplePtBr": "Estou cansado demais para cozinhar hoje à noite.",
+    "dailyUsage": "Muito comum no fim do dia. 'Tired of' algo significa estar farto, não só cansado.",
+    "synonyms": ["exhausted", "sleepy", "worn out"],
+    "antonyms": ["energetic", "rested"],
+    "collocations": ["really tired", "tired of", "feel tired"],
+    "usageNotes": "'Tired' é cansaço; 'tired of something' é estar de saco cheio de algo. Cuidado com a confusão.",
+    "tags": ["saude", "cotidiano", "emocoes"],
+    "source": "seed"
+  },
+  {
+    "english": "hungry",
+    "translation": "com fome, faminto",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˈhʌŋɡri/",
+    "pronunciationHintPtBr": "rãn-gri",
+    "cefr": "A1",
+    "meanings": [
+      { "translation": "com fome", "definitionEn": "wanting or needing to eat", "definitionPtBr": "querendo ou precisando comer" }
+    ],
+    "exampleEn": "I'm getting hungry, let's grab something to eat.",
+    "examplePtBr": "Estou ficando com fome, vamos pegar algo para comer.",
+    "dailyUsage": "Em inglês se diz 'I am hungry', não 'I have hunger'. Erro comum de brasileiro.",
+    "synonyms": ["starving", "famished"],
+    "antonyms": ["full"],
+    "collocations": ["really hungry", "get hungry", "hungry for"],
+    "usageNotes": "Nunca diga 'I have hunger'. Use o verbo 'be': 'I'm hungry'. 'Starving' é exagero para muita fome.",
+    "tags": ["saude", "cotidiano"],
+    "source": "seed"
+  },
+  {
+    "english": "morning",
+    "translation": "manhã",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈmɔːrnɪŋ/",
+    "pronunciationHintPtBr": "mór-ning",
+    "cefr": "A1",
+    "meanings": [
+      { "translation": "manhã", "definitionEn": "the early part of the day", "definitionPtBr": "a primeira parte do dia" }
+    ],
+    "exampleEn": "I drink coffee every morning before work.",
+    "examplePtBr": "Eu tomo café toda manhã antes do trabalho.",
+    "dailyUsage": "'Good morning' é a saudação. 'In the morning' é de manhã.",
+    "synonyms": [],
+    "antonyms": ["evening", "night"],
+    "collocations": ["good morning", "in the morning", "early morning"],
+    "usageNotes": "Use 'in the morning' para parte do dia, mas 'on Monday morning' com dia específico.",
+    "tags": ["cotidiano"],
+    "source": "seed"
+  },
+  {
+    "english": "family",
+    "translation": "família",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈfæməli/",
+    "pronunciationHintPtBr": "fé-mâ-li",
+    "cefr": "A1",
+    "meanings": [
+      { "translation": "família", "definitionEn": "a group of people related to each other", "definitionPtBr": "grupo de pessoas com laços de parentesco" }
+    ],
+    "exampleEn": "We spend the holidays with our family.",
+    "examplePtBr": "Passamos os feriados com a nossa família.",
+    "dailyUsage": "Palavra básica. Pode ser singular mesmo falando de várias pessoas.",
+    "synonyms": ["relatives", "household"],
+    "antonyms": [],
+    "collocations": ["close family", "family member", "extended family"],
+    "usageNotes": "'Family' pode levar verbo no singular ou plural no inglês americano: 'my family is' é o mais comum.",
+    "tags": ["cotidiano"],
+    "source": "seed"
+  },
+  {
+    "english": "help",
+    "translation": "ajudar, ajuda",
+    "partOfSpeech": "verb",
+    "ipa": "/help/",
+    "pronunciationHintPtBr": "rélp",
+    "cefr": "A1",
+    "meanings": [
+      { "translation": "ajudar", "definitionEn": "to do something that makes things easier for someone", "definitionPtBr": "fazer algo que facilita a vida de alguém" }
+    ],
+    "exampleEn": "Could you help me carry this bag?",
+    "examplePtBr": "Você poderia me ajudar a carregar esta bolsa?",
+    "dailyUsage": "Depois de 'help' usa-se o verbo direto ou com 'to': 'help me carry' ou 'help me to carry'.",
+    "synonyms": ["assist", "give a hand"],
+    "antonyms": ["hinder"],
+    "collocations": ["help me", "help out", "need help"],
+    "usageNotes": "'Help' aceita infinitivo com ou sem 'to'. 'Can I help you?' é a frase de atendimento.",
+    "tags": ["cotidiano", "comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "water",
+    "translation": "água",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈwɔːtər/",
+    "pronunciationHintPtBr": "uó-dâr",
+    "cefr": "A1",
+    "meanings": [
+      { "translation": "água", "definitionEn": "the clear liquid people drink", "definitionPtBr": "o líquido transparente que as pessoas bebem" }
+    ],
+    "exampleEn": "Can I have a glass of water, please?",
+    "examplePtBr": "Posso tomar um copo de água, por favor?",
+    "dailyUsage": "Incontável: diga 'some water', não 'a water' (salvo pedindo uma garrafa).",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": ["glass of water", "drink water", "tap water"],
+    "usageNotes": "No inglês americano o 'tt' de water vira som de 'd' leve: uó-dâr. 'Tap water' é água da torneira.",
+    "tags": ["cotidiano", "saude"],
+    "source": "seed"
+  },
+  {
+    "english": "food",
+    "translation": "comida",
+    "partOfSpeech": "noun",
+    "ipa": "/fuːd/",
+    "pronunciationHintPtBr": "fúud",
+    "cefr": "A1",
+    "meanings": [
+      { "translation": "comida", "definitionEn": "things people eat", "definitionPtBr": "aquilo que as pessoas comem" }
+    ],
+    "exampleEn": "The food at that restaurant is amazing.",
+    "examplePtBr": "A comida daquele restaurante é incrível.",
+    "dailyUsage": "Incontável: 'the food is good', não 'the foods are'. 'Fast food' e 'street food' são comuns.",
+    "synonyms": ["meal", "dish"],
+    "antonyms": [],
+    "collocations": ["fast food", "street food", "healthy food"],
+    "usageNotes": "'Food' é quase sempre incontável. 'Foods' só aparece ao comparar tipos de alimento.",
+    "tags": ["cotidiano", "saude"],
+    "source": "seed"
+  },
+  {
+    "english": "house",
+    "translation": "casa",
+    "partOfSpeech": "noun",
+    "ipa": "/haʊs/",
+    "pronunciationHintPtBr": "ráus",
+    "cefr": "A1",
+    "meanings": [
+      { "translation": "casa", "definitionEn": "a building where people live", "definitionPtBr": "construção onde as pessoas moram" }
+    ],
+    "exampleEn": "They just bought a house near the beach.",
+    "examplePtBr": "Eles acabaram de comprar uma casa perto da praia.",
+    "dailyUsage": "'House' é o prédio; 'home' é o lar, mais emocional. 'At home' significa em casa.",
+    "synonyms": ["home", "place"],
+    "antonyms": [],
+    "collocations": ["buy a house", "at my house", "move house"],
+    "usageNotes": "Diga 'at home' (não 'at house') para 'em casa'. 'House' foca no prédio, 'home' no sentimento.",
+    "tags": ["cotidiano"],
+    "source": "seed"
+  },
+  {
+    "english": "money",
+    "translation": "dinheiro",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈmʌni/",
+    "pronunciationHintPtBr": "mã-ni",
+    "cefr": "A1",
+    "meanings": [
+      { "translation": "dinheiro", "definitionEn": "what you use to buy things", "definitionPtBr": "aquilo que você usa para comprar coisas" }
+    ],
+    "exampleEn": "I don't have enough money for a new phone.",
+    "examplePtBr": "Não tenho dinheiro suficiente para um celular novo.",
+    "dailyUsage": "Incontável: 'much money', não 'many moneys'. 'Save money' é economizar.",
+    "synonyms": ["cash", "funds"],
+    "antonyms": [],
+    "collocations": ["save money", "make money", "spend money"],
+    "usageNotes": "'Money' nunca tem plural no uso normal. Use 'much money' e 'a lot of money'.",
+    "tags": ["cotidiano", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "today",
+    "translation": "hoje",
+    "partOfSpeech": "adverb",
+    "ipa": "/təˈdeɪ/",
+    "pronunciationHintPtBr": "tâ-dêi",
+    "cefr": "A1",
+    "meanings": [
+      { "translation": "hoje", "definitionEn": "on this present day", "definitionPtBr": "neste dia atual" }
+    ],
+    "exampleEn": "I have two meetings today.",
+    "examplePtBr": "Tenho duas reuniões hoje.",
+    "dailyUsage": "Não precisa de preposição: diga 'today', não 'in today'.",
+    "synonyms": [],
+    "antonyms": ["yesterday", "tomorrow"],
+    "collocations": ["later today", "today's meeting", "as of today"],
+    "usageNotes": "Nunca use 'in' antes de 'today'. 'Today's' com apóstrofo vira adjetivo: today's news.",
+    "tags": ["cotidiano"],
+    "source": "seed"
+  },
+  {
+    "english": "nice",
+    "translation": "legal, gentil, agradável",
+    "partOfSpeech": "adjective",
+    "ipa": "/naɪs/",
+    "pronunciationHintPtBr": "náis",
+    "cefr": "A1",
+    "meanings": [
+      { "translation": "legal, agradável", "definitionEn": "pleasant or enjoyable", "definitionPtBr": "agradável ou gostoso" },
+      { "translation": "gentil", "definitionEn": "kind and friendly to others", "definitionPtBr": "amável e simpático com os outros" }
+    ],
+    "exampleEn": "It was nice to meet you.",
+    "examplePtBr": "Foi legal te conhecer.",
+    "dailyUsage": "Palavra coringa para elogiar. 'Nice to meet you' é fixa em apresentações.",
+    "synonyms": ["pleasant", "kind", "lovely"],
+    "antonyms": ["nasty", "unpleasant"],
+    "collocations": ["nice to meet you", "a nice day", "be nice to"],
+    "usageNotes": "'Nice' é vago; em textos mais ricos troque por 'pleasant', 'kind' ou 'friendly' conforme o sentido.",
+    "tags": ["emocoes", "cotidiano", "comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "name",
+    "translation": "nome",
+    "partOfSpeech": "noun",
+    "ipa": "/neɪm/",
+    "pronunciationHintPtBr": "nêim",
+    "cefr": "A1",
+    "meanings": [
+      { "translation": "nome", "definitionEn": "the word used to call a person or thing", "definitionPtBr": "a palavra usada para chamar uma pessoa ou coisa" }
+    ],
+    "exampleEn": "What's your name?",
+    "examplePtBr": "Qual é o seu nome?",
+    "dailyUsage": "'My name is' ou só 'I'm'. 'First name' é o nome, 'last name' é o sobrenome.",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": ["first name", "last name", "full name"],
+    "usageNotes": "'Last name' e 'surname' são sobrenome. Em formulários americanos quase sempre aparece 'last name'.",
+    "tags": ["cotidiano", "comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "love",
+    "translation": "amar, adorar",
+    "partOfSpeech": "verb",
+    "ipa": "/lʌv/",
+    "pronunciationHintPtBr": "lãv",
+    "cefr": "A1",
+    "meanings": [
+      { "translation": "amar", "definitionEn": "to feel deep affection for someone", "definitionPtBr": "sentir afeto profundo por alguém" },
+      { "translation": "adorar", "definitionEn": "to like something very much", "definitionPtBr": "gostar muito de algo" }
+    ],
+    "exampleEn": "I love walking on the beach in the morning.",
+    "examplePtBr": "Eu adoro caminhar na praia de manhã.",
+    "dailyUsage": "Serve para pessoas e coisas. 'I'd love to' é uma forma educada de aceitar um convite.",
+    "synonyms": ["adore", "be crazy about"],
+    "antonyms": ["hate"],
+    "collocations": ["fall in love", "I'd love to", "love doing"],
+    "usageNotes": "Para coisas, 'love' é adorar e não soa exagerado. Depois dele use gerúndio: 'love cooking'.",
+    "tags": ["emocoes", "cotidiano"],
+    "source": "seed"
+  },
+  {
+    "english": "busy",
+    "translation": "ocupado, movimentado",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˈbɪzi/",
+    "pronunciationHintPtBr": "bí-zi",
+    "cefr": "A1",
+    "meanings": [
+      { "translation": "ocupado", "definitionEn": "having a lot to do", "definitionPtBr": "com muita coisa para fazer" },
+      { "translation": "movimentado", "definitionEn": "full of people or activity", "definitionPtBr": "cheio de gente ou atividade" }
+    ],
+    "exampleEn": "Sorry, I can't talk now, I'm really busy.",
+    "examplePtBr": "Desculpa, não posso falar agora, estou bem ocupado.",
+    "dailyUsage": "Serve para pessoas e lugares. 'Busy with' algo ou 'busy doing' algo.",
+    "synonyms": ["occupied", "swamped"],
+    "antonyms": ["free", "available"],
+    "collocations": ["busy with", "really busy", "a busy street"],
+    "usageNotes": "Depois de 'busy' use gerúndio: 'busy working', não 'busy to work'.",
+    "tags": ["cotidiano", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "borrow",
+    "translation": "pegar emprestado",
+    "partOfSpeech": "verb",
+    "ipa": "/ˈbɑːroʊ/",
+    "pronunciationHintPtBr": "bá-rou",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "pegar emprestado", "definitionEn": "to take something and give it back later", "definitionPtBr": "pegar algo e devolver depois" }
+    ],
+    "exampleEn": "Can I borrow your pen for a second?",
+    "examplePtBr": "Posso pegar sua caneta emprestada por um instante?",
+    "dailyUsage": "Você 'borrow' algo DE alguém. Quem empresta é 'lend'. Não troque os dois.",
+    "synonyms": ["take on loan"],
+    "antonyms": ["lend", "return"],
+    "collocations": ["borrow money", "borrow from", "can I borrow"],
+    "usageNotes": "Armadilha clássica: 'borrow' é pegar emprestado; 'lend' é emprestar. 'Borrow from', 'lend to'.",
+    "tags": ["cotidiano", "comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "lend",
+    "translation": "emprestar",
+    "partOfSpeech": "verb",
+    "ipa": "/lend/",
+    "pronunciationHintPtBr": "lênd",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "emprestar", "definitionEn": "to give something to someone for a while", "definitionPtBr": "dar algo a alguém por um tempo" }
+    ],
+    "exampleEn": "Could you lend me twenty dollars until Friday?",
+    "examplePtBr": "Você poderia me emprestar vinte dólares até sexta?",
+    "dailyUsage": "Você 'lend' algo PARA alguém. O passado é 'lent'.",
+    "synonyms": ["loan"],
+    "antonyms": ["borrow"],
+    "collocations": ["lend me", "lend a hand", "lend money"],
+    "usageNotes": "'Lend' é dar emprestado; 'borrow' é receber emprestado. Passado irregular: lend, lent, lent.",
+    "tags": ["cotidiano", "comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "nervous",
+    "translation": "nervoso, ansioso",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˈnɜːrvəs/",
+    "pronunciationHintPtBr": "nâr-vâs",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "nervoso, ansioso", "definitionEn": "worried or afraid about something that will happen", "definitionPtBr": "preocupado ou com medo de algo que vai acontecer" }
+    ],
+    "exampleEn": "I always get nervous before a job interview.",
+    "examplePtBr": "Sempre fico nervoso antes de uma entrevista de emprego.",
+    "dailyUsage": "É mais 'ansioso de frio na barriga' do que 'bravo'. Para raiva use 'angry'.",
+    "synonyms": ["anxious", "uneasy", "jittery"],
+    "antonyms": ["calm", "relaxed"],
+    "collocations": ["get nervous", "nervous about", "a nervous wreck"],
+    "usageNotes": "Falso amigo parcial: 'nervous' é frio na barriga, não raiva. Para irritado diga 'angry' ou 'annoyed'.",
+    "tags": ["emocoes"],
+    "source": "seed"
+  },
+  {
+    "english": "excited",
+    "translation": "animado, empolgado",
+    "partOfSpeech": "adjective",
+    "ipa": "/ɪkˈsaɪtɪd/",
+    "pronunciationHintPtBr": "ik-sái-tâd",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "animado, empolgado", "definitionEn": "feeling happy and eager about something", "definitionPtBr": "feliz e ansioso de forma positiva por algo" }
+    ],
+    "exampleEn": "The kids are excited about the trip tomorrow.",
+    "examplePtBr": "As crianças estão empolgadas com a viagem de amanhã.",
+    "dailyUsage": "'Excited about' um plano. Cuidado: não tem o sentido sexual que lembra em português.",
+    "synonyms": ["thrilled", "pumped", "eager"],
+    "antonyms": ["bored", "indifferent"],
+    "collocations": ["excited about", "so excited", "get excited"],
+    "usageNotes": "Falso amigo: 'excited' é animado, não 'excitado' em sentido físico. Use 'about' para o motivo.",
+    "tags": ["emocoes"],
+    "source": "seed"
+  },
+  {
+    "english": "bored",
+    "translation": "entediado, de saco cheio",
+    "partOfSpeech": "adjective",
+    "ipa": "/bɔːrd/",
+    "pronunciationHintPtBr": "bórd",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "entediado", "definitionEn": "tired because nothing interesting is happening", "definitionPtBr": "cansado porque nada interessante acontece" }
+    ],
+    "exampleEn": "I'm so bored, there's nothing to do.",
+    "examplePtBr": "Estou tão entediado, não tem nada para fazer.",
+    "dailyUsage": "'Bored' é você sentindo tédio; 'boring' é a coisa que causa tédio.",
+    "synonyms": ["fed up", "uninterested"],
+    "antonyms": ["interested", "entertained"],
+    "collocations": ["bored with", "get bored", "bored to death"],
+    "usageNotes": "Não confunda 'bored' (eu sinto) com 'boring' (a aula é). 'I'm boring' significa que você é chato.",
+    "tags": ["emocoes"],
+    "source": "seed"
+  },
+  {
+    "english": "worried",
+    "translation": "preocupado",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˈwɜːrid/",
+    "pronunciationHintPtBr": "uâ-rid",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "preocupado", "definitionEn": "feeling anxious about a problem", "definitionPtBr": "ansioso por causa de um problema" }
+    ],
+    "exampleEn": "She's worried about her exam results.",
+    "examplePtBr": "Ela está preocupada com os resultados da prova.",
+    "dailyUsage": "'Worried about' algo ou alguém. 'Don't worry' é 'não se preocupe'.",
+    "synonyms": ["concerned", "anxious", "uneasy"],
+    "antonyms": ["relaxed", "carefree"],
+    "collocations": ["worried about", "worried sick", "don't worry"],
+    "usageNotes": "Use 'worried about'. 'Worried sick' é estar muito preocupado, quase doente de preocupação.",
+    "tags": ["emocoes"],
+    "source": "seed"
+  },
+  {
+    "english": "afraid",
+    "translation": "com medo, receoso",
+    "partOfSpeech": "adjective",
+    "ipa": "/əˈfreɪd/",
+    "pronunciationHintPtBr": "â-frêid",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "com medo", "definitionEn": "feeling fear of something", "definitionPtBr": "sentindo medo de algo" },
+      { "translation": "receoso de informar algo", "definitionEn": "used to say something you regret politely", "definitionPtBr": "usado para dar uma notícia ruim com educação" }
+    ],
+    "exampleEn": "I'm afraid of spiders.",
+    "examplePtBr": "Eu tenho medo de aranhas.",
+    "dailyUsage": "'Afraid of' algo é medo. 'I'm afraid' no começo de frase suaviza uma recusa.",
+    "synonyms": ["scared", "frightened"],
+    "antonyms": ["brave", "fearless"],
+    "collocations": ["afraid of", "I'm afraid so", "afraid to"],
+    "usageNotes": "'I'm afraid so' significa 'infelizmente sim'. É forma educada de dar notícia ruim.",
+    "tags": ["emocoes", "comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "lonely",
+    "translation": "solitário, sozinho",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˈloʊnli/",
+    "pronunciationHintPtBr": "lôun-li",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "solitário", "definitionEn": "unhappy because you are alone", "definitionPtBr": "triste por estar sozinho" }
+    ],
+    "exampleEn": "He felt lonely after moving to a new city.",
+    "examplePtBr": "Ele se sentiu solitário depois de mudar para uma cidade nova.",
+    "dailyUsage": "'Lonely' é a tristeza de estar só; 'alone' é só estar sem companhia, sem peso emocional.",
+    "synonyms": ["isolated", "lonesome"],
+    "antonyms": ["accompanied"],
+    "collocations": ["feel lonely", "lonely life", "get lonely"],
+    "usageNotes": "'Alone' é neutro; 'lonely' carrega tristeza. Você pode estar 'alone' e feliz.",
+    "tags": ["emocoes"],
+    "source": "seed"
+  },
+  {
+    "english": "proud",
+    "translation": "orgulhoso, orgulhosa",
+    "partOfSpeech": "adjective",
+    "ipa": "/praʊd/",
+    "pronunciationHintPtBr": "práud",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "orgulhoso (positivo)", "definitionEn": "pleased about something you or others did", "definitionPtBr": "satisfeito com algo que você ou outros fizeram" }
+    ],
+    "exampleEn": "I'm really proud of my sister for finishing college.",
+    "examplePtBr": "Estou muito orgulhoso da minha irmã por terminar a faculdade.",
+    "dailyUsage": "'Proud of' pessoa ou conquista. Em geral tem sentido bom, de orgulho saudável.",
+    "synonyms": ["pleased"],
+    "antonyms": ["ashamed", "embarrassed"],
+    "collocations": ["proud of", "so proud", "proud moment"],
+    "usageNotes": "'Proud of' costuma ser positivo. No sentido de arrogante se diz 'arrogant' ou 'full of yourself'.",
+    "tags": ["emocoes"],
+    "source": "seed"
+  },
+  {
+    "english": "jealous",
+    "translation": "com ciúmes, com inveja",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˈdʒeləs/",
+    "pronunciationHintPtBr": "djé-lâs",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "com ciúmes", "definitionEn": "upset because you fear losing someone's attention", "definitionPtBr": "incomodado por medo de perder a atenção de alguém" },
+      { "translation": "com inveja", "definitionEn": "wanting what someone else has", "definitionPtBr": "querendo o que o outro tem" }
+    ],
+    "exampleEn": "He gets jealous when she talks to other people.",
+    "examplePtBr": "Ele fica com ciúmes quando ela fala com outras pessoas.",
+    "dailyUsage": "Serve para ciúme e inveja. 'I'm so jealous' muitas vezes é 'que inveja boa'.",
+    "synonyms": ["envious"],
+    "antonyms": ["content"],
+    "collocations": ["jealous of", "get jealous", "a jealous type"],
+    "usageNotes": "'Jealous of' cobre ciúme e inveja. 'Envious' é mais específico para inveja de posses.",
+    "tags": ["emocoes"],
+    "source": "seed"
+  },
+  {
+    "english": "neighbor",
+    "translation": "vizinho, vizinha",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈneɪbər/",
+    "pronunciationHintPtBr": "nêi-bâr",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "vizinho", "definitionEn": "a person who lives near you", "definitionPtBr": "pessoa que mora perto de você" }
+    ],
+    "exampleEn": "Our new neighbor invited us for dinner.",
+    "examplePtBr": "Nosso vizinho novo nos convidou para jantar.",
+    "dailyUsage": "No inglês americano escreve-se 'neighbor', sem o 'u' do britânico 'neighbour'.",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": ["next-door neighbor", "a good neighbor", "noisy neighbor"],
+    "usageNotes": "Grafia americana 'neighbor'; britânica 'neighbour'. O som do 'gh' é mudo.",
+    "tags": ["cotidiano"],
+    "source": "seed"
+  },
+  {
+    "english": "weekend",
+    "translation": "fim de semana",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈwiːkend/",
+    "pronunciationHintPtBr": "uí-kend",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "fim de semana", "definitionEn": "Saturday and Sunday", "definitionPtBr": "sábado e domingo" }
+    ],
+    "exampleEn": "What are you doing this weekend?",
+    "examplePtBr": "O que você vai fazer neste fim de semana?",
+    "dailyUsage": "No inglês americano use 'on the weekend'. O britânico diz 'at the weekend'.",
+    "synonyms": [],
+    "antonyms": ["weekday"],
+    "collocations": ["on the weekend", "long weekend", "weekend plans"],
+    "usageNotes": "Americano: 'on the weekend'. Britânico: 'at the weekend'. 'Have a good weekend' é despedida de sexta.",
+    "tags": ["cotidiano"],
+    "source": "seed"
+  },
+  {
+    "english": "breakfast",
+    "translation": "café da manhã",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈbrekfəst/",
+    "pronunciationHintPtBr": "brék-fâst",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "café da manhã", "definitionEn": "the first meal of the day", "definitionPtBr": "a primeira refeição do dia" }
+    ],
+    "exampleEn": "I usually skip breakfast when I'm late.",
+    "examplePtBr": "Normalmente eu pulo o café da manhã quando estou atrasado.",
+    "dailyUsage": "Verbo comum: 'have breakfast', não 'take breakfast'. 'Skip breakfast' é pular a refeição.",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": ["have breakfast", "skip breakfast", "breakfast in bed"],
+    "usageNotes": "Use 'have breakfast' (não 'make breakfast' se não for cozinhar). O som do 'ea' é curto: brék.",
+    "tags": ["cotidiano", "saude"],
+    "source": "seed"
+  },
+  {
+    "english": "chat",
+    "translation": "conversar, bater papo",
+    "partOfSpeech": "verb",
+    "ipa": "/tʃæt/",
+    "pronunciationHintPtBr": "tchét",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "bater papo", "definitionEn": "to talk in a friendly, informal way", "definitionPtBr": "conversar de forma amigável e informal" }
+    ],
+    "exampleEn": "We chatted for hours over coffee.",
+    "examplePtBr": "A gente bateu papo por horas tomando café.",
+    "dailyUsage": "Conversa leve e sem assunto sério. 'Chat with' alguém, 'chat about' algo.",
+    "synonyms": ["talk", "catch up"],
+    "antonyms": [],
+    "collocations": ["chat with", "have a chat", "chat about"],
+    "usageNotes": "'Chat' é papo leve; para conversa séria use 'talk' ou 'discuss'. Também é substantivo: 'a quick chat'.",
+    "tags": ["comunicacao", "cotidiano"],
+    "source": "seed"
+  },
+  {
+    "english": "agree",
+    "translation": "concordar",
+    "partOfSpeech": "verb",
+    "ipa": "/əˈɡriː/",
+    "pronunciationHintPtBr": "â-grí",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "concordar", "definitionEn": "to have the same opinion as someone", "definitionPtBr": "ter a mesma opinião que alguém" }
+    ],
+    "exampleEn": "I totally agree with you on that.",
+    "examplePtBr": "Eu concordo totalmente com você nisso.",
+    "dailyUsage": "Diga 'I agree', não 'I'm agree'. 'Agree with' pessoa, 'agree on' assunto.",
+    "synonyms": ["concur"],
+    "antonyms": ["disagree"],
+    "collocations": ["agree with", "agree on", "I couldn't agree more"],
+    "usageNotes": "Erro clássico de brasileiro: 'I am agree' está errado. O certo é só 'I agree'.",
+    "tags": ["comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "remember",
+    "translation": "lembrar, lembrar-se",
+    "partOfSpeech": "verb",
+    "ipa": "/rɪˈmembər/",
+    "pronunciationHintPtBr": "ri-mêm-bâr",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "lembrar", "definitionEn": "to keep something in your mind", "definitionPtBr": "manter algo na memória" }
+    ],
+    "exampleEn": "Do you remember her name?",
+    "examplePtBr": "Você lembra o nome dela?",
+    "dailyUsage": "'Remember to do' é lembrar de fazer (futuro); 'remember doing' é lembrar que fez (passado).",
+    "synonyms": ["recall"],
+    "antonyms": ["forget"],
+    "collocations": ["remember to", "remember doing", "if I remember correctly"],
+    "usageNotes": "Mudança de sentido: 'remember to call' (não esquecer de ligar) vs 'remember calling' (lembro que liguei).",
+    "tags": ["comunicacao", "estudos"],
+    "source": "seed"
+  },
+  {
+    "english": "forget",
+    "translation": "esquecer",
+    "partOfSpeech": "verb",
+    "ipa": "/fərˈɡet/",
+    "pronunciationHintPtBr": "fâr-guét",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "esquecer", "definitionEn": "to not remember something", "definitionPtBr": "não conseguir lembrar de algo" }
+    ],
+    "exampleEn": "Don't forget to lock the door.",
+    "examplePtBr": "Não esqueça de trancar a porta.",
+    "dailyUsage": "Passado irregular: forget, forgot, forgotten. 'Forget to do' é não fazer por esquecimento.",
+    "synonyms": [],
+    "antonyms": ["remember"],
+    "collocations": ["forget about", "forget to", "I almost forgot"],
+    "usageNotes": "Em inglês não se 'esquece algo em algum lugar'; use 'leave': 'I left my keys at home'.",
+    "tags": ["comunicacao", "cotidiano"],
+    "source": "seed"
+  },
+  {
+    "english": "enjoy",
+    "translation": "aproveitar, curtir",
+    "partOfSpeech": "verb",
+    "ipa": "/ɪnˈdʒɔɪ/",
+    "pronunciationHintPtBr": "in-djói",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "curtir, aproveitar", "definitionEn": "to get pleasure from something", "definitionPtBr": "sentir prazer com algo" }
+    ],
+    "exampleEn": "I really enjoy reading before bed.",
+    "examplePtBr": "Eu curto muito ler antes de dormir.",
+    "dailyUsage": "Sempre com gerúndio depois: 'enjoy reading', não 'enjoy to read'. 'Enjoy yourself' é divirta-se.",
+    "synonyms": ["like", "love"],
+    "antonyms": ["dislike", "hate"],
+    "collocations": ["enjoy doing", "enjoy yourself", "really enjoy"],
+    "usageNotes": "Regra firme: depois de 'enjoy' vem sempre -ing, nunca 'to'. 'Enjoy your meal' é bom apetite.",
+    "tags": ["emocoes", "cotidiano"],
+    "source": "seed"
+  },
+  {
+    "english": "complain",
+    "translation": "reclamar",
+    "partOfSpeech": "verb",
+    "ipa": "/kəmˈpleɪn/",
+    "pronunciationHintPtBr": "kâm-plêin",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "reclamar", "definitionEn": "to say you are unhappy about something", "definitionPtBr": "dizer que você está insatisfeito com algo" }
+    ],
+    "exampleEn": "He's always complaining about the weather.",
+    "examplePtBr": "Ele está sempre reclamando do tempo.",
+    "dailyUsage": "'Complain about' algo, 'complain to' alguém. 'Can't complain' é 'não posso reclamar'.",
+    "synonyms": ["grumble", "moan"],
+    "antonyms": ["praise"],
+    "collocations": ["complain about", "complain to", "file a complaint"],
+    "usageNotes": "'Complain about' o problema e 'complain to' a pessoa. O substantivo é 'complaint'.",
+    "tags": ["comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "apologize",
+    "translation": "pedir desculpas",
+    "partOfSpeech": "verb",
+    "ipa": "/əˈpɑːlədʒaɪz/",
+    "pronunciationHintPtBr": "â-pá-lâ-djaiz",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "pedir desculpas", "definitionEn": "to say sorry for something you did", "definitionPtBr": "dizer que sente muito por algo que fez" }
+    ],
+    "exampleEn": "He apologized for being late.",
+    "examplePtBr": "Ele pediu desculpas por estar atrasado.",
+    "dailyUsage": "Mais formal que 'say sorry'. 'Apologize to' a pessoa, 'apologize for' o erro.",
+    "synonyms": ["say sorry"],
+    "antonyms": [],
+    "collocations": ["apologize for", "apologize to", "publicly apologize"],
+    "usageNotes": "Grafia americana com 'z': apologize. 'Apologize to someone for something'.",
+    "tags": ["comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "suggest",
+    "translation": "sugerir",
+    "partOfSpeech": "verb",
+    "ipa": "/səɡˈdʒest/",
+    "pronunciationHintPtBr": "sâg-djést",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "sugerir", "definitionEn": "to offer an idea or plan", "definitionPtBr": "oferecer uma ideia ou plano" }
+    ],
+    "exampleEn": "I suggest we take a break now.",
+    "examplePtBr": "Eu sugiro que a gente faça uma pausa agora.",
+    "dailyUsage": "Depois de 'suggest' use gerúndio ou 'that': 'suggest going' ou 'suggest that we go'.",
+    "synonyms": ["recommend", "propose"],
+    "antonyms": [],
+    "collocations": ["suggest doing", "I suggest that", "suggest an idea"],
+    "usageNotes": "Erro comum: 'suggest me to do' não existe. Diga 'suggest that I do' ou 'suggest doing'.",
+    "tags": ["comunicacao", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "explain",
+    "translation": "explicar",
+    "partOfSpeech": "verb",
+    "ipa": "/ɪkˈspleɪn/",
+    "pronunciationHintPtBr": "ik-splêin",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "explicar", "definitionEn": "to make something clear and easy to understand", "definitionPtBr": "deixar algo claro e fácil de entender" }
+    ],
+    "exampleEn": "Can you explain this to me again?",
+    "examplePtBr": "Você pode me explicar isso de novo?",
+    "dailyUsage": "Diga 'explain something to me', não 'explain me something'. Erro muito comum.",
+    "synonyms": ["clarify"],
+    "antonyms": ["confuse"],
+    "collocations": ["explain to", "explain how", "let me explain"],
+    "usageNotes": "Armadilha: nunca 'explain me'. Sempre 'explain something to someone'.",
+    "tags": ["comunicacao", "estudos"],
+    "source": "seed"
+  },
+  {
+    "english": "introduce",
+    "translation": "apresentar (alguém)",
+    "partOfSpeech": "verb",
+    "ipa": "/ˌɪntrəˈduːs/",
+    "pronunciationHintPtBr": "in-trâ-dúus",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "apresentar uma pessoa", "definitionEn": "to make people meet for the first time", "definitionPtBr": "fazer pessoas se conhecerem pela primeira vez" }
+    ],
+    "exampleEn": "Let me introduce you to my boss.",
+    "examplePtBr": "Deixa eu te apresentar ao meu chefe.",
+    "dailyUsage": "Para apresentar pessoas, não slides. 'Introduce A to B'. 'Introduce yourself' é se apresentar.",
+    "synonyms": ["present"],
+    "antonyms": [],
+    "collocations": ["introduce yourself", "introduce to", "let me introduce"],
+    "usageNotes": "Falso amigo: aqui é apresentar pessoas. Para mostrar um trabalho use 'present' ou 'show'.",
+    "tags": ["comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "polite",
+    "translation": "educado, cortês",
+    "partOfSpeech": "adjective",
+    "ipa": "/pəˈlaɪt/",
+    "pronunciationHintPtBr": "pâ-láit",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "educado", "definitionEn": "showing good manners toward others", "definitionPtBr": "demonstrando boas maneiras com os outros" }
+    ],
+    "exampleEn": "It's polite to say thank you.",
+    "examplePtBr": "É educado dizer obrigado.",
+    "dailyUsage": "'Polite' é sobre modos, não sobre instrução. Para instruído diga 'educated'.",
+    "synonyms": ["courteous", "well-mannered"],
+    "antonyms": ["rude", "impolite"],
+    "collocations": ["polite to", "a polite way", "be polite"],
+    "usageNotes": "Falso amigo: 'polite' é ter boas maneiras; 'educated' é ter estudo. Não confunda.",
+    "tags": ["comunicacao", "emocoes"],
+    "source": "seed"
+  },
+  {
+    "english": "rude",
+    "translation": "grosso, mal-educado",
+    "partOfSpeech": "adjective",
+    "ipa": "/ruːd/",
+    "pronunciationHintPtBr": "rúud",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "grosseiro, mal-educado", "definitionEn": "not polite, showing bad manners", "definitionPtBr": "sem educação, com maus modos" }
+    ],
+    "exampleEn": "It was rude of him to leave without saying goodbye.",
+    "examplePtBr": "Foi grosseiro da parte dele sair sem se despedir.",
+    "dailyUsage": "'Rude to' alguém. 'It's rude to' é 'é falta de educação fazer'.",
+    "synonyms": ["impolite", "disrespectful"],
+    "antonyms": ["polite", "courteous"],
+    "collocations": ["rude to", "a rude comment", "be rude"],
+    "usageNotes": "'Rude' é sobre falta de modos. Estrutura útil: 'It was rude of him to...'.",
+    "tags": ["comunicacao", "emocoes"],
+    "source": "seed"
+  },
+  {
+    "english": "shy",
+    "translation": "tímido",
+    "partOfSpeech": "adjective",
+    "ipa": "/ʃaɪ/",
+    "pronunciationHintPtBr": "chái",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "tímido", "definitionEn": "nervous about talking to other people", "definitionPtBr": "nervoso ao falar com outras pessoas" }
+    ],
+    "exampleEn": "She was too shy to ask a question.",
+    "examplePtBr": "Ela era tímida demais para fazer uma pergunta.",
+    "dailyUsage": "Descreve personalidade. 'Shy around' pessoas novas é comum.",
+    "synonyms": ["timid", "reserved"],
+    "antonyms": ["outgoing", "confident"],
+    "collocations": ["shy around", "a shy person", "too shy to"],
+    "usageNotes": "'Shy' é traço de personalidade; 'embarrassed' é a vergonha de um momento. São coisas diferentes.",
+    "tags": ["emocoes"],
+    "source": "seed"
+  },
+  {
+    "english": "kind",
+    "translation": "gentil, bondoso",
+    "partOfSpeech": "adjective",
+    "ipa": "/kaɪnd/",
+    "pronunciationHintPtBr": "káind",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "gentil, bondoso", "definitionEn": "caring and nice to other people", "definitionPtBr": "cuidadoso e bom com os outros" }
+    ],
+    "exampleEn": "Thank you, that's very kind of you.",
+    "examplePtBr": "Obrigado, isso é muito gentil da sua parte.",
+    "dailyUsage": "'Kind to' alguém. 'That's kind of you' agradece um gesto gentil.",
+    "synonyms": ["nice", "caring", "generous"],
+    "antonyms": ["cruel", "mean"],
+    "collocations": ["kind to", "kind of you", "a kind person"],
+    "usageNotes": "Como adjetivo é gentil; como substantivo 'a kind of' é 'um tipo de'. Contexto decide.",
+    "tags": ["emocoes", "comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "upset",
+    "translation": "chateado, abalado",
+    "partOfSpeech": "adjective",
+    "ipa": "/ʌpˈset/",
+    "pronunciationHintPtBr": "âp-sét",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "chateado, abalado", "definitionEn": "unhappy or worried because of something bad", "definitionPtBr": "triste ou preocupado por algo ruim" }
+    ],
+    "exampleEn": "She was really upset after the argument.",
+    "examplePtBr": "Ela ficou bem chateada depois da discussão.",
+    "dailyUsage": "Mistura de triste e aborrecido. 'Upset about' algo, 'upset with' alguém.",
+    "synonyms": ["distressed", "troubled"],
+    "antonyms": ["calm", "content"],
+    "collocations": ["upset about", "upset with", "get upset"],
+    "usageNotes": "Mais forte que 'sad', mistura tristeza e incômodo. 'Upset stomach' é dor de barriga, outro sentido.",
+    "tags": ["emocoes"],
+    "source": "seed"
+  },
+  {
+    "english": "grateful",
+    "translation": "grato, agradecido",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˈɡreɪtfəl/",
+    "pronunciationHintPtBr": "grêit-fâl",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "grato", "definitionEn": "feeling thankful for something", "definitionPtBr": "sentindo gratidão por algo" }
+    ],
+    "exampleEn": "I'm so grateful for your help.",
+    "examplePtBr": "Sou muito grato pela sua ajuda.",
+    "dailyUsage": "Mais forte e sincero que 'thanks'. 'Grateful for' algo, 'grateful to' alguém.",
+    "synonyms": ["thankful", "appreciative"],
+    "antonyms": ["ungrateful"],
+    "collocations": ["grateful for", "grateful to", "deeply grateful"],
+    "usageNotes": "'Grateful to someone for something'. Soa mais caloroso e pessoal que um 'thank you' solto.",
+    "tags": ["emocoes", "comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "relax",
+    "translation": "relaxar, descansar",
+    "partOfSpeech": "verb",
+    "ipa": "/rɪˈlæks/",
+    "pronunciationHintPtBr": "ri-léks",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "relaxar", "definitionEn": "to rest and stop feeling tense", "definitionPtBr": "descansar e parar de ficar tenso" }
+    ],
+    "exampleEn": "I just want to relax at home this weekend.",
+    "examplePtBr": "Só quero relaxar em casa neste fim de semana.",
+    "dailyUsage": "'Relax' sozinho já funciona. 'Just relax' acalma alguém tenso.",
+    "synonyms": ["unwind", "chill out"],
+    "antonyms": ["stress", "tense up"],
+    "collocations": ["relax at home", "just relax", "help you relax"],
+    "usageNotes": "Não precisa de reflexivo: diga 'I relax', não 'I relax myself'. 'Chill out' é a versão gíria.",
+    "tags": ["saude", "cotidiano"],
+    "source": "seed"
+  },
+  {
+    "english": "argue",
+    "translation": "discutir, brigar (verbalmente)",
+    "partOfSpeech": "verb",
+    "ipa": "/ˈɑːrɡjuː/",
+    "pronunciationHintPtBr": "ár-guiu",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "discutir, brigar", "definitionEn": "to disagree in an angry way", "definitionPtBr": "discordar de forma irritada" }
+    ],
+    "exampleEn": "They argue about money all the time.",
+    "examplePtBr": "Eles discutem sobre dinheiro o tempo todo.",
+    "dailyUsage": "'Argue with' pessoa, 'argue about' assunto. É bate-boca, não conversa calma.",
+    "synonyms": ["fight", "quarrel"],
+    "antonyms": ["agree"],
+    "collocations": ["argue with", "argue about", "argue over"],
+    "usageNotes": "Em debate formal 'argue' também é 'argumentar'. No dia a dia costuma ser briga verbal. O substantivo é 'argument'.",
+    "tags": ["comunicacao", "emocoes"],
+    "source": "seed"
+  },
+  {
+    "english": "whisper",
+    "translation": "sussurrar, cochichar",
+    "partOfSpeech": "verb",
+    "ipa": "/ˈwɪspər/",
+    "pronunciationHintPtBr": "uís-pâr",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "sussurrar", "definitionEn": "to speak very quietly", "definitionPtBr": "falar bem baixinho" }
+    ],
+    "exampleEn": "She whispered a secret in my ear.",
+    "examplePtBr": "Ela sussurrou um segredo no meu ouvido.",
+    "dailyUsage": "Falar baixinho para não ser ouvido. Também é substantivo: 'in a whisper'.",
+    "synonyms": ["murmur"],
+    "antonyms": ["shout", "yell"],
+    "collocations": ["whisper in someone's ear", "whisper something", "in a whisper"],
+    "usageNotes": "O 'h' e o 'w' formam um som soprado. Oposto direto de 'shout' (gritar).",
+    "tags": ["comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "laugh",
+    "translation": "rir",
+    "partOfSpeech": "verb",
+    "ipa": "/læf/",
+    "pronunciationHintPtBr": "léf",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "rir", "definitionEn": "to make sounds that show you think something is funny", "definitionPtBr": "fazer sons que mostram que achou algo engraçado" }
+    ],
+    "exampleEn": "We couldn't stop laughing at his joke.",
+    "examplePtBr": "A gente não conseguia parar de rir da piada dele.",
+    "dailyUsage": "'Laugh at' pode ser rir com ou rir de alguém, cuidado com o tom. O 'gh' é mudo.",
+    "synonyms": ["giggle", "crack up"],
+    "antonyms": ["cry"],
+    "collocations": ["laugh at", "burst out laughing", "make someone laugh"],
+    "usageNotes": "'Laugh at someone' costuma ser zombar. Para rir junto, diga 'laugh with'. O 'gh' não se pronuncia.",
+    "tags": ["emocoes", "comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "smile",
+    "translation": "sorrir, sorriso",
+    "partOfSpeech": "verb",
+    "ipa": "/smaɪl/",
+    "pronunciationHintPtBr": "smáil",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "sorrir", "definitionEn": "to make a happy expression with your mouth", "definitionPtBr": "fazer uma expressão feliz com a boca" }
+    ],
+    "exampleEn": "She smiled at me from across the room.",
+    "examplePtBr": "Ela sorriu para mim do outro lado da sala.",
+    "dailyUsage": "'Smile at' alguém. Também é substantivo: 'a big smile'.",
+    "synonyms": ["grin"],
+    "antonyms": ["frown"],
+    "collocations": ["smile at", "a big smile", "smile back"],
+    "usageNotes": "'Smile at someone' é sorrir para alguém. 'Grin' é sorrir bem largo, mostrando os dentes.",
+    "tags": ["emocoes", "comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "wake up",
+    "translation": "acordar",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌweɪk ˈʌp/",
+    "pronunciationHintPtBr": "uêik âp",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "acordar", "definitionEn": "to stop sleeping", "definitionPtBr": "parar de dormir" }
+    ],
+    "exampleEn": "I wake up at six every morning.",
+    "examplePtBr": "Eu acordo às seis toda manhã.",
+    "dailyUsage": "'Wake up' é só abrir os olhos; 'get up' é levantar da cama. Não são a mesma coisa.",
+    "synonyms": ["get up"],
+    "antonyms": ["fall asleep"],
+    "collocations": ["wake up early", "wake someone up", "wake up late"],
+    "usageNotes": "Separável: 'wake me up'. Diferença chave: 'wake up' (acordar) vs 'get up' (sair da cama).",
+    "tags": ["cotidiano", "phrasal-verb"],
+    "source": "seed"
+  },
+  {
+    "english": "look forward to",
+    "translation": "ansiar por, mal poder esperar",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌlʊk ˈfɔːrwərd tə/",
+    "pronunciationHintPtBr": "luk fór-uârd tâ",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "ansiar por algo bom", "definitionEn": "to feel happy about something that will happen", "definitionPtBr": "sentir alegria por algo que vai acontecer" }
+    ],
+    "exampleEn": "I'm really looking forward to the weekend.",
+    "examplePtBr": "Estou muito ansioso pelo fim de semana.",
+    "dailyUsage": "Depois dele vem substantivo ou gerúndio: 'looking forward to seeing you'. O 'to' aqui é preposição.",
+    "synonyms": ["can't wait for"],
+    "antonyms": ["dread"],
+    "collocations": ["look forward to seeing", "look forward to it", "really look forward to"],
+    "usageNotes": "Armadilha: o 'to' pede -ing, não infinitivo. 'Look forward to meeting you', nunca 'to meet'.",
+    "tags": ["emocoes", "comunicacao", "phrasal-verb"],
+    "source": "seed"
+  },
+  {
+    "english": "figure out",
+    "translation": "descobrir, sacar, entender",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌfɪɡjər ˈaʊt/",
+    "pronunciationHintPtBr": "fí-guiâr áut",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "descobrir, sacar", "definitionEn": "to find the answer by thinking about it", "definitionPtBr": "achar a resposta pensando sobre algo" }
+    ],
+    "exampleEn": "I can't figure out how this app works.",
+    "examplePtBr": "Não consigo sacar como esse aplicativo funciona.",
+    "dailyUsage": "Resolver algo usando a cabeça. Separável: 'figure it out'.",
+    "synonyms": ["work out", "make sense of"],
+    "antonyms": [],
+    "collocations": ["figure out how", "figure it out", "figure out a way"],
+    "usageNotes": "Com pronome, fica no meio: 'figure it out', nunca 'figure out it'. Bem informal e comum.",
+    "tags": ["comunicacao", "cotidiano", "phrasal-verb"],
+    "source": "seed"
+  },
+  {
+    "english": "give up",
+    "translation": "desistir, largar",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌɡɪv ˈʌp/",
+    "pronunciationHintPtBr": "guív âp",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "desistir", "definitionEn": "to stop trying to do something", "definitionPtBr": "parar de tentar fazer algo" },
+      { "translation": "largar (um hábito)", "definitionEn": "to stop doing a habit", "definitionPtBr": "parar com um hábito" }
+    ],
+    "exampleEn": "Don't give up, you're almost there.",
+    "examplePtBr": "Não desista, você está quase lá.",
+    "dailyUsage": "Pode ser desistir de algo ou largar um vício: 'give up smoking'. Depois vem -ing.",
+    "synonyms": ["quit", "throw in the towel"],
+    "antonyms": ["persevere", "keep going"],
+    "collocations": ["give up on", "give up smoking", "never give up"],
+    "usageNotes": "'Give up on someone' é perder a esperança numa pessoa. Depois do verbo use gerúndio.",
+    "tags": ["emocoes", "cotidiano", "phrasal-verb"],
+    "source": "seed"
+  },
+  {
+    "english": "run out of",
+    "translation": "ficar sem, acabar (um recurso)",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌrʌn ˈaʊt əv/",
+    "pronunciationHintPtBr": "rãn áut ov",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "ficar sem algo", "definitionEn": "to use all of something so none is left", "definitionPtBr": "usar tudo de algo até não sobrar nada" }
+    ],
+    "exampleEn": "We ran out of milk, so I'll buy some more.",
+    "examplePtBr": "Ficamos sem leite, então vou comprar mais.",
+    "dailyUsage": "Sempre com 'of' antes da coisa que acabou: 'run out of time', 'run out of money'.",
+    "synonyms": ["use up"],
+    "antonyms": ["stock up"],
+    "collocations": ["run out of time", "run out of money", "run out of ideas"],
+    "usageNotes": "Sem o 'of' muda o sentido: 'run out' sozinho é sair correndo. Sempre 'run out of' para acabar algo.",
+    "tags": ["cotidiano", "phrasal-verb"],
+    "source": "seed"
+  },
+  {
+    "english": "come up with",
+    "translation": "bolar, inventar (uma ideia)",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌkʌm ˈʌp wɪð/",
+    "pronunciationHintPtBr": "kâm âp uíd",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "bolar uma ideia", "definitionEn": "to think of a new idea or plan", "definitionPtBr": "pensar em uma ideia ou plano novo" }
+    ],
+    "exampleEn": "She came up with a great idea for the project.",
+    "examplePtBr": "Ela bolou uma ótima ideia para o projeto.",
+    "dailyUsage": "Para ideias, soluções, desculpas. Sempre com 'with'.",
+    "synonyms": ["think of", "devise"],
+    "antonyms": [],
+    "collocations": ["come up with an idea", "come up with a plan", "come up with a solution"],
+    "usageNotes": "São três partes fixas: come + up + with. Muito usado em trabalho para gerar soluções.",
+    "tags": ["trabalho", "comunicacao", "phrasal-verb"],
+    "source": "seed"
+  },
+  {
+    "english": "put off",
+    "translation": "adiar, deixar para depois",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌpʊt ˈɔːf/",
+    "pronunciationHintPtBr": "put óf",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "adiar", "definitionEn": "to move something to a later time", "definitionPtBr": "mover algo para um horário mais tarde" }
+    ],
+    "exampleEn": "Let's not put off the meeting again.",
+    "examplePtBr": "Vamos não adiar a reunião de novo.",
+    "dailyUsage": "Sinônimo informal de 'postpone'. Separável: 'put it off'.",
+    "synonyms": ["postpone", "delay"],
+    "antonyms": ["bring forward"],
+    "collocations": ["put off a decision", "put it off", "keep putting off"],
+    "usageNotes": "Tem outro sentido: 'put someone off' é desanimar alguém. O contexto resolve a diferença.",
+    "tags": ["trabalho", "cotidiano", "phrasal-verb"],
+    "source": "seed"
+  },
+  {
+    "english": "look after",
+    "translation": "cuidar de",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌlʊk ˈæftər/",
+    "pronunciationHintPtBr": "luk éf-târ",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "cuidar de", "definitionEn": "to take care of someone or something", "definitionPtBr": "tomar conta de alguém ou algo" }
+    ],
+    "exampleEn": "Can you look after my dog this weekend?",
+    "examplePtBr": "Você pode cuidar do meu cachorro neste fim de semana?",
+    "dailyUsage": "Cuidar de pessoas, animais ou coisas. Parecido com 'take care of'.",
+    "synonyms": ["take care of", "watch over"],
+    "antonyms": ["neglect"],
+    "collocations": ["look after a child", "look after yourself", "look after the house"],
+    "usageNotes": "Não confunda com 'look for' (procurar) nem 'look at' (olhar). Aqui é cuidar.",
+    "tags": ["cotidiano", "saude", "phrasal-verb"],
+    "source": "seed"
+  },
+  {
+    "english": "get along with",
+    "translation": "se dar bem com",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌɡet əˈlɔːŋ wɪð/",
+    "pronunciationHintPtBr": "guét â-lóng uíd",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "se dar bem com alguém", "definitionEn": "to have a friendly relationship with someone", "definitionPtBr": "ter uma relação amigável com alguém" }
+    ],
+    "exampleEn": "I get along with most of my coworkers.",
+    "examplePtBr": "Eu me dou bem com a maioria dos meus colegas.",
+    "dailyUsage": "Para relações tranquilas. Sem a pessoa, 'get along' sozinho também funciona.",
+    "synonyms": ["get on with"],
+    "antonyms": ["clash with"],
+    "collocations": ["get along well", "get along with", "get along fine"],
+    "usageNotes": "Americano prefere 'get along'; britânico usa 'get on'. Sentido idêntico.",
+    "tags": ["comunicacao", "emocoes", "phrasal-verb"],
+    "source": "seed"
+  },
+  {
+    "english": "bring up",
+    "translation": "mencionar, trazer à tona",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌbrɪŋ ˈʌp/",
+    "pronunciationHintPtBr": "bring âp",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "mencionar um assunto", "definitionEn": "to start talking about a topic", "definitionPtBr": "começar a falar de um assunto" },
+      { "translation": "criar (filhos)", "definitionEn": "to raise a child", "definitionPtBr": "criar uma criança" }
+    ],
+    "exampleEn": "I didn't want to bring up the subject at dinner.",
+    "examplePtBr": "Eu não quis trazer o assunto à tona no jantar.",
+    "dailyUsage": "Sentido comum: puxar um assunto numa conversa. Separável: 'bring it up'.",
+    "synonyms": ["mention", "raise"],
+    "antonyms": [],
+    "collocations": ["bring up a topic", "bring it up", "bring up the subject"],
+    "usageNotes": "Dois sentidos: puxar assunto e criar filhos ('she was brought up in Rio'). O contexto separa.",
+    "tags": ["comunicacao", "phrasal-verb"],
+    "source": "seed"
+  },
+  {
+    "english": "point out",
+    "translation": "apontar, destacar, mostrar",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌpɔɪnt ˈaʊt/",
+    "pronunciationHintPtBr": "point áut",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "apontar, destacar", "definitionEn": "to make someone notice something", "definitionPtBr": "fazer alguém perceber algo" }
+    ],
+    "exampleEn": "She pointed out a mistake in my report.",
+    "examplePtBr": "Ela apontou um erro no meu relatório.",
+    "dailyUsage": "Chamar atenção para um detalhe ou erro. Separável: 'point it out'.",
+    "synonyms": ["highlight", "indicate"],
+    "antonyms": [],
+    "collocations": ["point out a mistake", "point out that", "point it out"],
+    "usageNotes": "Serve para destacar fato ou erro de forma educada: 'I'd like to point out that...'.",
+    "tags": ["comunicacao", "trabalho", "phrasal-verb"],
+    "source": "seed"
+  },
+  {
+    "english": "overwhelmed",
+    "translation": "sobrecarregado, soterrado",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˌoʊvərˈwelmd/",
+    "pronunciationHintPtBr": "ôu-vâr-uélmd",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "sobrecarregado emocionalmente", "definitionEn": "feeling unable to deal with too much at once", "definitionPtBr": "sentindo-se incapaz de lidar com coisas demais ao mesmo tempo" }
+    ],
+    "exampleEn": "I feel overwhelmed with all this work.",
+    "examplePtBr": "Me sinto sobrecarregado com todo esse trabalho.",
+    "dailyUsage": "Quando é muita coisa junto e você não dá conta. 'Overwhelmed with' ou 'overwhelmed by'.",
+    "synonyms": ["swamped", "snowed under"],
+    "antonyms": ["in control"],
+    "collocations": ["feel overwhelmed", "overwhelmed with", "completely overwhelmed"],
+    "usageNotes": "Pode ser negativo (muita pressão) ou positivo ('overwhelmed with joy'). O tom vem do contexto.",
+    "tags": ["emocoes", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "embarrassed",
+    "translation": "envergonhado, sem graça",
+    "partOfSpeech": "adjective",
+    "ipa": "/ɪmˈbærəst/",
+    "pronunciationHintPtBr": "im-bé-râst",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "envergonhado, sem graça", "definitionEn": "feeling shy or uncomfortable in front of others", "definitionPtBr": "sentindo vergonha ou desconforto diante dos outros" }
+    ],
+    "exampleEn": "I was so embarrassed when I forgot his name.",
+    "examplePtBr": "Fiquei tão sem graça quando esqueci o nome dele.",
+    "dailyUsage": "Vergonha de um momento constrangedor. 'Embarrassed about' algo que você fez.",
+    "synonyms": ["ashamed", "self-conscious"],
+    "antonyms": ["proud", "confident"],
+    "collocations": ["embarrassed about", "so embarrassed", "get embarrassed"],
+    "usageNotes": "Falso amigo perigoso: 'embarrassed' NÃO é 'grávida'. Grávida é 'pregnant'. Erro muito comum.",
+    "tags": ["emocoes"],
+    "source": "seed"
+  },
+  {
+    "english": "frustrated",
+    "translation": "frustrado, irritado",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˈfrʌstreɪtɪd/",
+    "pronunciationHintPtBr": "frâs-trei-tâd",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "frustrado", "definitionEn": "annoyed because you can't do or get what you want", "definitionPtBr": "irritado por não conseguir o que quer" }
+    ],
+    "exampleEn": "He gets frustrated when the internet is slow.",
+    "examplePtBr": "Ele fica frustrado quando a internet está lenta.",
+    "dailyUsage": "Mistura de raiva e impotência. 'Frustrated with' algo ou alguém.",
+    "synonyms": ["annoyed", "exasperated"],
+    "antonyms": ["satisfied", "content"],
+    "collocations": ["frustrated with", "get frustrated", "feel frustrated"],
+    "usageNotes": "'Frustrated' tem o som 'strei' no meio. Não é só triste, tem o elemento de bloqueio e irritação.",
+    "tags": ["emocoes"],
+    "source": "seed"
+  },
+  {
+    "english": "annoyed",
+    "translation": "irritado, aborrecido",
+    "partOfSpeech": "adjective",
+    "ipa": "/əˈnɔɪd/",
+    "pronunciationHintPtBr": "â-nóid",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "irritado, incomodado", "definitionEn": "a little angry about something", "definitionPtBr": "um pouco bravo com algo" }
+    ],
+    "exampleEn": "I was annoyed by the loud music next door.",
+    "examplePtBr": "Fiquei irritado com a música alta do vizinho.",
+    "dailyUsage": "Irritação leve, não fúria. 'Annoyed with' pessoa, 'annoyed at/by' coisa.",
+    "synonyms": ["irritated", "bothered"],
+    "antonyms": ["pleased"],
+    "collocations": ["annoyed with", "annoyed by", "get annoyed"],
+    "usageNotes": "'Annoyed' é menos forte que 'angry'. A coisa que irrita é 'annoying'.",
+    "tags": ["emocoes"],
+    "source": "seed"
+  },
+  {
+    "english": "confident",
+    "translation": "confiante, seguro de si",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˈkɑːnfɪdənt/",
+    "pronunciationHintPtBr": "cán-fi-dânt",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "confiante", "definitionEn": "sure of yourself and your abilities", "definitionPtBr": "seguro de si e das próprias capacidades" }
+    ],
+    "exampleEn": "She felt confident before the presentation.",
+    "examplePtBr": "Ela se sentiu confiante antes da apresentação.",
+    "dailyUsage": "Segurança em si mesmo. 'Confident about' algo, 'confident in' alguém.",
+    "synonyms": ["self-assured", "sure"],
+    "antonyms": ["insecure", "nervous"],
+    "collocations": ["confident about", "feel confident", "a confident person"],
+    "usageNotes": "'Confident' é seguro de si; 'confident' sobre um fato é 'ter certeza'. Não confunda com 'confidential' (sigiloso).",
+    "tags": ["emocoes", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "anxious",
+    "translation": "ansioso, apreensivo",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˈæŋkʃəs/",
+    "pronunciationHintPtBr": "ânk-châs",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "ansioso, apreensivo", "definitionEn": "worried and nervous about what might happen", "definitionPtBr": "preocupado e nervoso com o que pode acontecer" }
+    ],
+    "exampleEn": "I'm a bit anxious about the test results.",
+    "examplePtBr": "Estou um pouco ansioso com os resultados do exame.",
+    "dailyUsage": "Preocupação com o futuro. 'Anxious about' algo. Mais forte e negativo que 'excited'.",
+    "synonyms": ["nervous", "worried", "uneasy"],
+    "antonyms": ["calm", "relaxed"],
+    "collocations": ["anxious about", "feel anxious", "slightly anxious"],
+    "usageNotes": "'Anxious about' é preocupação. 'Anxious to do' pode significar ansiar para fazer. O 'x' soa como 'nk'.",
+    "tags": ["emocoes", "saude"],
+    "source": "seed"
+  },
+  {
+    "english": "awkward",
+    "translation": "constrangedor, desajeitado",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˈɔːkwərd/",
+    "pronunciationHintPtBr": "ók-uârd",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "constrangedor", "definitionEn": "making you feel uncomfortable", "definitionPtBr": "que deixa a pessoa desconfortável" },
+      { "translation": "desajeitado", "definitionEn": "clumsy or not graceful", "definitionPtBr": "sem jeito ou sem graça nos movimentos" }
+    ],
+    "exampleEn": "There was an awkward silence after his comment.",
+    "examplePtBr": "Houve um silêncio constrangedor depois do comentário dele.",
+    "dailyUsage": "Muito usado para situação sem graça: 'that was awkward'. Difícil de pronunciar, pratique.",
+    "synonyms": ["uncomfortable", "clumsy"],
+    "antonyms": ["comfortable", "graceful"],
+    "collocations": ["awkward silence", "feel awkward", "an awkward moment"],
+    "usageNotes": "Palavra coringa para momentos sem graça. A grafia e o som são difíceis: ók-uârd.",
+    "tags": ["emocoes", "comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "honest",
+    "translation": "honesto, sincero",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˈɑːnɪst/",
+    "pronunciationHintPtBr": "á-nâst",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "honesto, sincero", "definitionEn": "telling the truth and not cheating", "definitionPtBr": "que fala a verdade e não engana" }
+    ],
+    "exampleEn": "To be honest, I didn't like the movie.",
+    "examplePtBr": "Para ser sincero, não gostei do filme.",
+    "dailyUsage": "'To be honest' é muleta ótima para dar opinião franca. O 'h' é mudo.",
+    "synonyms": ["truthful", "sincere", "frank"],
+    "antonyms": ["dishonest"],
+    "collocations": ["to be honest", "an honest answer", "be honest with"],
+    "usageNotes": "Atenção: o 'h' não se pronuncia, começa com som de vogal, por isso 'an honest'.",
+    "tags": ["comunicacao", "emocoes"],
+    "source": "seed"
+  },
+  {
+    "english": "reliable",
+    "translation": "confiável",
+    "partOfSpeech": "adjective",
+    "ipa": "/rɪˈlaɪəbəl/",
+    "pronunciationHintPtBr": "ri-lái-â-bâl",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "confiável", "definitionEn": "able to be trusted to do what is needed", "definitionPtBr": "em quem se pode confiar para fazer o necessário" }
+    ],
+    "exampleEn": "He's a reliable friend, he always shows up.",
+    "examplePtBr": "Ele é um amigo confiável, sempre aparece.",
+    "dailyUsage": "Serve para pessoas, carros, internet. Quem cumpre o que promete é 'reliable'.",
+    "synonyms": ["dependable", "trustworthy"],
+    "antonyms": ["unreliable"],
+    "collocations": ["a reliable source", "reliable car", "reliable person"],
+    "usageNotes": "'Reliable' é cumprir o combinado; 'trustworthy' foca mais em honestidade. Perto, mas não idênticos.",
+    "tags": ["comunicacao", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "stubborn",
+    "translation": "teimoso, cabeça-dura",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˈstʌbərn/",
+    "pronunciationHintPtBr": "stâ-bârn",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "teimoso", "definitionEn": "not willing to change your mind", "definitionPtBr": "sem disposição para mudar de ideia" }
+    ],
+    "exampleEn": "My grandfather is too stubborn to ask for help.",
+    "examplePtBr": "Meu avô é teimoso demais para pedir ajuda.",
+    "dailyUsage": "Quem não muda de ideia nem a pau. Costuma ser crítica, mas pode ser elogio de persistência.",
+    "synonyms": ["headstrong", "obstinate"],
+    "antonyms": ["flexible", "easygoing"],
+    "collocations": ["stubborn as a mule", "too stubborn", "a stubborn streak"],
+    "usageNotes": "Normalmente negativo. 'Stubborn as a mule' é a expressão fixa para alguém muito teimoso.",
+    "tags": ["emocoes", "comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "generous",
+    "translation": "generoso",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˈdʒenərəs/",
+    "pronunciationHintPtBr": "djé-nâ-râs",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "generoso", "definitionEn": "happy to give money, time, or help", "definitionPtBr": "disposto a dar dinheiro, tempo ou ajuda" }
+    ],
+    "exampleEn": "It was very generous of her to pay for everyone.",
+    "examplePtBr": "Foi muito generoso da parte dela pagar por todos.",
+    "dailyUsage": "Para quem dá com facilidade. 'Generous with' tempo ou dinheiro.",
+    "synonyms": ["giving", "big-hearted"],
+    "antonyms": ["selfish", "stingy"],
+    "collocations": ["generous with", "a generous gift", "generous of you"],
+    "usageNotes": "Estrutura comum: 'It was generous of you to...'. Oposto direto de 'stingy' (pão-duro).",
+    "tags": ["emocoes", "comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "selfish",
+    "translation": "egoísta",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˈselfɪʃ/",
+    "pronunciationHintPtBr": "sél-fich",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "egoísta", "definitionEn": "caring only about yourself", "definitionPtBr": "que só se importa consigo mesmo" }
+    ],
+    "exampleEn": "It's selfish to take the last slice without asking.",
+    "examplePtBr": "É egoísta pegar a última fatia sem perguntar.",
+    "dailyUsage": "Crítica a quem pensa só em si. Oposto de 'generous'.",
+    "synonyms": ["self-centered"],
+    "antonyms": ["generous", "selfless"],
+    "collocations": ["a selfish person", "selfish reasons", "don't be selfish"],
+    "usageNotes": "Vem de 'self' (o próprio) + 'ish'. 'Selfless' com '-less' é o oposto: altruísta.",
+    "tags": ["emocoes", "comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "appreciate",
+    "translation": "valorizar, agradecer",
+    "partOfSpeech": "verb",
+    "ipa": "/əˈpriːʃieɪt/",
+    "pronunciationHintPtBr": "â-prí-chi-eit",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "agradecer, valorizar", "definitionEn": "to be thankful for something", "definitionPtBr": "ser grato por algo" },
+      { "translation": "reconhecer o valor", "definitionEn": "to understand how good something is", "definitionPtBr": "entender o quanto algo é bom" }
+    ],
+    "exampleEn": "I really appreciate everything you've done.",
+    "examplePtBr": "Eu valorizo muito tudo o que você fez.",
+    "dailyUsage": "Forma elegante de agradecer. 'I'd appreciate it if...' é pedido educado.",
+    "synonyms": ["value", "be grateful for"],
+    "antonyms": ["dismiss"],
+    "collocations": ["really appreciate", "appreciate it", "I'd appreciate it if"],
+    "usageNotes": "'I appreciate it' soa mais caloroso que 'thanks'. Em pedidos: 'I'd appreciate it if you could...'.",
+    "tags": ["comunicacao", "emocoes"],
+    "source": "seed"
+  },
+  {
+    "english": "encourage",
+    "translation": "incentivar, encorajar",
+    "partOfSpeech": "verb",
+    "ipa": "/ɪnˈkɜːrɪdʒ/",
+    "pronunciationHintPtBr": "in-kâ-ridj",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "incentivar", "definitionEn": "to give someone confidence to do something", "definitionPtBr": "dar confiança a alguém para fazer algo" }
+    ],
+    "exampleEn": "My teacher encouraged me to keep studying.",
+    "examplePtBr": "Meu professor me incentivou a continuar estudando.",
+    "dailyUsage": "'Encourage someone to do'. Oposto de desanimar ('discourage').",
+    "synonyms": ["motivate", "inspire"],
+    "antonyms": ["discourage"],
+    "collocations": ["encourage someone to", "strongly encourage", "encourage growth"],
+    "usageNotes": "Estrutura fixa: 'encourage someone to do something'. O oposto é 'discourage'.",
+    "tags": ["comunicacao", "emocoes", "estudos"],
+    "source": "seed"
+  },
+  {
+    "english": "misunderstand",
+    "translation": "entender errado, interpretar mal",
+    "partOfSpeech": "verb",
+    "ipa": "/ˌmɪsʌndərˈstænd/",
+    "pronunciationHintPtBr": "mis-ân-dâr-sténd",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "entender errado", "definitionEn": "to understand something in the wrong way", "definitionPtBr": "compreender algo de forma errada" }
+    ],
+    "exampleEn": "I think you misunderstood what I meant.",
+    "examplePtBr": "Acho que você entendeu errado o que eu quis dizer.",
+    "dailyUsage": "Prefixo 'mis' = errado. Passado 'misunderstood'. Útil para desfazer confusões.",
+    "synonyms": ["get wrong", "misread"],
+    "antonyms": ["understand"],
+    "collocations": ["misunderstand someone", "widely misunderstood", "easy to misunderstand"],
+    "usageNotes": "Passado irregular: misunderstand, misunderstood. O substantivo 'misunderstanding' é o mal-entendido.",
+    "tags": ["comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "reassure",
+    "translation": "tranquilizar, dar segurança",
+    "partOfSpeech": "verb",
+    "ipa": "/ˌriːəˈʃʊr/",
+    "pronunciationHintPtBr": "ri-â-chúr",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "tranquilizar", "definitionEn": "to make someone feel less worried", "definitionPtBr": "fazer alguém se sentir menos preocupado" }
+    ],
+    "exampleEn": "The doctor reassured me that everything was fine.",
+    "examplePtBr": "O médico me tranquilizou dizendo que estava tudo bem.",
+    "dailyUsage": "Acalmar alguém preocupado com palavras. 'Reassure someone that...'.",
+    "synonyms": ["comfort", "put at ease"],
+    "antonyms": ["worry", "alarm"],
+    "collocations": ["reassure someone", "reassure that", "try to reassure"],
+    "usageNotes": "Diferente de 'ensure' (garantir) e 'insure' (fazer seguro). 'Reassure' é acalmar uma pessoa.",
+    "tags": ["comunicacao", "emocoes"],
+    "source": "seed"
+  },
+  {
+    "english": "interrupt",
+    "translation": "interromper",
+    "partOfSpeech": "verb",
+    "ipa": "/ˌɪntəˈrʌpt/",
+    "pronunciationHintPtBr": "in-tâ-rãpt",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "interromper", "definitionEn": "to stop someone while they are speaking", "definitionPtBr": "parar alguém enquanto fala" }
+    ],
+    "exampleEn": "Sorry to interrupt, but we need to leave now.",
+    "examplePtBr": "Desculpa interromper, mas precisamos sair agora.",
+    "dailyUsage": "'Sorry to interrupt' é frase educada para cortar uma conversa.",
+    "synonyms": ["cut off", "butt in"],
+    "antonyms": [],
+    "collocations": ["interrupt someone", "sorry to interrupt", "constantly interrupt"],
+    "usageNotes": "Cortar a fala de alguém costuma ser visto como falta de educação. Suavize com 'sorry to interrupt'.",
+    "tags": ["comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "gossip",
+    "translation": "fofoca, fofocar",
+    "partOfSpeech": "verb",
+    "ipa": "/ˈɡɑːsɪp/",
+    "pronunciationHintPtBr": "gá-sip",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "fofocar", "definitionEn": "to talk about other people's private lives", "definitionPtBr": "falar da vida privada dos outros" },
+      { "translation": "fofoca", "definitionEn": "talk about other people, often unkind", "definitionPtBr": "conversa sobre a vida dos outros, muitas vezes maldosa" }
+    ],
+    "exampleEn": "They were gossiping about their coworkers again.",
+    "examplePtBr": "Eles estavam fofocando sobre os colegas de novo.",
+    "dailyUsage": "Verbo e substantivo. 'Gossip about' alguém. Tem tom levemente negativo.",
+    "synonyms": ["talk behind someone's back"],
+    "antonyms": [],
+    "collocations": ["gossip about", "office gossip", "juicy gossip"],
+    "usageNotes": "Como substantivo é incontável: 'a piece of gossip', não 'a gossip' para a conversa.",
+    "tags": ["comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "rely on",
+    "translation": "contar com, depender de",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/rɪˈlaɪ ɑːn/",
+    "pronunciationHintPtBr": "ri-lái ón",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "contar com, depender de", "definitionEn": "to trust someone or something to help you", "definitionPtBr": "confiar em alguém ou algo para te ajudar" }
+    ],
+    "exampleEn": "You can rely on me to finish the job.",
+    "examplePtBr": "Você pode contar comigo para terminar o trabalho.",
+    "dailyUsage": "Sempre com 'on'. Parecido com 'count on' e 'depend on'.",
+    "synonyms": ["count on", "depend on"],
+    "antonyms": [],
+    "collocations": ["rely on someone", "rely heavily on", "can't rely on"],
+    "usageNotes": "O adjetivo 'reliable' vem daqui. Em todos os casos a preposição é 'on'.",
+    "tags": ["comunicacao", "trabalho", "phrasal-verb"],
+    "source": "seed"
+  },
+  {
+    "english": "make up",
+    "translation": "fazer as pazes, inventar",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌmeɪk ˈʌp/",
+    "pronunciationHintPtBr": "mêik âp",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "fazer as pazes", "definitionEn": "to become friends again after a fight", "definitionPtBr": "voltar a ser amigos depois de uma briga" },
+      { "translation": "inventar uma história", "definitionEn": "to invent something that isn't true", "definitionPtBr": "criar algo que não é verdade" }
+    ],
+    "exampleEn": "They had a fight but made up the next day.",
+    "examplePtBr": "Eles brigaram mas fizeram as pazes no dia seguinte.",
+    "dailyUsage": "Dois sentidos frequentes: reconciliar e inventar. 'Make up a story' é inventar.",
+    "synonyms": ["reconcile", "invent"],
+    "antonyms": ["fall out"],
+    "collocations": ["kiss and make up", "make up a story", "make up with"],
+    "usageNotes": "Cuidado com os sentidos: fazer as pazes, inventar, ou até 'make up' como maquiagem (substantivo).",
+    "tags": ["comunicacao", "emocoes", "phrasal-verb"],
+    "source": "seed"
+  },
+  {
+    "english": "calm down",
+    "translation": "acalmar, se acalmar",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌkɑːm ˈdaʊn/",
+    "pronunciationHintPtBr": "cám dáun",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "se acalmar", "definitionEn": "to become less angry or upset", "definitionPtBr": "ficar menos bravo ou alterado" }
+    ],
+    "exampleEn": "Take a deep breath and calm down.",
+    "examplePtBr": "Respira fundo e se acalma.",
+    "dailyUsage": "O 'l' de calm é mudo: cám. Dizer 'calm down!' a alguém irritado pode soar grosseiro.",
+    "synonyms": ["relax", "chill out"],
+    "antonyms": ["get worked up"],
+    "collocations": ["calm down", "calm someone down", "just calm down"],
+    "usageNotes": "Cuidado social: mandar alguém 'calm down' no meio da raiva costuma irritar ainda mais.",
+    "tags": ["emocoes", "comunicacao", "phrasal-verb"],
+    "source": "seed"
+  },
+  {
+    "english": "cheer up",
+    "translation": "animar, levantar o astral",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌtʃɪr ˈʌp/",
+    "pronunciationHintPtBr": "tchir âp",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "animar alguém", "definitionEn": "to make someone feel happier", "definitionPtBr": "fazer alguém se sentir mais feliz" }
+    ],
+    "exampleEn": "I bought her flowers to cheer her up.",
+    "examplePtBr": "Comprei flores para ela para animá-la.",
+    "dailyUsage": "Separável: 'cheer someone up'. 'Cheer up!' é 'anima aí!'.",
+    "synonyms": ["lift someone's spirits"],
+    "antonyms": ["bring down"],
+    "collocations": ["cheer up", "cheer someone up", "cheer yourself up"],
+    "usageNotes": "Com pronome vai no meio: 'cheer her up', nunca 'cheer up her'. Sozinho é incentivo: 'Cheer up!'.",
+    "tags": ["emocoes", "comunicacao", "phrasal-verb"],
+    "source": "seed"
+  },
+  {
+    "english": "show up",
+    "translation": "aparecer, dar as caras",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌʃoʊ ˈʌp/",
+    "pronunciationHintPtBr": "chôu âp",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "aparecer, comparecer", "definitionEn": "to arrive at a place, especially an event", "definitionPtBr": "chegar a um lugar, especialmente a um evento" }
+    ],
+    "exampleEn": "He showed up an hour late to the party.",
+    "examplePtBr": "Ele apareceu uma hora atrasado na festa.",
+    "dailyUsage": "Informal para comparecer. 'Show up on time' é chegar na hora.",
+    "synonyms": ["turn up", "appear"],
+    "antonyms": ["no-show"],
+    "collocations": ["show up late", "show up on time", "didn't show up"],
+    "usageNotes": "Mais casual que 'arrive'. 'A no-show' (substantivo) é quem confirma mas não aparece.",
+    "tags": ["cotidiano", "comunicacao", "phrasal-verb"],
+    "source": "seed"
+  },
+  {
+    "english": "hang out",
+    "translation": "sair, passar o tempo juntos",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌhæŋ ˈaʊt/",
+    "pronunciationHintPtBr": "rãng áut",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "sair, ficar juntos", "definitionEn": "to spend time with people in a relaxed way", "definitionPtBr": "passar tempo com pessoas de forma relaxada" }
+    ],
+    "exampleEn": "We usually hang out at the mall on Saturdays.",
+    "examplePtBr": "A gente costuma sair no shopping aos sábados.",
+    "dailyUsage": "Muito informal e comum entre jovens. 'Hang out with' alguém.",
+    "synonyms": ["spend time", "chill"],
+    "antonyms": [],
+    "collocations": ["hang out with", "hang out together", "let's hang out"],
+    "usageNotes": "Bem casual, para amigos. Em contexto de trabalho prefira 'spend time' ou 'meet up'.",
+    "tags": ["cotidiano", "comunicacao", "phrasal-verb"],
+    "source": "seed"
+  },
+  {
+    "english": "catch up",
+    "translation": "colocar o papo em dia, alcançar",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌkætʃ ˈʌp/",
+    "pronunciationHintPtBr": "kétch âp",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "pôr o papo em dia", "definitionEn": "to share recent news with someone", "definitionPtBr": "trocar as novidades com alguém" },
+      { "translation": "alcançar", "definitionEn": "to reach the same level as others", "definitionPtBr": "chegar ao mesmo nível dos outros" }
+    ],
+    "exampleEn": "Let's grab a coffee and catch up soon.",
+    "examplePtBr": "Vamos tomar um café e colocar o papo em dia logo.",
+    "dailyUsage": "'Catch up with' um amigo é rever e conversar. 'Catch up on' trabalho é pôr em dia.",
+    "synonyms": ["touch base"],
+    "antonyms": ["fall behind"],
+    "collocations": ["catch up with", "catch up on", "a lot to catch up on"],
+    "usageNotes": "'Catch up with' pessoas; 'catch up on' tarefas ou sono. A preposição muda o sentido.",
+    "tags": ["comunicacao", "cotidiano", "phrasal-verb"],
+    "source": "seed"
+  },
+  {
+    "english": "keep in touch",
+    "translation": "manter contato",
+    "partOfSpeech": "idiom",
+    "ipa": "/ˌkiːp ɪn ˈtʌtʃ/",
+    "pronunciationHintPtBr": "kíip in tâtch",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "manter contato", "definitionEn": "to stay in communication with someone", "definitionPtBr": "continuar se comunicando com alguém" }
+    ],
+    "exampleEn": "We said goodbye and promised to keep in touch.",
+    "examplePtBr": "Nos despedimos e prometemos manter contato.",
+    "dailyUsage": "Frase de despedida. 'Keep in touch with' alguém. 'Stay in touch' é igual.",
+    "synonyms": ["stay in touch"],
+    "antonyms": ["lose touch"],
+    "collocations": ["keep in touch with", "let's keep in touch", "stay in touch"],
+    "usageNotes": "Expressão fixa com 'touch' no singular. O oposto 'lose touch' é perder o contato.",
+    "tags": ["comunicacao", "expressao"],
+    "source": "seed"
+  },
+  {
+    "english": "small talk",
+    "translation": "conversa fiada, papo leve",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈsmɔːl tɔːk/",
+    "pronunciationHintPtBr": "smól tók",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "conversa fiada, papo de amenidades", "definitionEn": "light conversation about simple topics", "definitionPtBr": "conversa leve sobre assuntos simples" }
+    ],
+    "exampleEn": "We made small talk about the weather while we waited.",
+    "examplePtBr": "A gente puxou papo sobre o tempo enquanto esperava.",
+    "dailyUsage": "Papo educado com conhecidos. 'Make small talk' é a combinação usual.",
+    "synonyms": ["chitchat"],
+    "antonyms": [],
+    "collocations": ["make small talk", "small talk about", "good at small talk"],
+    "usageNotes": "Incontável. O verbo que acompanha é 'make', não 'do': 'make small talk'.",
+    "tags": ["comunicacao", "cotidiano"],
+    "source": "seed"
+  },
+  {
+    "english": "break the ice",
+    "translation": "quebrar o gelo",
+    "partOfSpeech": "idiom",
+    "ipa": "/ˌbreɪk ði ˈaɪs/",
+    "pronunciationHintPtBr": "brêik dâ áis",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "quebrar o gelo", "definitionEn": "to make people feel more relaxed at the start", "definitionPtBr": "deixar as pessoas mais à vontade no começo" }
+    ],
+    "exampleEn": "He told a joke to break the ice.",
+    "examplePtBr": "Ele contou uma piada para quebrar o gelo.",
+    "dailyUsage": "Para começar uma interação tensa de forma leve. Igual ao português.",
+    "synonyms": ["loosen up the mood"],
+    "antonyms": [],
+    "collocations": ["break the ice", "an icebreaker", "help break the ice"],
+    "usageNotes": "Idiomática, não traduzir ao pé da letra. 'An icebreaker' é a atividade que ajuda nisso.",
+    "tags": ["comunicacao", "expressao"],
+    "source": "seed"
+  },
+  {
+    "english": "on the same page",
+    "translation": "em sintonia, de acordo",
+    "partOfSpeech": "idiom",
+    "ipa": "/ˌɑːn ðə seɪm ˈpeɪdʒ/",
+    "pronunciationHintPtBr": "ón dâ sêim pêidj",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "em sintonia, pensando igual", "definitionEn": "agreeing or understanding things the same way", "definitionPtBr": "concordando ou entendendo as coisas da mesma forma" }
+    ],
+    "exampleEn": "Let's make sure we're on the same page before we start.",
+    "examplePtBr": "Vamos garantir que estamos em sintonia antes de começar.",
+    "dailyUsage": "Muito usada no trabalho para alinhar a equipe. 'Get on the same page' é alinhar.",
+    "synonyms": ["in agreement", "aligned"],
+    "antonyms": ["at odds"],
+    "collocations": ["get on the same page", "be on the same page", "all on the same page"],
+    "usageNotes": "Expressão de escritório. Significa concordar no entendimento, não necessariamente na opinião.",
+    "tags": ["comunicacao", "trabalho", "expressao"],
+    "source": "seed"
+  },
+  {
+    "english": "point of view",
+    "translation": "ponto de vista, opinião",
+    "partOfSpeech": "noun",
+    "ipa": "/ˌpɔɪnt əv ˈvjuː/",
+    "pronunciationHintPtBr": "point ov viú",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "ponto de vista", "definitionEn": "the way someone thinks about something", "definitionPtBr": "a forma como alguém pensa sobre algo" }
+    ],
+    "exampleEn": "From my point of view, the plan makes sense.",
+    "examplePtBr": "Do meu ponto de vista, o plano faz sentido.",
+    "dailyUsage": "'From my point of view' introduz sua opinião. Abreviação comum: POV.",
+    "synonyms": ["perspective", "opinion"],
+    "antonyms": [],
+    "collocations": ["from my point of view", "different point of view", "share a point of view"],
+    "usageNotes": "Estrutura 'from someone's point of view'. A sigla 'POV' é muito usada em redes sociais.",
+    "tags": ["comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "overwhelming",
+    "translation": "avassalador, esmagador",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˌoʊvərˈwelmɪŋ/",
+    "pronunciationHintPtBr": "ôu-vâr-uél-ming",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "avassalador, intenso demais", "definitionEn": "so great that it is hard to deal with", "definitionPtBr": "tão grande que é difícil de lidar" }
+    ],
+    "exampleEn": "The support from fans was overwhelming.",
+    "examplePtBr": "O apoio dos fãs foi avassalador.",
+    "dailyUsage": "'Overwhelming' é a causa; 'overwhelmed' é como você se sente. Não troque os dois.",
+    "synonyms": ["staggering", "immense"],
+    "antonyms": ["manageable"],
+    "collocations": ["overwhelming support", "overwhelming majority", "overwhelming evidence"],
+    "usageNotes": "Pode ser positivo ('overwhelming love') ou negativo ('overwhelming pressure'). O contexto define.",
+    "tags": ["emocoes", "comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "resentful",
+    "translation": "ressentido, magoado",
+    "partOfSpeech": "adjective",
+    "ipa": "/rɪˈzentfəl/",
+    "pronunciationHintPtBr": "ri-zént-fâl",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "ressentido", "definitionEn": "feeling angry about being treated unfairly", "definitionPtBr": "com raiva guardada por ter sido tratado de forma injusta" }
+    ],
+    "exampleEn": "She felt resentful about doing all the work alone.",
+    "examplePtBr": "Ela ficou ressentida por fazer todo o trabalho sozinha.",
+    "dailyUsage": "Raiva antiga e guardada, não explosão do momento. 'Resentful of/about'.",
+    "synonyms": ["bitter", "aggrieved"],
+    "antonyms": ["content", "forgiving"],
+    "collocations": ["resentful about", "grow resentful", "deeply resentful"],
+    "usageNotes": "É mágoa que se acumula com o tempo. O verbo é 'resent' e o substantivo 'resentment'.",
+    "tags": ["emocoes"],
+    "source": "seed"
+  },
+  {
+    "english": "acknowledge",
+    "translation": "reconhecer, admitir",
+    "partOfSpeech": "verb",
+    "ipa": "/əkˈnɑːlɪdʒ/",
+    "pronunciationHintPtBr": "âk-ná-lidj",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "reconhecer, admitir", "definitionEn": "to accept that something is true", "definitionPtBr": "aceitar que algo é verdade" },
+      { "translation": "dar um retorno", "definitionEn": "to confirm you received something", "definitionPtBr": "confirmar que recebeu algo" }
+    ],
+    "exampleEn": "He acknowledged that he had made a mistake.",
+    "examplePtBr": "Ele reconheceu que tinha cometido um erro.",
+    "dailyUsage": "Admitir um fato ou confirmar recebimento. 'Acknowledge receipt' é confirmar que recebeu.",
+    "synonyms": ["admit", "recognize"],
+    "antonyms": ["deny"],
+    "collocations": ["acknowledge a mistake", "widely acknowledged", "acknowledge receipt"],
+    "usageNotes": "O 'k' do meio é mudo. Mais formal que 'admit'. Comum em e-mail: 'please acknowledge receipt'.",
+    "tags": ["comunicacao", "trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "empathy",
+    "translation": "empatia",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈempəθi/",
+    "pronunciationHintPtBr": "êm-pâ-fi",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "empatia", "definitionEn": "the ability to understand how others feel", "definitionPtBr": "a capacidade de entender o que os outros sentem" }
+    ],
+    "exampleEn": "A good leader shows empathy toward the team.",
+    "examplePtBr": "Um bom líder demonstra empatia com a equipe.",
+    "dailyUsage": "Sentir o que o outro sente. 'Empathy for/toward' alguém. O adjetivo é 'empathetic'.",
+    "synonyms": ["understanding", "compassion"],
+    "antonyms": ["indifference"],
+    "collocations": ["show empathy", "empathy for", "a sense of empathy"],
+    "usageNotes": "'Empathy' é sentir junto; 'sympathy' é sentir pena. Diferença sutil mas importante.",
+    "tags": ["emocoes", "comunicacao"],
+    "source": "seed"
+  },
+  {
+    "english": "vulnerable",
+    "translation": "vulnerável, frágil",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˈvʌlnərəbəl/",
+    "pronunciationHintPtBr": "vãl-nâ-râ-bâl",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "vulnerável emocionalmente", "definitionEn": "easily hurt emotionally or physically", "definitionPtBr": "facilmente ferido emocional ou fisicamente" }
+    ],
+    "exampleEn": "Opening up made him feel vulnerable.",
+    "examplePtBr": "Se abrir fez ele se sentir vulnerável.",
+    "dailyUsage": "Exposto ao risco de se machucar. 'Vulnerable to' um perigo.",
+    "synonyms": ["exposed", "defenseless"],
+    "antonyms": ["protected", "resilient"],
+    "collocations": ["feel vulnerable", "vulnerable to", "vulnerable people"],
+    "usageNotes": "Palavra difícil de pronunciar: note o primeiro 'l'. Em tecnologia, um sistema 'vulnerable' tem brechas.",
+    "tags": ["emocoes", "saude"],
+    "source": "seed"
+  },
+  {
+    "english": "candid",
+    "translation": "franco, sincero",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˈkændɪd/",
+    "pronunciationHintPtBr": "kén-did",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "franco, direto e honesto", "definitionEn": "saying what you really think, openly", "definitionPtBr": "dizendo abertamente o que você realmente pensa" }
+    ],
+    "exampleEn": "To be candid, I think we should start over.",
+    "examplePtBr": "Para ser franco, acho que a gente deveria recomeçar.",
+    "dailyUsage": "Honestidade aberta, sem rodeios. 'A candid conversation' é um papo franco.",
+    "synonyms": ["frank", "honest", "forthright"],
+    "antonyms": ["evasive", "guarded"],
+    "collocations": ["candid about", "a candid conversation", "to be candid"],
+    "usageNotes": "Falso amigo: 'candid' não é 'cândido/ingênuo'. É franco e direto. Para ingênuo diga 'naive'.",
+    "tags": ["comunicacao", "emocoes"],
+    "source": "seed"
+  },
+  {
+    "english": "tactful",
+    "translation": "diplomático, com tato",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˈtæktfəl/",
+    "pronunciationHintPtBr": "tékt-fâl",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "com tato, diplomático", "definitionEn": "careful not to upset or offend people", "definitionPtBr": "cuidadoso para não magoar nem ofender" }
+    ],
+    "exampleEn": "She found a tactful way to say no.",
+    "examplePtBr": "Ela achou um jeito diplomático de dizer não.",
+    "dailyUsage": "Saber falar coisas difíceis sem ferir. O oposto é 'tactless' (sem tato).",
+    "synonyms": ["diplomatic", "sensitive"],
+    "antonyms": ["tactless", "blunt"],
+    "collocations": ["a tactful way", "tactful about", "be tactful"],
+    "usageNotes": "'Tactful' é dizer a verdade com jeito. 'Blunt' é dizer sem filtro. Escolha conforme a situação.",
+    "tags": ["comunicacao", "emocoes"],
+    "source": "seed"
+  },
+  {
+    "english": "come across",
+    "translation": "passar impressão, parecer; topar com",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌkʌm əˈkrɔːs/",
+    "pronunciationHintPtBr": "kâm â-krós",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "passar uma impressão", "definitionEn": "to seem a certain way to others", "definitionPtBr": "parecer de certa forma aos olhos dos outros" },
+      { "translation": "topar com algo por acaso", "definitionEn": "to find something by chance", "definitionPtBr": "encontrar algo por acaso" }
+    ],
+    "exampleEn": "He comes across as shy, but he's really friendly.",
+    "examplePtBr": "Ele passa a impressão de tímido, mas é bem amigável.",
+    "dailyUsage": "'Come across as' é a impressão que você passa. 'Come across' algo é achar sem querer.",
+    "synonyms": ["seem", "stumble upon"],
+    "antonyms": [],
+    "collocations": ["come across as", "come across well", "come across a problem"],
+    "usageNotes": "Dois sentidos. Para impressão use 'come across as'. Para achar por acaso, 'come across' sem 'as'.",
+    "tags": ["comunicacao", "phrasal-verb"],
+    "source": "seed"
+  },
+  {
+    "english": "sort out",
+    "translation": "resolver, organizar",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ˌsɔːrt ˈaʊt/",
+    "pronunciationHintPtBr": "sórt áut",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "resolver, organizar", "definitionEn": "to deal with a problem or put things in order", "definitionPtBr": "lidar com um problema ou pôr as coisas em ordem" }
+    ],
+    "exampleEn": "I need to sort out this mess before Monday.",
+    "examplePtBr": "Preciso resolver essa bagunça antes de segunda.",
+    "dailyUsage": "Resolver pendências ou organizar algo. Separável: 'sort it out'.",
+    "synonyms": ["resolve", "organize", "straighten out"],
+    "antonyms": ["mess up"],
+    "collocations": ["sort out a problem", "sort it out", "sort out the details"],
+    "usageNotes": "Mais comum no inglês britânico, mas entendido nos EUA. 'Get it sorted' é deixar resolvido.",
+    "tags": ["trabalho", "cotidiano", "phrasal-verb"],
+    "source": "seed"
+  },
+  {
+    "english": "get on someone's nerves",
+    "translation": "irritar, tirar do sério",
+    "partOfSpeech": "idiom",
+    "ipa": "/ˌɡet ɑːn ˈsʌmwʌnz nɜːrvz/",
+    "pronunciationHintPtBr": "guét ón sâm-uânz nârvz",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "irritar alguém", "definitionEn": "to annoy someone, often repeatedly", "definitionPtBr": "irritar alguém, muitas vezes de forma repetida" }
+    ],
+    "exampleEn": "That noise is really getting on my nerves.",
+    "examplePtBr": "Esse barulho está me tirando do sério.",
+    "dailyUsage": "Para algo repetitivo que irrita. 'Get on my nerves' é a forma mais comum.",
+    "synonyms": ["drive someone crazy", "bug"],
+    "antonyms": [],
+    "collocations": ["get on my nerves", "really get on someone's nerves", "starting to get on my nerves"],
+    "usageNotes": "Idiomática: 'nerves' sempre no plural. Troque o pronome conforme quem é irritado: 'on her nerves'.",
+    "tags": ["emocoes", "comunicacao", "expressao"],
+    "source": "seed"
+  },
+  {
+    "english": "bite your tongue",
+    "translation": "segurar a língua, se conter",
+    "partOfSpeech": "idiom",
+    "ipa": "/ˌbaɪt jər ˈtʌŋ/",
+    "pronunciationHintPtBr": "báit iôr tãng",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "segurar a língua", "definitionEn": "to stop yourself from saying something", "definitionPtBr": "se impedir de dizer algo" }
+    ],
+    "exampleEn": "I wanted to argue, but I bit my tongue.",
+    "examplePtBr": "Eu queria discutir, mas segurei a língua.",
+    "dailyUsage": "Quando você se contém para não falar algo. Passado 'bit my tongue'.",
+    "synonyms": ["hold your tongue", "keep quiet"],
+    "antonyms": ["speak your mind"],
+    "collocations": ["bite your tongue", "had to bite my tongue", "bite my tongue"],
+    "usageNotes": "Idiomática, não é morder a língua de verdade. O pronome muda: 'bite his tongue'.",
+    "tags": ["comunicacao", "emocoes", "expressao"],
+    "source": "seed"
+  },
+  {
+    "english": "beat around the bush",
+    "translation": "enrolar, falar com rodeios",
+    "partOfSpeech": "idiom",
+    "ipa": "/ˌbiːt əˈraʊnd ðə ˈbʊʃ/",
+    "pronunciationHintPtBr": "bíit â-ráund dâ buch",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "falar com rodeios, enrolar", "definitionEn": "to avoid saying something directly", "definitionPtBr": "evitar dizer algo de forma direta" }
+    ],
+    "exampleEn": "Stop beating around the bush and tell me the truth.",
+    "examplePtBr": "Para de enrolar e me conta a verdade.",
+    "dailyUsage": "Para quem não vai direto ao ponto. Quase sempre no negativo: 'don't beat around the bush'.",
+    "synonyms": ["dance around the subject"],
+    "antonyms": ["get to the point"],
+    "collocations": ["stop beating around the bush", "don't beat around the bush", "quit beating around the bush"],
+    "usageNotes": "Idiomática americana. O oposto direto é 'get to the point' (ir direto ao assunto).",
+    "tags": ["comunicacao", "expressao"],
+    "source": "seed"
+  },
+  {
+    "english": "bear with me",
+    "translation": "tenha paciência comigo, aguarde",
+    "partOfSpeech": "idiom",
+    "ipa": "/ˌber wɪð ˈmiː/",
+    "pronunciationHintPtBr": "bér uíd mí",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "tenha paciência comigo", "definitionEn": "to ask someone to wait patiently", "definitionPtBr": "pedir para alguém esperar com paciência" }
+    ],
+    "exampleEn": "Bear with me, I'll find the file in a second.",
+    "examplePtBr": "Tenha paciência comigo, já acho o arquivo.",
+    "dailyUsage": "Muito usada ao telefone e em reunião enquanto você resolve algo. O verbo é 'bear', não 'beer'.",
+    "synonyms": ["hang on", "give me a moment"],
+    "antonyms": [],
+    "collocations": ["bear with me", "please bear with me", "bear with us"],
+    "usageNotes": "Som igual ao de 'bare'. Não confunda: 'bear with me' (paciência), nunca 'bare with me'.",
+    "tags": ["comunicacao", "trabalho", "expressao"],
+    "source": "seed"
+  },
+  {
+    "english": "heads-up",
+    "translation": "aviso prévio, alerta",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈhedz ʌp/",
+    "pronunciationHintPtBr": "rédz âp",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "aviso antecipado", "definitionEn": "a warning that something will happen", "definitionPtBr": "um aviso de que algo vai acontecer" }
+    ],
+    "exampleEn": "Thanks for the heads-up about the schedule change.",
+    "examplePtBr": "Valeu pelo aviso sobre a mudança no horário.",
+    "dailyUsage": "Informal, muito usado no trabalho. 'Give someone a heads-up' é avisar com antecedência.",
+    "synonyms": ["warning", "alert"],
+    "antonyms": [],
+    "collocations": ["give a heads-up", "thanks for the heads-up", "a quick heads-up"],
+    "usageNotes": "Como substantivo leva hífen: 'a heads-up'. Bem comum em e-mails informais de trabalho.",
+    "tags": ["comunicacao", "trabalho", "negocios"],
+    "source": "seed"
+  },
+  {
+    "english": "resilient",
+    "translation": "resiliente, que se recupera",
+    "partOfSpeech": "adjective",
+    "ipa": "/rɪˈzɪliənt/",
+    "pronunciationHintPtBr": "ri-zí-li-ânt",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "resiliente", "definitionEn": "able to recover quickly from difficulties", "definitionPtBr": "capaz de se recuperar rápido das dificuldades" }
+    ],
+    "exampleEn": "Kids are often more resilient than we think.",
+    "examplePtBr": "As crianças costumam ser mais resilientes do que a gente pensa.",
+    "dailyUsage": "Para pessoas, economias, materiais que voltam ao normal depois de um baque.",
+    "synonyms": ["tough", "adaptable"],
+    "antonyms": ["fragile", "vulnerable"],
+    "collocations": ["resilient person", "emotionally resilient", "a resilient economy"],
+    "usageNotes": "O substantivo é 'resilience'. Serve tanto para emoções quanto para materiais e sistemas.",
+    "tags": ["emocoes", "saude"],
+    "source": "seed"
+  }
+]

@@ -1,0 +1,1115 @@
+[
+  {
+    "english": "lunch",
+    "translation": "almoço",
+    "partOfSpeech": "noun",
+    "ipa": "/lʌntʃ/",
+    "pronunciationHintPtBr": "lãntch",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "almoço", "definitionEn": "the meal you eat in the middle of the day", "definitionPtBr": "a refeição do meio do dia" }
+    ],
+    "exampleEn": "Let's grab lunch after the morning class.",
+    "examplePtBr": "Vamos almoçar depois da aula da manhã.",
+    "dailyUsage": "Palavra básica do dia a dia. Use 'have lunch' (almoçar) e 'lunch break' (pausa do almoço).",
+    "synonyms": ["midday meal"],
+    "antonyms": [],
+    "collocations": ["have lunch", "lunch break", "grab lunch"],
+    "usageNotes": "Normalmente sem artigo: 'I had lunch at noon', não 'the lunch'.",
+    "tags": ["cotidiano"],
+    "source": "seed"
+  },
+  {
+    "english": "dinner",
+    "translation": "jantar",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈdɪnər/",
+    "pronunciationHintPtBr": "díner",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "jantar", "definitionEn": "the main meal eaten in the evening", "definitionPtBr": "a principal refeição da noite" }
+    ],
+    "exampleEn": "We're having friends over for dinner tonight.",
+    "examplePtBr": "Vamos receber amigos para o jantar hoje à noite.",
+    "dailyUsage": "Use 'have dinner' para jantar e 'dinner date' para um jantar a dois.",
+    "synonyms": ["supper"],
+    "antonyms": [],
+    "collocations": ["have dinner", "cook dinner", "dinner table"],
+    "usageNotes": "Em inglês americano 'dinner' quase sempre é a refeição da noite.",
+    "tags": ["cotidiano"],
+    "source": "seed"
+  },
+  {
+    "english": "restaurant",
+    "translation": "restaurante",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈrestrɑnt/",
+    "pronunciationHintPtBr": "réstorant",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "restaurante", "definitionEn": "a place where you pay to eat meals", "definitionPtBr": "lugar onde você paga para comer refeições" }
+    ],
+    "exampleEn": "There's a great Italian restaurant near the hotel.",
+    "examplePtBr": "Tem um ótimo restaurante italiano perto do hotel.",
+    "dailyUsage": "Útil em viagem para pedir indicação: 'Can you recommend a good restaurant?'",
+    "synonyms": ["eatery", "diner"],
+    "antonyms": [],
+    "collocations": ["fancy restaurant", "book a restaurant", "restaurant menu"],
+    "usageNotes": "A sílaba do meio costuma sumir na fala: 'RES-trant'.",
+    "tags": ["viagens", "cotidiano"],
+    "source": "seed"
+  },
+  {
+    "english": "subway",
+    "translation": "metrô",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈsʌbweɪ/",
+    "pronunciationHintPtBr": "sábuei",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "metrô", "definitionEn": "an underground train system in a city", "definitionPtBr": "sistema de trens subterrâneos de uma cidade" }
+    ],
+    "exampleEn": "Take the subway, it's faster than a cab at this hour.",
+    "examplePtBr": "Pegue o metrô, é mais rápido que um táxi a essa hora.",
+    "dailyUsage": "Palavra americana (no inglês britânico é 'the underground' ou 'the tube').",
+    "synonyms": ["metro"],
+    "antonyms": [],
+    "collocations": ["take the subway", "subway station", "subway line"],
+    "usageNotes": "Nos EUA, 'subway' também é o nome de uma rede de sanduíches, mas o sentido padrão é o metrô.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "homework",
+    "translation": "dever de casa, lição de casa",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈhoʊmwɜrk/",
+    "pronunciationHintPtBr": "rôumuerk",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "dever de casa", "definitionEn": "school work a student does at home", "definitionPtBr": "trabalho escolar feito em casa" }
+    ],
+    "exampleEn": "I still have to finish my English homework.",
+    "examplePtBr": "Ainda tenho que terminar meu dever de inglês.",
+    "dailyUsage": "É incontável: diga 'a lot of homework', nunca 'homeworks'.",
+    "synonyms": ["assignment"],
+    "antonyms": [],
+    "collocations": ["do homework", "finish homework", "homework assignment"],
+    "usageNotes": "Sem plural. Use 'some homework' ou 'a piece of homework'.",
+    "tags": ["estudos"],
+    "source": "seed"
+  },
+  {
+    "english": "classroom",
+    "translation": "sala de aula",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈklæsrum/",
+    "pronunciationHintPtBr": "kléssrum",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "sala de aula", "definitionEn": "a room where a class of students is taught", "definitionPtBr": "sala onde uma turma tem aula" }
+    ],
+    "exampleEn": "The teacher asked us to be quiet in the classroom.",
+    "examplePtBr": "A professora pediu silêncio na sala de aula.",
+    "dailyUsage": "Muito comum em 'online classroom' para aulas pela internet.",
+    "synonyms": ["schoolroom"],
+    "antonyms": [],
+    "collocations": ["enter the classroom", "online classroom", "classroom activity"],
+    "usageNotes": "Escrito junto, uma palavra só.",
+    "tags": ["estudos"],
+    "source": "seed"
+  },
+  {
+    "english": "exam",
+    "translation": "prova, exame",
+    "partOfSpeech": "noun",
+    "ipa": "/ɪɡˈzæm/",
+    "pronunciationHintPtBr": "igzém",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "prova", "definitionEn": "an official test of knowledge or skill", "definitionPtBr": "teste oficial de conhecimento ou habilidade" }
+    ],
+    "exampleEn": "I'm nervous about the final exam next week.",
+    "examplePtBr": "Estou nervoso com a prova final da semana que vem.",
+    "dailyUsage": "Forma curta de 'examination'. Use 'take an exam' (fazer) e 'pass an exam' (passar).",
+    "synonyms": ["test"],
+    "antonyms": [],
+    "collocations": ["take an exam", "pass an exam", "fail an exam"],
+    "usageNotes": "'Take an exam' é fazer a prova; 'pass' é ser aprovado. Não confunda.",
+    "tags": ["estudos"],
+    "source": "seed"
+  },
+  {
+    "english": "dictionary",
+    "translation": "dicionário",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈdɪkʃəneri/",
+    "pronunciationHintPtBr": "díkshonéri",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "dicionário", "definitionEn": "a book or app that explains words and their meanings", "definitionPtBr": "livro ou app que explica palavras e seus significados" }
+    ],
+    "exampleEn": "If you don't know the word, check it in the dictionary.",
+    "examplePtBr": "Se você não sabe a palavra, procure no dicionário.",
+    "dailyUsage": "No estudo de inglês, prefira um 'monolingual dictionary' para aprender a definição em inglês.",
+    "synonyms": ["lexicon"],
+    "antonyms": [],
+    "collocations": ["look up in the dictionary", "online dictionary", "pocket dictionary"],
+    "usageNotes": "'Look something up in the dictionary' é a forma natural de dizer procurar no dicionário.",
+    "tags": ["estudos"],
+    "source": "seed"
+  },
+  {
+    "english": "pharmacy",
+    "translation": "farmácia",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈfɑrməsi/",
+    "pronunciationHintPtBr": "fármaci",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "farmácia", "definitionEn": "a store where you buy medicine", "definitionPtBr": "loja onde se compra remédios" }
+    ],
+    "exampleEn": "The pharmacy on the corner is open all night.",
+    "examplePtBr": "A farmácia da esquina fica aberta a noite toda.",
+    "dailyUsage": "Nos EUA você também ouve 'drugstore'. Em viagem, 'Where's the nearest pharmacy?' resolve.",
+    "synonyms": ["drugstore"],
+    "antonyms": [],
+    "collocations": ["go to the pharmacy", "24-hour pharmacy", "pharmacy counter"],
+    "usageNotes": "O profissional é o 'pharmacist' (farmacêutico).",
+    "tags": ["saude", "viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "nurse",
+    "translation": "enfermeiro, enfermeira",
+    "partOfSpeech": "noun",
+    "ipa": "/nɜrs/",
+    "pronunciationHintPtBr": "ners",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "enfermeiro(a)", "definitionEn": "a person trained to care for sick people", "definitionPtBr": "pessoa treinada para cuidar de doentes" }
+    ],
+    "exampleEn": "The nurse checked my blood pressure before the doctor came in.",
+    "examplePtBr": "A enfermeira mediu minha pressão antes de o médico entrar.",
+    "dailyUsage": "Também pode ser verbo: 'to nurse' alguém de volta à saúde é cuidar até melhorar.",
+    "synonyms": ["caregiver"],
+    "antonyms": [],
+    "collocations": ["registered nurse", "night nurse", "nurse's station"],
+    "usageNotes": "Serve para homens e mulheres; não existe forma diferente por gênero.",
+    "tags": ["saude"],
+    "source": "seed"
+  },
+  {
+    "english": "dentist",
+    "translation": "dentista",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈdentɪst/",
+    "pronunciationHintPtBr": "déntist",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "dentista", "definitionEn": "a doctor who treats teeth", "definitionPtBr": "médico que cuida dos dentes" }
+    ],
+    "exampleEn": "I have a dentist appointment on Friday morning.",
+    "examplePtBr": "Tenho consulta no dentista na sexta de manhã.",
+    "dailyUsage": "Para ir ao dentista, diga 'go to the dentist' (sem 'to the dentist's' obrigatório no inglês atual).",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": ["go to the dentist", "dentist appointment", "see a dentist"],
+    "usageNotes": "A consulta em si é 'a dental appointment' ou 'a checkup'.",
+    "tags": ["saude"],
+    "source": "seed"
+  },
+  {
+    "english": "headache",
+    "translation": "dor de cabeça",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈhedeɪk/",
+    "pronunciationHintPtBr": "rédeik",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "dor de cabeça", "definitionEn": "a pain in your head", "definitionPtBr": "uma dor na cabeça" },
+      { "translation": "problema chato", "definitionEn": "something annoying that causes worry", "definitionPtBr": "algo irritante que dá trabalho" }
+    ],
+    "exampleEn": "I've had a bad headache since this morning.",
+    "examplePtBr": "Estou com uma forte dor de cabeça desde de manhã.",
+    "dailyUsage": "Use 'have a headache'. Em sentido figurado, 'what a headache!' é 'que dor de cabeça!'.",
+    "synonyms": ["migraine"],
+    "antonyms": [],
+    "collocations": ["have a headache", "bad headache", "splitting headache"],
+    "usageNotes": "Note o 'ch' com som de k, herdado de 'ache'.",
+    "tags": ["saude"],
+    "source": "seed"
+  },
+  {
+    "english": "fever",
+    "translation": "febre",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈfivər/",
+    "pronunciationHintPtBr": "fíver",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "febre", "definitionEn": "a body temperature higher than normal", "definitionPtBr": "temperatura do corpo acima do normal" }
+    ],
+    "exampleEn": "She stayed home because she was running a fever.",
+    "examplePtBr": "Ela ficou em casa porque estava com febre.",
+    "dailyUsage": "'Run a fever' e 'have a fever' são as formas mais naturais de dizer estar com febre.",
+    "synonyms": ["temperature"],
+    "antonyms": [],
+    "collocations": ["run a fever", "high fever", "break a fever"],
+    "usageNotes": "'Break a fever' é quando a febre finalmente cede.",
+    "tags": ["saude"],
+    "source": "seed"
+  },
+  {
+    "english": "sick",
+    "translation": "doente, enjoado",
+    "partOfSpeech": "adjective",
+    "ipa": "/sɪk/",
+    "pronunciationHintPtBr": "sik",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "doente", "definitionEn": "not healthy; ill", "definitionPtBr": "sem saúde; adoentado" },
+      { "translation": "enjoado", "definitionEn": "feeling like you might vomit", "definitionPtBr": "com vontade de vomitar" }
+    ],
+    "exampleEn": "I'm calling in sick today, I can barely stand up.",
+    "examplePtBr": "Vou avisar que estou doente hoje, mal consigo ficar de pé.",
+    "dailyUsage": "'Call in sick' é avisar o trabalho que você está doente. 'Feel sick' pode ser enjoo.",
+    "synonyms": ["ill", "unwell"],
+    "antonyms": ["healthy", "well"],
+    "collocations": ["call in sick", "get sick", "feel sick"],
+    "usageNotes": "Na gíria, 'that's sick!' pode significar 'que incrível!'. O contexto decide.",
+    "tags": ["saude"],
+    "source": "seed"
+  },
+  {
+    "english": "get up",
+    "translation": "levantar da cama, levantar-se",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ɡet ʌp/",
+    "pronunciationHintPtBr": "guét áp",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "levantar-se", "definitionEn": "to leave your bed or rise from a sitting position", "definitionPtBr": "sair da cama ou levantar de onde se está sentado" }
+    ],
+    "exampleEn": "I get up at six to study English before work.",
+    "examplePtBr": "Eu me levanto às seis para estudar inglês antes do trabalho.",
+    "dailyUsage": "Diferente de 'wake up' (acordar): você pode acordar e só depois 'get up' (sair da cama).",
+    "synonyms": ["rise", "stand up"],
+    "antonyms": ["lie down", "sit down"],
+    "collocations": ["get up early", "get up late", "get up from bed"],
+    "usageNotes": "'Wake up' é abrir os olhos; 'get up' é sair da cama de fato.",
+    "tags": ["cotidiano", "phrasal-verb"],
+    "source": "seed"
+  },
+  {
+    "english": "go out",
+    "translation": "sair (de casa), sair para se divertir",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/ɡoʊ aʊt/",
+    "pronunciationHintPtBr": "góu áut",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "sair", "definitionEn": "to leave your home, usually for fun or social reasons", "definitionPtBr": "sair de casa, geralmente para lazer" },
+      { "translation": "apagar", "definitionEn": "to stop burning or shining, like a light or fire", "definitionPtBr": "parar de queimar ou brilhar, como luz ou fogo" }
+    ],
+    "exampleEn": "We're going out for pizza tonight, want to come?",
+    "examplePtBr": "Vamos sair para comer pizza hoje, quer vir?",
+    "dailyUsage": "'Go out with someone' também significa namorar ou estar saindo com alguém.",
+    "synonyms": ["head out"],
+    "antonyms": ["stay in", "stay home"],
+    "collocations": ["go out for dinner", "go out with friends", "go out tonight"],
+    "usageNotes": "'The lights went out' significa que as luzes se apagaram.",
+    "tags": ["cotidiano", "phrasal-verb"],
+    "source": "seed"
+  },
+  {
+    "english": "clean up",
+    "translation": "limpar, arrumar",
+    "partOfSpeech": "phrasal verb",
+    "ipa": "/klin ʌp/",
+    "pronunciationHintPtBr": "klín áp",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "limpar", "definitionEn": "to make a place tidy and clean", "definitionPtBr": "deixar um lugar arrumado e limpo" }
+    ],
+    "exampleEn": "Can you help me clean up the kitchen after dinner?",
+    "examplePtBr": "Você me ajuda a arrumar a cozinha depois do jantar?",
+    "dailyUsage": "Separável: 'clean up the mess' ou 'clean the mess up', os dois funcionam.",
+    "synonyms": ["tidy up"],
+    "antonyms": ["mess up"],
+    "collocations": ["clean up the mess", "clean up after", "clean up the room"],
+    "usageNotes": "'Clean up after someone' é limpar a bagunça que outra pessoa deixou.",
+    "tags": ["cotidiano", "phrasal-verb"],
+    "source": "seed"
+  },
+  {
+    "english": "uniform",
+    "translation": "uniforme, farda",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈjunɪfɔrm/",
+    "pronunciationHintPtBr": "iúniform",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "uniforme", "definitionEn": "a special set of clothes worn by members of a group or service", "definitionPtBr": "roupa padrão usada por membros de um grupo ou serviço" }
+    ],
+    "exampleEn": "Every soldier must keep their uniform clean and ready.",
+    "examplePtBr": "Todo soldado deve manter a farda limpa e pronta.",
+    "dailyUsage": "Muito usado no contexto militar e escolar: 'in uniform' é 'fardado' ou 'uniformizado'.",
+    "synonyms": ["outfit"],
+    "antonyms": ["plain clothes"],
+    "collocations": ["military uniform", "in uniform", "school uniform"],
+    "usageNotes": "Como adjetivo, 'uniform' significa uniforme no sentido de constante, igual.",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "station",
+    "translation": "estação",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈsteɪʃən/",
+    "pronunciationHintPtBr": "stêishon",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "estação", "definitionEn": "a place where buses or trains stop to pick up passengers", "definitionPtBr": "lugar onde ônibus ou trens param para pegar passageiros" }
+    ],
+    "exampleEn": "Get off at the next station and I'll meet you there.",
+    "examplePtBr": "Desça na próxima estação que eu te encontro lá.",
+    "dailyUsage": "Combina com o meio de transporte: 'train station', 'bus station', 'subway station'.",
+    "synonyms": ["terminal", "stop"],
+    "antonyms": [],
+    "collocations": ["train station", "bus station", "gas station"],
+    "usageNotes": "'Gas station' (posto de gasolina) e 'police station' (delegacia) também usam a palavra.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "notebook",
+    "translation": "caderno",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈnoʊtbʊk/",
+    "pronunciationHintPtBr": "nôutbuk",
+    "cefr": "A2",
+    "meanings": [
+      { "translation": "caderno", "definitionEn": "a book of blank pages for writing notes", "definitionPtBr": "um livro de páginas em branco para anotar" }
+    ],
+    "exampleEn": "I write every new word in a small notebook.",
+    "examplePtBr": "Eu anoto cada palavra nova num caderninho.",
+    "dailyUsage": "Cuidado: em inglês 'notebook' é caderno de papel; o computador portátil é 'laptop'.",
+    "synonyms": ["pad", "journal"],
+    "antonyms": [],
+    "collocations": ["spiral notebook", "keep a notebook", "notebook page"],
+    "usageNotes": "Para o computador, prefira 'laptop'; 'notebook computer' soa datado.",
+    "tags": ["estudos"],
+    "source": "seed"
+  },
+  {
+    "english": "commute",
+    "translation": "deslocamento diário, deslocar-se (ao trabalho)",
+    "partOfSpeech": "verb",
+    "ipa": "/kəˈmjut/",
+    "pronunciationHintPtBr": "komiút",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "deslocar-se", "definitionEn": "to travel regularly between home and work", "definitionPtBr": "viajar regularmente entre casa e trabalho" },
+      { "translation": "o trajeto", "definitionEn": "the regular trip between home and work", "definitionPtBr": "o percurso habitual entre casa e trabalho" }
+    ],
+    "exampleEn": "I commute by subway because driving takes twice as long.",
+    "examplePtBr": "Eu vou de metrô porque dirigir leva o dobro do tempo.",
+    "dailyUsage": "Pode ser verbo ('I commute an hour') ou substantivo ('a long commute').",
+    "synonyms": ["travel"],
+    "antonyms": [],
+    "collocations": ["daily commute", "commute to work", "long commute"],
+    "usageNotes": "'Commuter' é quem faz esse trajeto todo dia.",
+    "tags": ["cotidiano", "viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "errand",
+    "translation": "tarefa rápida, recado",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈerənd/",
+    "pronunciationHintPtBr": "érand",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "tarefa rápida", "definitionEn": "a short trip to do a small task, like shopping or the bank", "definitionPtBr": "uma saída curta para resolver algo, como compras ou banco" }
+    ],
+    "exampleEn": "I have a few errands to run before the store closes.",
+    "examplePtBr": "Tenho uns errezinhos para resolver antes de a loja fechar.",
+    "dailyUsage": "A expressão fixa é 'run errands' (resolver essas pequenas tarefas do dia).",
+    "synonyms": ["task", "chore"],
+    "antonyms": [],
+    "collocations": ["run errands", "quick errand", "errand to run"],
+    "usageNotes": "Quase sempre no plural com 'run': 'I'm running errands'.",
+    "tags": ["cotidiano"],
+    "source": "seed"
+  },
+  {
+    "english": "chore",
+    "translation": "tarefa doméstica, afazer",
+    "partOfSpeech": "noun",
+    "ipa": "/tʃɔr/",
+    "pronunciationHintPtBr": "tchór",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "tarefa doméstica", "definitionEn": "a regular job you have to do at home", "definitionPtBr": "tarefa rotineira que se faz em casa" }
+    ],
+    "exampleEn": "We split the household chores between the three of us.",
+    "examplePtBr": "Nós dividimos as tarefas de casa entre os três.",
+    "dailyUsage": "Muito comum em 'household chores' (afazeres domésticos).",
+    "synonyms": ["task", "duty"],
+    "antonyms": [],
+    "collocations": ["household chores", "do the chores", "daily chores"],
+    "usageNotes": "Pode também significar algo chato de fazer: 'Paperwork is such a chore.'",
+    "tags": ["cotidiano"],
+    "source": "seed"
+  },
+  {
+    "english": "roommate",
+    "translation": "colega de quarto, colega de apartamento",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈrummeɪt/",
+    "pronunciationHintPtBr": "rúmeit",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "colega de quarto", "definitionEn": "a person you share a room or apartment with", "definitionPtBr": "pessoa com quem você divide quarto ou apartamento" }
+    ],
+    "exampleEn": "My roommate and I take turns cooking during the week.",
+    "examplePtBr": "Meu colega de apartamento e eu nos revezamos para cozinhar na semana.",
+    "dailyUsage": "Nos EUA, 'roommate' serve tanto para dividir quarto quanto apartamento inteiro.",
+    "synonyms": ["flatmate", "housemate"],
+    "antonyms": [],
+    "collocations": ["new roommate", "share with a roommate", "roommate agreement"],
+    "usageNotes": "No inglês britânico você ouve mais 'flatmate'.",
+    "tags": ["cotidiano"],
+    "source": "seed"
+  },
+  {
+    "english": "rent",
+    "translation": "aluguel, alugar",
+    "partOfSpeech": "noun",
+    "ipa": "/rent/",
+    "pronunciationHintPtBr": "rént",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "aluguel", "definitionEn": "money paid regularly to use a house or apartment", "definitionPtBr": "dinheiro pago regularmente para usar uma casa ou apartamento" },
+      { "translation": "alugar", "definitionEn": "to pay to use something that belongs to someone else", "definitionPtBr": "pagar para usar algo de outra pessoa" }
+    ],
+    "exampleEn": "The rent is due on the first of every month.",
+    "examplePtBr": "O aluguel vence no dia primeiro de cada mês.",
+    "dailyUsage": "Verbo e substantivo. 'Rent a car' (alugar carro) é muito útil em viagem.",
+    "synonyms": ["lease"],
+    "antonyms": [],
+    "collocations": ["pay rent", "rent is due", "rent a car"],
+    "usageNotes": "'Rent out' é alugar algo para outra pessoa (você é o dono).",
+    "tags": ["cotidiano"],
+    "source": "seed"
+  },
+  {
+    "english": "assignment",
+    "translation": "trabalho, tarefa atribuída",
+    "partOfSpeech": "noun",
+    "ipa": "/əˈsaɪnmənt/",
+    "pronunciationHintPtBr": "assáinment",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "trabalho (escolar)", "definitionEn": "a task given to students by a teacher", "definitionPtBr": "tarefa dada aos alunos pelo professor" },
+      { "translation": "missão de trabalho", "definitionEn": "a job or duty given to someone", "definitionPtBr": "tarefa ou função designada a alguém" }
+    ],
+    "exampleEn": "The teacher gave us a reading assignment for Monday.",
+    "examplePtBr": "O professor passou uma tarefa de leitura para segunda.",
+    "dailyUsage": "No contexto escolar é o 'trabalho' a entregar; no trabalho, a 'missão' designada.",
+    "synonyms": ["task", "homework"],
+    "antonyms": [],
+    "collocations": ["hand in an assignment", "written assignment", "reading assignment"],
+    "usageNotes": "'Hand in' ou 'submit' an assignment é entregar o trabalho.",
+    "tags": ["estudos"],
+    "source": "seed"
+  },
+  {
+    "english": "lecture",
+    "translation": "palestra, aula expositiva",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈlektʃər/",
+    "pronunciationHintPtBr": "léktcher",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "palestra", "definitionEn": "a formal talk given to teach a group of people", "definitionPtBr": "fala formal para ensinar um grupo" },
+      { "translation": "sermão", "definitionEn": "a long serious talk telling someone off", "definitionPtBr": "uma bronca longa e séria" }
+    ],
+    "exampleEn": "The professor's lecture on history ran over an hour.",
+    "examplePtBr": "A aula do professor sobre história passou de uma hora.",
+    "dailyUsage": "No dia a dia, 'don't lecture me' é 'não fica me dando sermão'.",
+    "synonyms": ["talk", "presentation"],
+    "antonyms": [],
+    "collocations": ["attend a lecture", "give a lecture", "lecture hall"],
+    "usageNotes": "Como verbo, 'lecture someone' costuma ter o sentido de repreender.",
+    "tags": ["estudos"],
+    "source": "seed"
+  },
+  {
+    "english": "semester",
+    "translation": "semestre",
+    "partOfSpeech": "noun",
+    "ipa": "/sɪˈmestər/",
+    "pronunciationHintPtBr": "siméster",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "semestre", "definitionEn": "one of the two main periods in a school year", "definitionPtBr": "um dos dois períodos principais do ano letivo" }
+    ],
+    "exampleEn": "I'm taking four courses this semester.",
+    "examplePtBr": "Estou cursando quatro disciplinas neste semestre.",
+    "dailyUsage": "Palavra bem americana no ensino. 'Fall semester' e 'spring semester' marcam o calendário.",
+    "synonyms": ["term"],
+    "antonyms": [],
+    "collocations": ["this semester", "fall semester", "semester break"],
+    "usageNotes": "No inglês britânico é mais comum 'term' para o período letivo.",
+    "tags": ["estudos"],
+    "source": "seed"
+  },
+  {
+    "english": "scholarship",
+    "translation": "bolsa de estudos",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈskɑlərʃɪp/",
+    "pronunciationHintPtBr": "skólarship",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "bolsa de estudos", "definitionEn": "money given to a student to pay for education", "definitionPtBr": "dinheiro dado a um estudante para custear os estudos" }
+    ],
+    "exampleEn": "She won a full scholarship to study abroad.",
+    "examplePtBr": "Ela ganhou uma bolsa integral para estudar fora.",
+    "dailyUsage": "'Full scholarship' é bolsa integral; 'partial scholarship' é parcial.",
+    "synonyms": ["grant", "bursary"],
+    "antonyms": [],
+    "collocations": ["win a scholarship", "full scholarship", "apply for a scholarship"],
+    "usageNotes": "Não confunda com 'scholar' (estudioso, acadêmico).",
+    "tags": ["estudos"],
+    "source": "seed"
+  },
+  {
+    "english": "tuition",
+    "translation": "mensalidade, anuidade escolar",
+    "partOfSpeech": "noun",
+    "ipa": "/tuˈɪʃən/",
+    "pronunciationHintPtBr": "tuíshon",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "mensalidade", "definitionEn": "the money you pay for classes at a school or college", "definitionPtBr": "o valor pago pelas aulas em uma escola ou faculdade" }
+    ],
+    "exampleEn": "College tuition keeps going up every year.",
+    "examplePtBr": "A mensalidade da faculdade sobe todo ano.",
+    "dailyUsage": "No inglês americano é o custo da faculdade; costuma vir com 'fees' (taxas).",
+    "synonyms": ["fees"],
+    "antonyms": [],
+    "collocations": ["college tuition", "pay tuition", "tuition fees"],
+    "usageNotes": "No inglês britânico, 'tuition' também pode significar o próprio ensino ou aulas particulares.",
+    "tags": ["estudos"],
+    "source": "seed"
+  },
+  {
+    "english": "landmark",
+    "translation": "ponto de referência, marco",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈlændmɑrk/",
+    "pronunciationHintPtBr": "léndmark",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "ponto de referência", "definitionEn": "a well-known building or place used to find your way", "definitionPtBr": "lugar ou prédio famoso usado para se orientar" },
+      { "translation": "marco", "definitionEn": "an important event that changes things", "definitionPtBr": "acontecimento importante que muda as coisas" }
+    ],
+    "exampleEn": "The old bridge is the most famous landmark in town.",
+    "examplePtBr": "A ponte antiga é o ponto turístico mais famoso da cidade.",
+    "dailyUsage": "Em viagem, você orienta alguém por landmarks: 'Turn left at the big church.'",
+    "synonyms": ["monument"],
+    "antonyms": [],
+    "collocations": ["famous landmark", "historic landmark", "landmark decision"],
+    "usageNotes": "Como adjetivo, 'a landmark decision' é uma decisão histórica, que vira referência.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "souvenir",
+    "translation": "lembrança, recordação",
+    "partOfSpeech": "noun",
+    "ipa": "/ˌsuvəˈnɪr/",
+    "pronunciationHintPtBr": "suvenír",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "lembrança", "definitionEn": "an object you buy to remember a place or trip", "definitionPtBr": "objeto comprado para lembrar de um lugar ou viagem" }
+    ],
+    "exampleEn": "I bought a little magnet as a souvenir from the trip.",
+    "examplePtBr": "Comprei um imãzinho de lembrança da viagem.",
+    "dailyUsage": "Palavra francesa já naturalizada; 'souvenir shop' é a lojinha de lembranças.",
+    "synonyms": ["keepsake", "memento"],
+    "antonyms": [],
+    "collocations": ["buy a souvenir", "souvenir shop", "cheap souvenir"],
+    "usageNotes": "A ênfase cai na última sílaba: 'souve-NIR'.",
+    "tags": ["viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "vaccine",
+    "translation": "vacina",
+    "partOfSpeech": "noun",
+    "ipa": "/vækˈsin/",
+    "pronunciationHintPtBr": "vaksín",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "vacina", "definitionEn": "a substance that protects the body against a disease", "definitionPtBr": "substância que protege o corpo contra uma doença" }
+    ],
+    "exampleEn": "You may need a vaccine before traveling to some countries.",
+    "examplePtBr": "Você pode precisar de uma vacina antes de viajar para alguns países.",
+    "dailyUsage": "O verbo é 'vaccinate' (vacinar) e o ato é 'get vaccinated'.",
+    "synonyms": ["shot", "jab"],
+    "antonyms": [],
+    "collocations": ["get a vaccine", "flu vaccine", "travel vaccine"],
+    "usageNotes": "Na fala informal, 'get a shot' é tomar a vacina (a injeção).",
+    "tags": ["saude", "viagens"],
+    "source": "seed"
+  },
+  {
+    "english": "appointment",
+    "translation": "consulta, compromisso agendado",
+    "partOfSpeech": "noun",
+    "ipa": "/əˈpɔɪntmənt/",
+    "pronunciationHintPtBr": "apóintment",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "consulta", "definitionEn": "an arranged meeting at a set time, often with a doctor", "definitionPtBr": "encontro marcado em horário certo, muitas vezes com médico" }
+    ],
+    "exampleEn": "I need to make an appointment with the doctor.",
+    "examplePtBr": "Preciso marcar uma consulta com o médico.",
+    "dailyUsage": "'Make an appointment' (marcar) e 'cancel an appointment' (desmarcar) são o básico.",
+    "synonyms": ["meeting", "booking"],
+    "antonyms": [],
+    "collocations": ["make an appointment", "doctor's appointment", "cancel an appointment"],
+    "usageNotes": "Serve para médico, dentista ou qualquer reunião com hora marcada.",
+    "tags": ["saude", "cotidiano"],
+    "source": "seed"
+  },
+  {
+    "english": "wound",
+    "translation": "ferida, ferimento",
+    "partOfSpeech": "noun",
+    "ipa": "/wund/",
+    "pronunciationHintPtBr": "uúnd",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "ferida", "definitionEn": "an injury where the skin is cut or broken", "definitionPtBr": "lesão em que a pele é cortada ou rompida" }
+    ],
+    "exampleEn": "The medic cleaned the wound before putting on a bandage.",
+    "examplePtBr": "O médico limpou a ferida antes de colocar o curativo.",
+    "dailyUsage": "Comum em contexto militar e de saúde. Como verbo, 'to wound' é ferir.",
+    "synonyms": ["injury", "cut"],
+    "antonyms": [],
+    "collocations": ["clean a wound", "open wound", "treat a wound"],
+    "usageNotes": "O substantivo 'wound' rima com 'mooned'; não confunda com 'wound' (passado de wind), que soa diferente.",
+    "tags": ["saude", "exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "drill",
+    "translation": "treinamento, exercício repetitivo",
+    "partOfSpeech": "noun",
+    "ipa": "/drɪl/",
+    "pronunciationHintPtBr": "dril",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "treinamento", "definitionEn": "a repeated exercise to practice a skill, often in the army", "definitionPtBr": "exercício repetido para treinar uma habilidade, comum no exército" },
+      { "translation": "simulado", "definitionEn": "a practice for an emergency, like a fire drill", "definitionPtBr": "ensaio para uma emergência, como um simulado de incêndio" }
+    ],
+    "exampleEn": "The sergeant put the recruits through a morning drill.",
+    "examplePtBr": "O sargento fez os recrutas passarem por um treino de manhã.",
+    "dailyUsage": "'Fire drill' é simulado de incêndio. Como verbo, 'drill' é treinar à exaustão.",
+    "synonyms": ["exercise", "practice"],
+    "antonyms": [],
+    "collocations": ["military drill", "fire drill", "drill practice"],
+    "usageNotes": "A mesma palavra também significa furadeira, mas o contexto deixa claro.",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "ambush",
+    "translation": "emboscada, emboscar",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈæmbʊʃ/",
+    "pronunciationHintPtBr": "émbush",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "emboscada", "definitionEn": "a surprise attack from a hidden position", "definitionPtBr": "ataque de surpresa a partir de um esconderijo" }
+    ],
+    "exampleEn": "The patrol walked straight into an ambush.",
+    "examplePtBr": "A patrulha caiu direto numa emboscada.",
+    "dailyUsage": "Pode ser verbo: 'they ambushed the convoy' (emboscaram o comboio).",
+    "synonyms": ["trap", "surprise attack"],
+    "antonyms": [],
+    "collocations": ["set an ambush", "walk into an ambush", "ambush the enemy"],
+    "usageNotes": "Em sentido figurado, 'ambush someone with questions' é pegar alguém de surpresa.",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "retreat",
+    "translation": "recuar, retirada",
+    "partOfSpeech": "verb",
+    "ipa": "/rɪˈtrit/",
+    "pronunciationHintPtBr": "ritrít",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "recuar", "definitionEn": "to move back away from danger or an enemy", "definitionPtBr": "mover-se para trás, para longe do perigo ou do inimigo" },
+      { "translation": "retiro", "definitionEn": "a quiet place or time away from normal life", "definitionPtBr": "lugar ou período tranquilo longe da rotina" }
+    ],
+    "exampleEn": "The troops were ordered to retreat to safer ground.",
+    "examplePtBr": "As tropas receberam ordem de recuar para um terreno mais seguro.",
+    "dailyUsage": "Como substantivo, 'a weekend retreat' é um retiro de fim de semana para descansar.",
+    "synonyms": ["withdraw", "fall back"],
+    "antonyms": ["advance", "attack"],
+    "collocations": ["order a retreat", "beat a retreat", "retreat to safety"],
+    "usageNotes": "'Beat a retreat' é uma expressão que significa recuar depressa.",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "squat",
+    "translation": "agachamento, agachar",
+    "partOfSpeech": "noun",
+    "ipa": "/skwɑt/",
+    "pronunciationHintPtBr": "skuót",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "agachamento", "definitionEn": "an exercise where you bend your knees and lower your body", "definitionPtBr": "exercício em que você dobra os joelhos e abaixa o corpo" }
+    ],
+    "exampleEn": "Add a few squats to your routine for stronger legs.",
+    "examplePtBr": "Inclua alguns agachamentos na sua rotina para fortalecer as pernas.",
+    "dailyUsage": "Como verbo, 'squat down' é agachar. No plural, 'do squats' é fazer agachamentos.",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": ["do squats", "deep squat", "squat down"],
+    "usageNotes": "Mantenha as costas retas ao fazer, mas isso é dica de treino, não de idioma.",
+    "tags": ["fitness"],
+    "source": "seed"
+  },
+  {
+    "english": "lunge",
+    "translation": "afundo (exercício), avançar",
+    "partOfSpeech": "noun",
+    "ipa": "/lʌndʒ/",
+    "pronunciationHintPtBr": "lãndj",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "afundo", "definitionEn": "an exercise where you step forward and bend one knee", "definitionPtBr": "exercício em que você dá um passo à frente e dobra um joelho" },
+      { "translation": "arremeter", "definitionEn": "to move forward suddenly and strongly", "definitionPtBr": "avançar de repente e com força" }
+    ],
+    "exampleEn": "Three sets of lunges really work your legs.",
+    "examplePtBr": "Três séries de afundos trabalham bem as pernas.",
+    "dailyUsage": "No treino, 'do lunges'. Fora da academia, 'lunge at someone' é dar um bote em alguém.",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": ["do lunges", "forward lunge", "lunge at"],
+    "usageNotes": "O 'g' tem som de 'dj', como em 'judge'.",
+    "tags": ["fitness"],
+    "source": "seed"
+  },
+  {
+    "english": "plank",
+    "translation": "prancha (exercício)",
+    "partOfSpeech": "noun",
+    "ipa": "/plæŋk/",
+    "pronunciationHintPtBr": "plénk",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "prancha", "definitionEn": "an exercise where you hold your body straight on your forearms", "definitionPtBr": "exercício em que você segura o corpo reto apoiado nos antebraços" }
+    ],
+    "exampleEn": "Try to hold a plank for sixty seconds.",
+    "examplePtBr": "Tente segurar a prancha por sessenta segundos.",
+    "dailyUsage": "A expressão típica é 'hold a plank' (segurar a prancha).",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": ["hold a plank", "side plank", "plank position"],
+    "usageNotes": "Fora do fitness, 'plank' é uma tábua de madeira.",
+    "tags": ["fitness"],
+    "source": "seed"
+  },
+  {
+    "english": "sit-up",
+    "translation": "abdominal (exercício)",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈsɪt ʌp/",
+    "pronunciationHintPtBr": "sít áp",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "abdominal", "definitionEn": "an exercise where you lie down and lift your upper body", "definitionPtBr": "exercício em que você deita e levanta o tronco" }
+    ],
+    "exampleEn": "He does fifty sit-ups every morning.",
+    "examplePtBr": "Ele faz cinquenta abdominais toda manhã.",
+    "dailyUsage": "Use no plural com 'do': 'do sit-ups'. Sempre com hífen como substantivo.",
+    "synonyms": ["crunch"],
+    "antonyms": [],
+    "collocations": ["do sit-ups", "fifty sit-ups", "crunches and sit-ups"],
+    "usageNotes": "Não confunda com o phrasal verb 'sit up' (sentar-se ereto), sem hífen.",
+    "tags": ["fitness"],
+    "source": "seed"
+  },
+  {
+    "english": "landlord",
+    "translation": "locador, dono do imóvel, senhorio",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈlændlɔrd/",
+    "pronunciationHintPtBr": "léndlord",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "dono do imóvel", "definitionEn": "a person who owns a property and rents it to others", "definitionPtBr": "pessoa que é dona de um imóvel e o aluga a outros" }
+    ],
+    "exampleEn": "The landlord raised the rent again this year.",
+    "examplePtBr": "O dono do imóvel aumentou o aluguel de novo este ano.",
+    "dailyUsage": "A pessoa que aluga de você é o 'tenant' (inquilino); você paga ao 'landlord'.",
+    "synonyms": ["property owner"],
+    "antonyms": ["tenant"],
+    "collocations": ["strict landlord", "landlord and tenant", "pay the landlord"],
+    "usageNotes": "A versão feminina 'landlady' existe, mas 'landlord' é usado para ambos cada vez mais.",
+    "tags": ["cotidiano"],
+    "source": "seed"
+  },
+  {
+    "english": "degree",
+    "translation": "diploma, grau",
+    "partOfSpeech": "noun",
+    "ipa": "/dɪˈɡri/",
+    "pronunciationHintPtBr": "digrí",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "diploma universitário", "definitionEn": "a qualification given by a university after you finish a course", "definitionPtBr": "título dado pela universidade ao concluir um curso" },
+      { "translation": "grau", "definitionEn": "a unit for measuring temperature or angles", "definitionPtBr": "unidade para medir temperatura ou ângulos" }
+    ],
+    "exampleEn": "She earned a degree in computer science.",
+    "examplePtBr": "Ela se formou com um diploma em ciência da computação.",
+    "dailyUsage": "'Get a degree' ou 'earn a degree' é formar-se. Também é grau de temperatura.",
+    "synonyms": ["qualification"],
+    "antonyms": [],
+    "collocations": ["college degree", "earn a degree", "degree in"],
+    "usageNotes": "Em outro sentido, 'to some degree' significa 'até certo ponto'.",
+    "tags": ["estudos"],
+    "source": "seed"
+  },
+  {
+    "english": "first aid",
+    "translation": "primeiros socorros",
+    "partOfSpeech": "noun",
+    "ipa": "/ˌfɜrst ˈeɪd/",
+    "pronunciationHintPtBr": "férst êid",
+    "cefr": "B1",
+    "meanings": [
+      { "translation": "primeiros socorros", "definitionEn": "basic medical help given right after an injury", "definitionPtBr": "atendimento médico básico logo após uma lesão" }
+    ],
+    "exampleEn": "Every soldier is trained to give basic first aid.",
+    "examplePtBr": "Todo soldado é treinado para prestar primeiros socorros básicos.",
+    "dailyUsage": "A caixa de kit é o 'first aid kit', item comum em viagem e no exército.",
+    "synonyms": ["emergency care"],
+    "antonyms": [],
+    "collocations": ["give first aid", "first aid kit", "first aid training"],
+    "usageNotes": "Sempre no singular: 'first aid', nunca 'first aids'.",
+    "tags": ["saude", "expressao"],
+    "source": "seed"
+  },
+  {
+    "english": "cram",
+    "translation": "estudar na última hora, enfiar",
+    "partOfSpeech": "verb",
+    "ipa": "/kræm/",
+    "pronunciationHintPtBr": "krém",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "estudar na última hora", "definitionEn": "to study hard in a short time just before a test", "definitionPtBr": "estudar muito em pouco tempo pouco antes de uma prova" },
+      { "translation": "enfiar, abarrotar", "definitionEn": "to force too many things into a small space", "definitionPtBr": "forçar coisas demais num espaço pequeno" }
+    ],
+    "exampleEn": "I stayed up all night cramming for the exam.",
+    "examplePtBr": "Virei a noite estudando às pressas para a prova.",
+    "dailyUsage": "'Cram for a test' é o clássico estudo de véspera. Também 'cram clothes into a bag'.",
+    "synonyms": ["stuff", "pack"],
+    "antonyms": [],
+    "collocations": ["cram for an exam", "cram the night before", "cram into"],
+    "usageNotes": "Tem um tom informal; evite em textos muito formais.",
+    "tags": ["estudos"],
+    "source": "seed"
+  },
+  {
+    "english": "curriculum",
+    "translation": "currículo (grade de matérias), programa de ensino",
+    "partOfSpeech": "noun",
+    "ipa": "/kəˈrɪkjələm/",
+    "pronunciationHintPtBr": "kiríkiulam",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "grade curricular", "definitionEn": "the set of subjects taught in a school or course", "definitionPtBr": "o conjunto de matérias ensinadas numa escola ou curso" }
+    ],
+    "exampleEn": "The new curriculum includes a coding class.",
+    "examplePtBr": "A nova grade curricular inclui uma aula de programação.",
+    "dailyUsage": "Atenção ao falso amigo: 'curriculum' é a grade de matérias, não o seu CV (que é 'resume' nos EUA).",
+    "synonyms": ["syllabus", "program"],
+    "antonyms": [],
+    "collocations": ["school curriculum", "core curriculum", "design a curriculum"],
+    "usageNotes": "O plural culto é 'curricula', mas 'curriculums' também é aceito.",
+    "tags": ["estudos"],
+    "source": "seed"
+  },
+  {
+    "english": "acclimate",
+    "translation": "aclimatar-se, adaptar-se",
+    "partOfSpeech": "verb",
+    "ipa": "/ˈækləmeɪt/",
+    "pronunciationHintPtBr": "áklimeit",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "aclimatar-se", "definitionEn": "to get used to a new place, climate or situation", "definitionPtBr": "acostumar-se a um novo lugar, clima ou situação" }
+    ],
+    "exampleEn": "It took me a week to acclimate to the altitude.",
+    "examplePtBr": "Levei uma semana para me adaptar à altitude.",
+    "dailyUsage": "Muito usado em viagem e para novos ambientes. No inglês britânico, 'acclimatize'.",
+    "synonyms": ["adjust", "adapt"],
+    "antonyms": [],
+    "collocations": ["acclimate to", "acclimate to the climate", "time to acclimate"],
+    "usageNotes": "Costuma vir com a preposição 'to': 'acclimate to the heat'.",
+    "tags": ["viagens", "saude"],
+    "source": "seed"
+  },
+  {
+    "english": "chronic",
+    "translation": "crônico",
+    "partOfSpeech": "adjective",
+    "ipa": "/ˈkrɑnɪk/",
+    "pronunciationHintPtBr": "krónik",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "crônico", "definitionEn": "continuing for a long time, usually about illness", "definitionPtBr": "que dura muito tempo, geralmente sobre doença" }
+    ],
+    "exampleEn": "He deals with chronic back pain from an old injury.",
+    "examplePtBr": "Ele convive com uma dor crônica nas costas de uma lesão antiga.",
+    "dailyUsage": "O oposto é 'acute' (agudo, intenso e breve). 'Chronic' é longo e persistente.",
+    "synonyms": ["persistent", "long-term"],
+    "antonyms": ["acute", "temporary"],
+    "collocations": ["chronic pain", "chronic illness", "chronic condition"],
+    "usageNotes": "Fora da saúde, 'a chronic shortage' é uma falta persistente de algo.",
+    "tags": ["saude"],
+    "source": "seed"
+  },
+  {
+    "english": "diagnosis",
+    "translation": "diagnóstico",
+    "partOfSpeech": "noun",
+    "ipa": "/ˌdaɪəɡˈnoʊsɪs/",
+    "pronunciationHintPtBr": "daiagnôussis",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "diagnóstico", "definitionEn": "the doctor's judgment about what illness someone has", "definitionPtBr": "a conclusão do médico sobre qual doença a pessoa tem" }
+    ],
+    "exampleEn": "The doctor made a clear diagnosis after the tests.",
+    "examplePtBr": "O médico fez um diagnóstico claro depois dos exames.",
+    "dailyUsage": "O verbo é 'diagnose' (diagnosticar): 'She was diagnosed with the flu.'",
+    "synonyms": ["assessment"],
+    "antonyms": [],
+    "collocations": ["make a diagnosis", "early diagnosis", "wrong diagnosis"],
+    "usageNotes": "O plural é 'diagnoses', com som de 'ii' no final.",
+    "tags": ["saude"],
+    "source": "seed"
+  },
+  {
+    "english": "ceasefire",
+    "translation": "cessar-fogo, trégua",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈsisfaɪr/",
+    "pronunciationHintPtBr": "sísfair",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "cessar-fogo", "definitionEn": "an agreement to stop fighting, at least for a time", "definitionPtBr": "acordo para parar de lutar, ao menos por um tempo" }
+    ],
+    "exampleEn": "Both sides agreed to a ceasefire at midnight.",
+    "examplePtBr": "Os dois lados aceitaram um cessar-fogo à meia-noite.",
+    "dailyUsage": "Palavra forte em notícias. 'Call a ceasefire' é declarar a trégua.",
+    "synonyms": ["truce"],
+    "antonyms": [],
+    "collocations": ["agree to a ceasefire", "call a ceasefire", "break the ceasefire"],
+    "usageNotes": "'Break the ceasefire' é romper a trégua, voltando ao conflito.",
+    "tags": ["exercito"],
+    "source": "seed"
+  },
+  {
+    "english": "plateau",
+    "translation": "estagnação, platô",
+    "partOfSpeech": "noun",
+    "ipa": "/plæˈtoʊ/",
+    "pronunciationHintPtBr": "platô",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "platô", "definitionEn": "a point where progress stops after a period of improvement", "definitionPtBr": "ponto em que o progresso para depois de uma fase de melhora" }
+    ],
+    "exampleEn": "My training hit a plateau and the weight stopped dropping.",
+    "examplePtBr": "Meu treino estagnou e o peso parou de cair.",
+    "dailyUsage": "Comum em fitness e aprendizado: 'hit a plateau' é empacar depois de evoluir.",
+    "synonyms": ["standstill"],
+    "antonyms": [],
+    "collocations": ["hit a plateau", "reach a plateau", "break through a plateau"],
+    "usageNotes": "Também é verbo: 'progress plateaued' (o progresso estagnou).",
+    "tags": ["fitness", "estudos"],
+    "source": "seed"
+  },
+  {
+    "english": "burnout",
+    "translation": "esgotamento, exaustão",
+    "partOfSpeech": "noun",
+    "ipa": "/ˈbɜrnaʊt/",
+    "pronunciationHintPtBr": "bérnaut",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "esgotamento", "definitionEn": "extreme tiredness caused by too much work or stress", "definitionPtBr": "cansaço extremo causado por excesso de trabalho ou estresse" }
+    ],
+    "exampleEn": "Taking no breaks for months led to serious burnout.",
+    "examplePtBr": "Ficar meses sem pausa levou a um esgotamento sério.",
+    "dailyUsage": "Palavra central em saúde mental no trabalho. O verbo relacionado é 'burn out' (esgotar-se).",
+    "synonyms": ["exhaustion"],
+    "antonyms": [],
+    "collocations": ["avoid burnout", "suffer burnout", "job burnout"],
+    "usageNotes": "O substantivo é uma palavra só; o phrasal verb 'burn out' vem separado.",
+    "tags": ["saude", "trabalho"],
+    "source": "seed"
+  },
+  {
+    "english": "unwind",
+    "translation": "relaxar, desligar",
+    "partOfSpeech": "verb",
+    "ipa": "/ʌnˈwaɪnd/",
+    "pronunciationHintPtBr": "anuáind",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "relaxar", "definitionEn": "to rest and stop feeling worried or tense", "definitionPtBr": "descansar e deixar de se sentir preocupado ou tenso" }
+    ],
+    "exampleEn": "I like to unwind with a book after a long day.",
+    "examplePtBr": "Gosto de relaxar com um livro depois de um dia longo.",
+    "dailyUsage": "Soa mais natural e maduro do que só 'relax' quando a ideia é desacelerar à noite.",
+    "synonyms": ["relax", "de-stress"],
+    "antonyms": ["tense up"],
+    "collocations": ["unwind after work", "help you unwind", "unwind with"],
+    "usageNotes": "Verbo irregular: passado 'unwound'. Literalmente também significa desenrolar algo.",
+    "tags": ["cotidiano", "saude"],
+    "source": "seed"
+  },
+  {
+    "english": "rehabilitation",
+    "translation": "reabilitação",
+    "partOfSpeech": "noun",
+    "ipa": "/ˌrihəˌbɪlɪˈteɪʃən/",
+    "pronunciationHintPtBr": "riirabilitêishon",
+    "cefr": "B2",
+    "meanings": [
+      { "translation": "reabilitação", "definitionEn": "the process of recovering health or ability after injury", "definitionPtBr": "o processo de recuperar a saúde ou a capacidade após uma lesão" }
+    ],
+    "exampleEn": "After surgery, he started a long rehabilitation program.",
+    "examplePtBr": "Depois da cirurgia, ele começou um longo programa de reabilitação.",
+    "dailyUsage": "A forma curta e muito usada é 'rehab' (tanto para lesão quanto para dependência).",
+    "synonyms": ["recovery", "rehab"],
+    "antonyms": [],
+    "collocations": ["physical rehabilitation", "rehabilitation program", "undergo rehabilitation"],
+    "usageNotes": "'Rehab' serve tanto para fisioterapia quanto para tratamento de dependências.",
+    "tags": ["saude", "exercito"],
+    "source": "seed"
+  }
+]
